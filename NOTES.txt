@@ -1,0 +1,14 @@
+Paquets installés sur une debian pour pouvoir tester en local:
+- ruby
+- python-pygments
+- ruby-maruku
+- ruby-liquid
+
+# installation de jekyll:
+gem install jekyll
+
+# compilation du site
+cd .../loops
+jekyll
+
+# => le site est consultable dans _site/
