@@ -20,3 +20,6 @@ git push
 
 # Doc sur jekyll
 https://github.com/mojombo/jekyll/wiki/template-data
+
+# Pour générer la feuille de style:
+essc less/bootstrap.less > style.css
