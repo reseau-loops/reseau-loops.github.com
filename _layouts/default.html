@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% if page.title %}
+    <title>{{ page.title }} - {{ site.title }}</title>
+  {% else %}
+    <title>{{ site.title }}</title>
+  {% endif %}
+
+  <meta name="author" content="Réseau LoOPS" />
+  <meta name="description" content="Réseau local LoOPS" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <link href="{{ site.url }}/style.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+{% include menubar.html %}
+<div class="container">
+<div id="page">
+      {{content}}
+</div>
+</div>
+</body>
+</html>

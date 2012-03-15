@@ -1,0 +1,6 @@
+permalink: /:year/:month/:day/:title
+paginate: 10
+exclude: ["Rakefile", "LICENSE.txt", "CNAME"]
+title: LoOPS
+url: http://reseau-loops.github.com
+markdown: rdiscount
