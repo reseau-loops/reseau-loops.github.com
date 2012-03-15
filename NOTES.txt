@@ -7,8 +7,16 @@ Paquets installés sur une debian pour pouvoir tester en local:
 # installation de jekyll:
 gem install jekyll
 
-# compilation du site
+# compilation du site pour test en local
 cd .../loops
-jekyll
+jekyll --url file://`pwd`/_site
 
 # => le site est consultable dans _site/
+
+# mise en ligne:
+git commit ...
+git push
+# => github lancera automatiquement jekyll après le commit
+
+# Doc sur jekyll
+https://github.com/mojombo/jekyll/wiki/template-data
