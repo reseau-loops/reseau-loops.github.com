@@ -3364,11 +3364,11 @@ a.thumbnail:hover {
 }
 /*.container { margin-top: @navbarHeight ;}*/
 div#page {
-  margin-top: 40px;
+  margin-top: 50px;
 }
 div#disqus_thread {
   margin-top: 1.5em ;
 }
-a.twitter-follow-button {
+.twitter-follow-button {
   margin-top: 5px;
 }
