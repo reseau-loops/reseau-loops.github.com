@@ -1,7 +1,7 @@
 {% for post in posts limit: listing_limit %}
   <h2><a href="{{site.url}}{{ post.url }}" class="dark-link">{{ post.title }}</a></h2>
   <h4 class="low-top">
-    Publié le {{ post.date | date: "%m-%d-%Y" }}
+    Publié le {{ post.date | date: "%d-%m-%Y" }}
     {% unless no_category %}
       {% if post.category %}
         in <a href="/categories/{{ post.category | slugize }}">{{ post.category }}</a>
