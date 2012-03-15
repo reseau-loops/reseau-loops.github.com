@@ -12,4 +12,7 @@ navbar-blog: active
   <div class="content">
     {{ content }}
   </div>
+  {% unless page.no_comments %}
+    {% include disqus-comments.html %}
+  {% endunless %}
 </div>

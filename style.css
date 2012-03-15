@@ -3366,3 +3366,6 @@ a.thumbnail:hover {
 div#page {
   margin-top: 40px;
 }
+div#disqus_thread {
+  margin-top: 1.5em ;
+}
