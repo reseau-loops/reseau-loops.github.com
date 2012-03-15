@@ -1,5 +1,26 @@
 ---
 layout: default
 no_sidebar: true
+navbar-home: active
 ---
-<h1>coucou</h1>
+<h1>Bienvenue sur le site de LoOPS</h1>
+<p>
+LoOPS est le réseau des développeurs de logiciels scientifiques
+dans les établissements de l'enseignement supérieur et la recherche
+situés sur les communes suivantes:
+</p>
+<ul>
+<li>Gif sur Yvette,</li>
+<li>Jouy-en-Josas,</li>
+<li>Orsay,</li>
+<li>Palaiseau,</li>
+<li>Saclay,</li>
+<li>St Aubin.</li>
+</ul>
+
+<h2>Dernières nouvelles</h2>
+
+{% assign posts = site.posts %}
+{% assign listing_limit = 5 %}
+{% include post-listing.html %}
+
