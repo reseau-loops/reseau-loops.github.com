@@ -14,10 +14,18 @@
    height="191.36"
    id="svg3986"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="logo.svg">
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="logo5.svg">
   <defs
-     id="defs3988" />
+     id="defs3988">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 95.68 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="317.09 : 95.68 : 1"
+       inkscape:persp3d-origin="158.545 : 63.786667 : 1"
+       id="perspective19" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,16 +33,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
+     inkscape:zoom="1.979899"
      inkscape:cx="203.26801"
-     inkscape:cy="156.34508"
+     inkscape:cy="90.79515"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="769"
-     inkscape:window-height="661"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1121"
+     inkscape:window-height="737"
+     inkscape:window-x="84"
+     inkscape:window-y="25"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata3991">
@@ -44,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,37 +96,38 @@
     <text
        xml:space="preserve"
        style="font-size:114.56915283px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:Domestic Manners;-inkscape-font-specification:Domestic Manners"
-       x="2.7342713"
-       y="994.7876"
+       x="-1.3063389"
+       y="995.79773"
        id="text3851"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3853"
-         x="2.7342713"
-         y="994.7876">L</tspan></text>
+         x="-1.3063389"
+         y="995.79773">L</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:114.56915283px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:Domestic Manners;-inkscape-font-specification:Domestic Manners"
-       x="190.16283"
-       y="984.7876"
+       style="font-size:110.78063965px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:Domestic Manners;-inkscape-font-specification:Domestic Manners"
+       x="196.37775"
+       y="952.71149"
        id="text3855"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.96693251,1.0341983)"><tspan
          sodipodi:role="line"
          id="tspan3857"
-         x="190.16283"
-         y="984.7876">PS</tspan></text>
+         x="196.37775"
+         y="952.71149">PS</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:186.41925049px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:GFS Baskerville;-inkscape-font-specification:GFS Baskerville"
-       x="861.7793"
-       y="-14.022918"
+       x="-148.42258"
+       y="-838.28931"
        id="text3009-10"
        sodipodi:linespacing="125%"
-       transform="matrix(0.05328584,0.9985793,-0.9985793,0.05328584,0,0)"><tspan
+       transform="matrix(-0.9985793,0.05328584,-0.05328584,-0.9985793,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3918"
-         x="861.7793"
-         y="-14.022918">(</tspan></text>
+         x="-148.42258"
+         y="-838.28931">~</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:186.41925049px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:GFS Baskerville;-inkscape-font-specification:GFS Baskerville"
