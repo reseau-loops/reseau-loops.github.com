@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="317.09"
-   height="191.36"
+   width="316.09"
+   height="198.36"
    id="svg3986"
    version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="logo5.svg">
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="logo.svg">
   <defs
      id="defs3988">
     <inkscape:perspective
@@ -60,17 +60,17 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-860.99372)">
+     transform="translate(0,-853.99372)">
     <text
        xml:space="preserve"
        style="font-size:114.56915283px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace Italic"
-       x="54.614674"
+       x="60.614674"
        y="989.49426"
        id="text2989"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3849"
-         x="54.614674"
+         x="60.614674"
          y="989.49426">oO</tspan></text>
     <path
        sodipodi:type="arc"
@@ -81,7 +81,7 @@
        sodipodi:rx="7.8571429"
        sodipodi:ry="9.2857141"
        d="m 312.74132,578.77213 c 4.15622,-1.47424 8.53674,1.31253 9.78417,6.22442 1.24744,4.91189 -1.1106,10.08887 -5.26681,11.56311 -4.15622,1.47424 -8.53674,-1.31253 -9.78417,-6.22442 -1.01259,-3.98714 0.34387,-8.28346 3.31893,-10.51217 L 315,587.66589 z"
-       transform="translate(-150.69428,342.69318)"
+       transform="translate(-144.69428,342.69318)"
        sodipodi:start="4.4208067"
        sodipodi:end="10.430617" />
     <use
@@ -96,43 +96,43 @@
     <text
        xml:space="preserve"
        style="font-size:114.56915283px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:Domestic Manners;-inkscape-font-specification:Domestic Manners"
-       x="-1.3063389"
+       x="4.6936612"
        y="995.79773"
        id="text3851"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3853"
-         x="-1.3063389"
+         x="4.6936612"
          y="995.79773">L</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:110.78063965px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:Domestic Manners;-inkscape-font-specification:Domestic Manners"
-       x="196.37775"
+       x="202.58292"
        y="952.71149"
        id="text3855"
        sodipodi:linespacing="125%"
-       transform="scale(0.96693251,1.0341983)"><tspan
+       transform="scale(0.96693255,1.0341983)"><tspan
          sodipodi:role="line"
          id="tspan3857"
-         x="196.37775"
+         x="202.58292"
          y="952.71149">PS</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:186.41925049px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:GFS Baskerville;-inkscape-font-specification:GFS Baskerville"
-       x="-148.42258"
-       y="-838.28931"
+       x="-154.41406"
+       y="-838.60901"
        id="text3009-10"
        sodipodi:linespacing="125%"
        transform="matrix(-0.9985793,0.05328584,-0.05328584,-0.9985793,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3918"
-         x="-148.42258"
-         y="-838.28931">~</tspan></text>
+         x="-154.41406"
+         y="-838.60901">~</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:186.41925049px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:GFS Baskerville;-inkscape-font-specification:GFS Baskerville"
-       x="-1059.1381"
-       y="170.08055"
+       x="-1059.2336"
+       y="176.07977"
        id="text3009-10-1"
        sodipodi:linespacing="125%"
        transform="matrix(-0.01593401,-0.99987305,0.99987305,-0.01593401,0,0)"
@@ -140,7 +140,7 @@
        inkscape:transform-center-y="84.285714"><tspan
          sodipodi:role="line"
          id="tspan3918-3"
-         x="-1059.1381"
-         y="170.08055">(</tspan></text>
+         x="-1059.2336"
+         y="176.07977">(</tspan></text>
   </g>
 </svg>
