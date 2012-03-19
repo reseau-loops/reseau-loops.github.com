@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,31 +109,25 @@
          id="path2997"
          inkscape:connector-curvature="0" />
     </g>
-    <text
-       xml:space="preserve"
+    <g
+       transform="matrix(0.05328584,0.9985793,-0.9985793,0.05328584,0,0)"
        style="font-size:186.41925049px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:GFS Baskerville;-inkscape-font-specification:GFS Baskerville"
-       x="861.7793"
-       y="-14.022918"
-       id="text3009-10"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.05328584,0.9985793,-0.9985793,0.05328584,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3918"
-         x="861.7793"
-         y="-14.022918">(</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:186.41925049px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:GFS Baskerville;-inkscape-font-specification:GFS Baskerville"
-       x="-1059.1381"
-       y="170.08055"
-       id="text3009-10-1"
-       sodipodi:linespacing="125%"
+       id="text3009-10">
+      <path
+         d="m 905.96066,-5.0747937 3.54196,-2.982708 c -8.76169,-11.7444013 -14.91354,-21.8110613 -18.08266,-30.5727573 -3.35555,-9.320953 -5.03332,-21.065389 -5.03332,-35.046819 0,-27.590022 8.01604,-50.146792 24.04808,-67.856612 l -3.35555,-3.16912 c -21.99744,21.06535 -32.9962,44.55422 -32.9962,70.466474 0,14.354268 2.98271,26.844383 8.94812,37.843108 2.60987,4.660477 10.25307,15.099976 22.92957,31.3184343"
+         style=""
+         id="path3001" />
+    </g>
+    <g
        transform="matrix(-0.01593401,-0.99987305,0.99987305,-0.01593401,0,0)"
        inkscape:transform-center-x="-70.094761"
-       inkscape:transform-center-y="84.285714"><tspan
-         sodipodi:role="line"
-         id="tspan3918-3"
-         x="-1059.1381"
-         y="170.08055">(</tspan></text>
+       inkscape:transform-center-y="84.285714"
+       style="font-size:186.41925049px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6279d4;fill-opacity:1;stroke:none;font-family:GFS Baskerville;-inkscape-font-specification:GFS Baskerville"
+       id="text3009-10-1">
+      <path
+         d="m -1014.9567,179.02868 3.542,-2.98271 c -8.7617,-11.7444 -14.9136,-21.81106 -18.0827,-30.57276 -3.3555,-9.32095 -5.0333,-21.06539 -5.0333,-35.04682 0,-27.59002 8.016,-50.146795 24.0481,-67.856606 l -3.3556,-3.169127 c -21.9974,21.065354 -32.9962,44.554226 -32.9962,70.466473 0,14.35427 2.9827,26.84439 8.9481,37.84311 2.6099,4.66048 10.2531,15.09998 22.9296,31.31844"
+         style=""
+         id="path2998" />
+    </g>
   </g>
 </svg>
