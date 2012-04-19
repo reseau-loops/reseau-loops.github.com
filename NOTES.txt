@@ -9,7 +9,7 @@ gem install jekyll
 
 # compilation du site pour test en local
 cd .../loops
-jekyll --url file://`pwd`/_site
+jekyll --url file://`pwd`/_site/
 
 # => le site est consultable dans _site/
 
