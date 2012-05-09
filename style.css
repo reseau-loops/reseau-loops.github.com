@@ -337,7 +337,7 @@ h2 small {
   font-size: 18px;
 }
 h3 {
-  line-height: 27px;
+  line-height: 32.4px;
   font-size: 18px;
 }
 h3 small {
@@ -3571,4 +3571,7 @@ h1 {
 }
 .prog-parallel {
   text-align: center ;
+}
+*:target {
+  background: yellow;
 }
