@@ -332,6 +332,7 @@ h1 small {
 h2 {
   font-size: 24px;
   line-height: 36px;
+  margin-top: 0.6em;
 }
 h2 small {
   font-size: 18px;
@@ -339,6 +340,7 @@ h2 small {
 h3 {
   line-height: 32.4px;
   font-size: 18px;
+  margin-top: 0.4em;
 }
 h3 small {
   font-size: 14px;
