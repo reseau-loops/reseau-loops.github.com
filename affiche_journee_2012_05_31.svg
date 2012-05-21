@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.94"
-     inkscape:cx="377.8134"
-     inkscape:cy="697.04272"
+     inkscape:cx="379.94106"
+     inkscape:cy="441.72357"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -150,7 +150,7 @@
            height="189.10892"
            x="116.83168"
            y="89.985947" /></flowRegion><flowPara
-         id="flowPara3218"></flowPara></flowRoot>    <text
+         id="flowPara3218" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
        x="446.53467"
@@ -205,36 +205,40 @@
     <text
        sodipodi:linespacing="125%"
        id="text3293-5"
-       y="700.78888"
-       x="16.647779"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       y="696.53357"
+       x="447.49884"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan4331"
-         x="16.647779"
-         y="700.78888">Journée de lancement du réseau le 31 mai</tspan></text>
+         x="447.49884"
+         y="696.53357">Journée de lancement du réseau le 31 mai</tspan><tspan
+         sodipodi:role="line"
+         x="447.49884"
+         y="719.03357"
+         id="tspan3095">(au LAL, bâtiment 200)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3293-5-3"
-       y="731.59265"
+       y="765.59265"
        x="15.874266"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan4253"
          x="15.874266"
-         y="731.59265">Programme et informations:</tspan></text>
+         y="765.59265">Programme et informations:</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3293-5-3-6"
-       y="780.61426"
+       y="796.61426"
        x="66.494186"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan3423"
          x="66.494186"
-         y="780.61426">http://reseau-loops.github.com/</tspan></text>
+         y="796.61426">http://reseau-loops.github.com/</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3293-5-8"
@@ -390,31 +394,7 @@
        y="649.54175"
        x="503.56381"
        id="image4460"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMMAAADDCAIAAACwHTL9AAAAA3NCSVQICAjb4U/gAAAE+UlEQVR4
-nO3dQW7kOBBFwfGg739l954LFgg+UqqZiF3DKkmwP4gsdSr58/v7+w9s+/fpG+A/QpJoSBINSaLx
-Z/j3z8/PnQvvVPrDTQ6nmv906cyD+YV2Dp5/dslTf0FrEg1JoiFJNCSJxlhxD8In4GElOL+rsAB/
-6lThV4prf0FrEg1JoiFJNCSJxoeKe/DUg9qdU51rmwmfcS+V2DvO/QWtSTQkiYYk0ZAkGmsV9zlL
-BengWoPK/LrDwUtfGuaf/QrWJBqSREOSaEgSjbdU3Dul7jU7/RthR8o7WZNoSBINSaIhSTTWKu6X
-dGjMP7t08NxOe/WSsAVl6UIhaxINSaIhSTQkicaHivup9oZz40fOtVefe/txx7W/oDWJhiTRkCQa
-kkRjrLi/ooFh7twD4iU7LShPTRbcYU2iIUk0JImGJNH42enBCJ81Lx38ki7vsJvl2gy/c4/arUk0
-JImGJNGQJBprO+CcKyrDDo3wruanujYmO+wQD2/DDjgcIUk0JImGJNHYmlWyVAnuHHyugXrpuvOD
-d356bgD3XHghaxINSaIhSTQkicbYVRJWguem5V071SD8XX1Fv/zSL9aaREOSaEgSDUmisTUd8Nxj
-66Xr7nR3PDWMJZy+Mndtu05rEg1JoiFJNCSJxoc3J8ejb5W652Zqn3PukXf4teBcN701iYYk0ZAk
-GpJEY20ed/jK4pKn3slcOtXOTjTnZhZeq+WtSTQkiYYk0ZAkGmuzSnZc278x/B4QPrb+ih1wdgab
-WJNoSBINSaIhSTS2ukrOOff2485thDvEzw+ee2dTjTWJhiTRkCQakkRjbVbJh3O9423Ar9hq51zP
-+7WD9XFzhCTRkCQakkRjax734CvGAYazvJ/akPMlkxQH1iQakkRDkmhIEo1yl/dzD5evjRKce+rM
-S859/5hfyJpEQ5JoSBINSaJRvjl5ri7esTNCZLBzk9eaW8Lf5NJtWJNoSBINSaIhSTQ+dJWEvdjX
-HojP7UwyCUvsubAX+9p+QNYkGpJEQ5JoSBKNtT7unUowLHXDCX9Ln11y7X8LlpwrwK1JNCSJhiTR
-kCQaY8V9rta79hR7ft1rg7DntzF37tvJud+GNYmGJNGQJBqSRGPtGfe5do5zG8afa5GeHxx+dhC2
-kcwtfdaaREOSaEgSDUmiUXaVDJbKxrB43/nstXncS8613OzchlklHCFJNCSJhiTR2JpVcm2kX3gb
-czsl9s5M7ac2Hgpvw5pEQ5JoSBINSaKxtsv7h3PdKhuv7eN+ruv5K2Z5m8fNAySJhiTRkCQa5Tzu
-uaf2gD/X9Xzud3WuIWd+Ic+4eZ4k0ZAkGpJE48OsktBTm9osneolr3fOr7v00/mFwqno1iQakkRD
-kmhIEo17z7gHS9M5ru1cPr/uTtW8c+YlT7WEW5NoSBINSaIhSTTKPSfnrm1bs3Pdp/qpw771c9u6
-z89sTaIhSTQkiYYk0RjfnLz2gPipWn7JtcF7194UXbruEmsSDUmiIUk0JInG2jzua85tQTm4thPm
-Tk19bpRgeF1rEg1JoiFJNCSJxlsq7m8cwL10V+Gk7/lPd+556boDaxINSaIhSTQkicbWLu8vEW5M
-M//sjnBmYViAzw/25iQPkCQakkRDkmh8qLifGl3ykqkg5wZ9XOuTubZrjzWJhiTRkCQakkSj3HOS
-/zNrEg1JoiFJNCSJxl9l7JrYYJ2RvQAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMMAAADDCAIAAACwHTL9AAAAA3NCSVQICAjb4U/gAAAE+UlEQVR4 nO3dQW7kOBBFwfGg739l954LFgg+UqqZiF3DKkmwP4gsdSr58/v7+w9s+/fpG+A/QpJoSBINSaLx Z/j3z8/PnQvvVPrDTQ6nmv906cyD+YV2Dp5/dslTf0FrEg1JoiFJNCSJxlhxD8In4GElOL+rsAB/ 6lThV4prf0FrEg1JoiFJNCSJxoeKe/DUg9qdU51rmwmfcS+V2DvO/QWtSTQkiYYk0ZAkGmsV9zlL BengWoPK/LrDwUtfGuaf/QrWJBqSREOSaEgSjbdU3Dul7jU7/RthR8o7WZNoSBINSaIhSTTWKu6X dGjMP7t08NxOe/WSsAVl6UIhaxINSaIhSTQkicaHivup9oZz40fOtVefe/txx7W/oDWJhiTRkCQa kkRjrLi/ooFh7twD4iU7LShPTRbcYU2iIUk0JImGJNH42enBCJ81Lx38ki7vsJvl2gy/c4/arUk0 JImGJNGQJBprO+CcKyrDDo3wruanujYmO+wQD2/DDjgcIUk0JImGJNHYmlWyVAnuHHyugXrpuvOD d356bgD3XHghaxINSaIhSTQkicbYVRJWguem5V071SD8XX1Fv/zSL9aaREOSaEgSDUmisTUd8Nxj 66Xr7nR3PDWMJZy+Mndtu05rEg1JoiFJNCSJxoc3J8ejb5W652Zqn3PukXf4teBcN701iYYk0ZAk GpJEY20ed/jK4pKn3slcOtXOTjTnZhZeq+WtSTQkiYYk0ZAkGmuzSnZc278x/B4QPrb+ih1wdgab WJNoSBINSaIhSTS2ukrOOff2485thDvEzw+ee2dTjTWJhiTRkCQakkRjbVbJh3O9423Ar9hq51zP +7WD9XFzhCTRkCQakkRjax734CvGAYazvJ/akPMlkxQH1iQakkRDkmhIEo1yl/dzD5evjRKce+rM S859/5hfyJpEQ5JoSBINSaJRvjl5ri7esTNCZLBzk9eaW8Lf5NJtWJNoSBINSaIhSTQ+dJWEvdjX HojP7UwyCUvsubAX+9p+QNYkGpJEQ5JoSBKNtT7unUowLHXDCX9Ln11y7X8LlpwrwK1JNCSJhiTR kCQaY8V9rta79hR7ft1rg7DntzF37tvJud+GNYmGJNGQJBqSRGPtGfe5do5zG8afa5GeHxx+dhC2 kcwtfdaaREOSaEgSDUmiUXaVDJbKxrB43/nstXncS8613OzchlklHCFJNCSJhiTR2JpVcm2kX3gb czsl9s5M7ac2Hgpvw5pEQ5JoSBINSaKxtsv7h3PdKhuv7eN+ruv5K2Z5m8fNAySJhiTRkCQa5Tzu uaf2gD/X9Xzud3WuIWd+Ic+4eZ4k0ZAkGpJE48OsktBTm9osneolr3fOr7v00/mFwqno1iQakkRD kmhIEo17z7gHS9M5ru1cPr/uTtW8c+YlT7WEW5NoSBINSaIhSTTKPSfnrm1bs3Pdp/qpw771c9u6 z89sTaIhSTQkiYYk0RjfnLz2gPipWn7JtcF7194UXbruEmsSDUmiIUk0JInG2jzua85tQTm4thPm Tk19bpRgeF1rEg1JoiFJNCSJxlsq7m8cwL10V+Gk7/lPd+556boDaxINSaIhSTQkicbWLu8vEW5M M//sjnBmYViAzw/25iQPkCQakkRDkmh8qLifGl3ykqkg5wZ9XOuTubZrjzWJhiTRkCQakkSj3HOS /zNrEg1JoiFJNCSJxl9l7JrYYJ2RvQAAAABJRU5ErkJggg== "
        height="195"
        width="195" />
     <use
