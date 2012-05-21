@@ -17,7 +17,12 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="affiche_journee_2012_05_31.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3052"
+       is_visible="true" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,8 +31,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.94"
-     inkscape:cx="379.94106"
-     inkscape:cy="441.72357"
+     inkscape:cx="328.9717"
+     inkscape:cy="122.57463"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -442,6 +447,143 @@
        y="0"
        xlink:href="#use4471"
        id="use4473"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:4,4;stroke-dashoffset:0"
+       d="m 38.297872,867.2558 1e-6,184.8404"
+       id="path3050"
+       inkscape:path-effect="#path-effect3052"
+       inkscape:original-d="m 38.297872,867.2558 1e-6,184.8404"
+       inkscape:connector-curvature="0"
+       transform="translate(0,-0.00130762)"
+       sodipodi:nodetypes="cc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3050"
+       id="use3822"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3822"
+       id="use3824"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3824"
+       id="use3826"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3826"
+       id="use3828"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3828"
+       id="use3830"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3830"
+       id="use3832"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3832"
+       id="use3834"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3834"
+       id="use3836"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3836"
+       id="use3838"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3838"
+       id="use3840"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3840"
+       id="use3842"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3842"
+       id="use3844"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3844"
+       id="use3846"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3846"
+       id="use3848"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3848"
+       id="use3850"
+       transform="translate(40,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3850"
+       id="use3852"
        transform="translate(40,0)"
        width="744.09448"
        height="1052.3622" />
