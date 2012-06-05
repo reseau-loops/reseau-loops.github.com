@@ -1,0 +1,137 @@
+---
+layout: post
+title: LoOPS, le making of
+---
+<p>
+Petit retour sur la création du réseau LoOPS. Ces notes pourront
+servir aux autres développeurs souhaitant mettre en place un
+réseau local similaire.
+</p>
+<h2>Création d'un groupe</h2>
+<p>
+La première chose à faire est de trouver plusieurs personnes
+motivées par la création de ce réseau, si possible dans plusieurs
+établissements différents, et si possible aussi intervenant dans
+des domaines scientifiques variés. Cela facilitera la communication
+pour la journée de lancement et permettre d'avoir une vision
+plus large de la population concernée.
+</p>
+<p>
+A ce stade, on peut créer une liste temporaire pour les discussions.
+</p>
+<h2>Choix d'un nom</h2>
+<p>
+Le choix d'un nom est un pré-requis pour la création des outils
+et autres espaces utilisés par le réseau. Il faut donc le trouver
+le plus rapidement possible.
+</p>
+<p>
+Pour notre réseau, chacun avait plusieurs idées. Nous avons donc utilisé
+la <a href="http://fr.wikipedia.org/wiki/M%C3%A9thode_Condorcet">méthode Condorcet</a>
+pour voter, en utilisant <a href="http://www.cs.cornell.edu/andru/civs.html">ce site</a>.
+</p>
+<p>
+LoOPS a été le gagnant des votes, à priori celui ayant le plus grand
+consensus.
+</p>
+
+<h2>Création d'un site web, d'un logo</h2>
+<p>
+Une fois le nom fixé, nous avons pu créer le site web pour regrouper les
+informations relatives au réseau: présentation, événements à venir, nouvelles.
+</p>
+<p>
+Nous voulions pouvoir modifier le site à plusieurs et avoir une solution la plus légère
+possible en matière d'installation et d'administration, car chacun est déjà bien
+occupé par ailleurs.
+</p>
+<p>
+Nous avons choisi de créer un compte reseau-loops sur github et d'héberger le site
+web en utilisant la fonctionnalité de github prévue à cet effet: il suffit de créer
+un dépôt nommé `reseau-loops.github.com` pour que le contenu du dépôt soit servi
+par un serveur web sur <a href="http://reseau-loops.github.com">`http://reseau-loops.github.com</a>.
+</p>
+<p>
+Le logo est en vectoriel et a été crée avec <a href="http://inkscape.org">Inkscape</a>.
+Cela permet de le décliner dans toutes les tailles en gardant un aspect correct.
+Pour éviter les problèmes de polices disponibles ou non selon les environnements,
+le création du logo a transformé les lettres en chemins (menu "Chemin/Objet en
+chemin" ou "Path/Objet to path").
+</p>
+<p>
+De plus, il est possible de réaliser le site web en
+<a href="http://jekyllrb.com/">Jekyll</a>, Github appliquant Jekyll au
+dépôt pour générer le site web. Jekyll permet facilement de mettre en place un site web
+avec quelques templates et la possibilité de rédiger des articles pour la partie blog
+du site.
+</p>
+<p>
+Nous avons repris les feuilles de style
+<a href="http://twitter.github.com/bootstrap/">Twitter bootstrap</a>, en utlisant le processeur
+<a href="http://lesscss.org/">lessc</a> pour générer le fichier `style.css`.
+</p>
+<p>
+Les sources du site sont <a href="https://github.com/reseau-loops/reseau-loops.github.com">ici</a>.
+N'hésitez pas à les copier pour votre propre site de réseau local.
+</p>
+
+<h2>Canaux de communication</h2>
+<p>
+Trois canaux ont été mis en place:
+</p>
+<ul>
+<li>une liste `loops-cp` pour le "comité de pilotage", en fait les animateurs du réseau,</li>
+<li>une liste `loops` pour les membres du réseau,</li>
+<li>un compte twitter `@reseauloops`, pour augmenter la diffusion.</li>
+</ul>
+<p>
+Pour les listes de diffusion, nous souhaitions qu'elles soient hébergées par un
+établissement "neutre", c'est-à-dire ni CNRS, ni INRIA, ni Université, ..., ce afin de bien
+marquer le caractère multi-établissement du réseau.
+<a href="https://groupes.renater.fr/sympa">Renater</a> permet la création de telles listes.
+</p>
+<p>
+L'avenir dira quelle utilisation est faite de la liste des membres `loops`: annonces seulement,
+ou égalelement discussions, demande d'aide, ...
+</p>
+
+<h2>Une journée de lancement</h2>
+<p>
+Pour lancer le réseau, il nous semblait important d'organiser une rencontre physique entre
+les développeurs concernés. Nous avons donc organisé
+<a href="{{ site.url }}/journee_2012_05_31.html">une journée de lancement</a>, composée
+d'exposés le matin et d'ateliers pratiques l'après-midi, suivie d'une table ronde à la fin.
+</p>
+<p>
+Pour la mise en place de cette journée, nous avons procédé par étapes:
+</p>
+<ol>
+<li>Choix d'une date,</li>
+<li>Choix du format: le mélange d'exposés "retours d'expérience" et d'ateliers pratiques
+permettait pour attirer le plus de monde possible, sans segmenter de trop selon les
+technologies,</li>
+<li>Choix d'un thème, en l'occurrence le développement collaboratif; même si tous les
+ateliers et exposés ne rentraient pas dans ce thème, ce n'est pas grave,</li>
+<li>Préparation d'une liste des contacts vers lesquels l'annonce de la journée
+sera diffusée et rédaction du message d'annonce, pour qu'il soit prêt le moment venu.
+<li>Recherche d'intervenants, le plus difficile.</li>
+<li>Création d'une page pour cette journée sur le site web.</li>
+<li>Pour les inscriptions, nous avons utilisé
+l'outil <a href="http://indico2.lal.in2p3.fr/">Indico</a>
+disponible au LAL.</li>
+</ol>
+<p>
+La diversité des établissements auxquels appartiennent les membres fondateurs est un
+atout pour établir la liste des contacts pour l'annonce de la journée ainsi que pour
+trouver des intervenants.
+</p>
+<p>
+Nous avons fait deux réunions physiques: l'une pour discuter des objectifs du réseau
+afin d'avoir une vision un minimum partagée, l'autre plus spécifiquement pour l'organisation
+de la journée et des différentes étapes. Le reste s'est fait par courrier électronique.
+</p>
+<p>
+Par chance, nous avions des facilités pour les salles: le LAL nous a hébergés (plusieurs
+membres fondateurs en font partie) et a payé la pause café. Une cafétéria a permis à ceux
+ne pouvant pas profiter du restaurant administratif local d'acheter des sandwiches.
+</p>
