@@ -1,0 +1,65 @@
+---
+layout: default
+no_sidebar: true
+navbar-about: active
+title: Contribuer au site web
+---
+<h2>Comment est construit le site ?</h2>
+<p>
+Ce site web est <a href="http://reseau-loops.github.com">hébergé sur github</a>. Il
+est développé avec <a href="http://jekyllrb.com/">Jekyll</a>, un générateur
+de sites web et blogs.
+</p>
+<p>
+La modification du site web se fait en modifiant ses sources, gérées sous
+git dans <a href="https://github.com/reseau-loops/reseau-loops.github.com">ce dépôt</a>.
+A la suite du <i>push</i> des modifications vers le dépôt, jekyll est automatiquement
+lancé sur github pour mettre à jour le site d'après les nouvelles sources.
+Plus d'informations <a href="https://help.github.com/categories/20/articles">ici</a>.
+</p>
+
+<h2>Comment contribuer ?</h2>
+<p>
+La façon la plus simple de contribuer est de
+</p>
+<ol>
+<li>se créer un compte sur github,</li>
+<li>faire un fork du
+<a href="https://github.com/reseau-loops/reseau-loops.github.com">dépôt du site</a>
+à partir de l'interface github,</li>
+<li>faire ses modifications et tester sur sa machine (cf. ci-dessous) puis les pousser
+dans son dépôt "forké",</li>
+<li>faire un "pull request" sur github pour soumettre des modifications à répercuter
+sur le dépôt du site.</li>
+</ol>
+
+<h3>Tester sur sa machine</h3>
+<p>
+Paquets à installer sur une debian pour pouvoir tester en local:
+</p>
+<ul>
+<li>ruby,</li>
+<li>python-pygments,</li>
+<li>ruby-maruku,</li>
+<li>ruby-liquid.</li>
+</ul>
+
+<p>Installation de jekyll:
+<pre>gem install jekyll</pre>
+</p>
+
+<p>Compilation du site pour test en local:</p>
+<pre>
+cd /chemin/vers/votre/depôt/local/reseau-loops.github.com
+make
+</pre>
+Le site est alors consultable dans <code>_site/</code>
+</p>
+
+<h2>Liens</h2>
+<ul>
+<li><a href="https://github.com/mojombo/jekyll/wiki/template-data">Doc sur jekyll</a></li>
+<li><a href="http://lesscss.org/">{less}</a> est utilisé pour la génération de la feuille
+de style, en utilisant les feuilles de
+<a href="http://twitter.github.com/bootstrap/">bootstrap2</a></li>
+</ul>
