@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="ctpug-mug.svg"
+   width="655.51178"
+   height="287.00787">
+  <metadata
+     id="metadata371">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1005"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.0730821"
+     inkscape:cx="241.20612"
+     inkscape:cy="142.63436"
+     inkscape:window-x="1680"
+     inkscape:window-y="24"
+     inkscape:current-layer="layer3"
+     width="210mm"
+     height="40mm"
+     units="mm"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="327.09519,155.62649"
+       id="guide2872" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="217.13157,-57.777499"
+       id="guide2933" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="435.19503,-65.23266"
+       id="guide2935" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 71.887497 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="486.04999 : 71.887497 : 1"
+       inkscape:persp3d-origin="243.02499 : 47.924998 : 1"
+       id="perspective46" />
+    <linearGradient
+       id="linearGradient2795">
+      <stop
+         style="stop-color:#b8b8b8;stop-opacity:0.49803922;"
+         offset="0"
+         id="stop2797" />
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:0;"
+         offset="1"
+         id="stop2799" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2787">
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:0.5;"
+         offset="0"
+         id="stop2789" />
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:0;"
+         offset="1"
+         id="stop2791" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3676">
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:0.5;"
+         offset="0"
+         id="stop3678" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop3680" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3236">
+      <stop
+         style="stop-color:#f4f4f4;stop-opacity:1"
+         offset="0"
+         id="stop3244" />
+      <stop
+         style="stop-color:white;stop-opacity:1"
+         offset="1"
+         id="stop3240" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4671">
+      <stop
+         style="stop-color:#ffd43b;stop-opacity:1;"
+         offset="0"
+         id="stop4673" />
+      <stop
+         style="stop-color:#ffe873;stop-opacity:1"
+         offset="1"
+         id="stop4675" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4689">
+      <stop
+         style="stop-color:#5a9fd4;stop-opacity:1;"
+         offset="0"
+         id="stop4691" />
+      <stop
+         style="stop-color:#306998;stop-opacity:1;"
+         offset="1"
+         id="stop4693" />
+    </linearGradient>
+    <linearGradient
+       x1="224.23996"
+       y1="144.75717"
+       x2="-65.308502"
+       y2="144.75717"
+       id="linearGradient2987"
+       xlink:href="#linearGradient4671"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(100.2702,99.61116)" />
+    <linearGradient
+       x1="172.94208"
+       y1="77.475983"
+       x2="26.670298"
+       y2="76.313133"
+       id="linearGradient2990"
+       xlink:href="#linearGradient4689"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(100.2702,99.61116)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="linearGradient2587"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(100.2702,99.61116)"
+       x1="172.94208"
+       y1="77.475983"
+       x2="26.670298"
+       y2="76.313133" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671"
+       id="linearGradient2589"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(100.2702,99.61116)"
+       x1="224.23996"
+       y1="144.75717"
+       x2="-65.308502"
+       y2="144.75717" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="linearGradient2248"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(100.2702,99.61116)"
+       x1="172.94208"
+       y1="77.475983"
+       x2="26.670298"
+       y2="76.313133" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671"
+       id="linearGradient2250"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(100.2702,99.61116)"
+       x1="224.23996"
+       y1="144.75717"
+       x2="-65.308502"
+       y2="144.75717" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671"
+       id="linearGradient2255"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-11.5974,-7.60954)"
+       x1="224.23996"
+       y1="144.75717"
+       x2="-65.308502"
+       y2="144.75717" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="linearGradient2258"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-11.5974,-7.60954)"
+       x1="172.94208"
+       y1="76.176224"
+       x2="26.670298"
+       y2="76.313133" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2795"
+       id="radialGradient2801"
+       cx="61.518883"
+       cy="132.28575"
+       fx="61.518883"
+       fy="132.28575"
+       r="29.036913"
+       gradientTransform="matrix(1,0,0,0.177966,0,108.7434)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671"
+       id="linearGradient1475"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,137.92756)"
+       x1="150.96111"
+       y1="192.35176"
+       x2="112.03144"
+       y2="137.27299" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="linearGradient1478"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,137.92756)"
+       x1="26.648937"
+       y1="20.603781"
+       x2="135.66525"
+       y2="114.39767" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2795"
+       id="radialGradient1480"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.382716e-8,-0.296405,1.43676,4.683673e-7,-128.544,150.5202)"
+       cx="61.518883"
+       cy="132.28575"
+       fx="61.518883"
+       fy="132.28575"
+       r="29.036913" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="linearGradient2876"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,137.92756)"
+       x1="26.648937"
+       y1="20.603781"
+       x2="135.66525"
+       y2="114.39767" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671"
+       id="linearGradient2878"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,137.92756)"
+       x1="150.96111"
+       y1="192.35176"
+       x2="112.03144"
+       y2="137.27299" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2795"
+       id="radialGradient2880"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.382716e-8,-0.296405,1.43676,4.683673e-7,-128.544,150.5202)"
+       cx="61.518883"
+       cy="132.28575"
+       fx="61.518883"
+       fy="132.28575"
+       r="29.036913" />
+    <inkscape:perspective
+       id="perspective2882"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <g
+     id="g2871"
+     transform="matrix(1.6067489,0,0,1.6067489,12.028187,-198.96856)">
+    <path
+       id="path1948"
+       d="m 60.510156,149.63085 c -4.583653,0.0213 -8.960939,0.41222 -12.8125,1.09375 -11.346216,2.00451 -13.406249,6.2001 -13.40625,13.9375 l 0,10.21875 26.8125,0 0,3.40625 -26.8125,0 -10.0625,0 c -7.792459,0 -14.6157592,4.68372 -16.7500002,13.59375 -2.46182,10.21297 -2.5710151,16.58602 0,27.25 1.9059283,7.93785 6.4575432,13.59375 14.2500002,13.59375 l 9.21875,0 0,-12.25 c 0,-8.8499 7.657144,-16.65625 16.75,-16.65625 l 26.78125,0 c 7.454951,0 13.406253,-6.13816 13.40625,-13.625 l 0,-25.53125 c 0,-7.26634 -6.12998,-12.72478 -13.40625,-13.9375 -4.605987,-0.76672 -9.385097,-1.11505 -13.96875,-1.09375 z m -14.5,8.21875 c 2.769547,0 5.03125,2.29865 5.03125,5.125 -2e-6,2.81634 -2.261703,5.09375 -5.03125,5.09375 -2.779476,0 -5.03125,-2.27741 -5.03125,-5.09375 -1e-6,-2.82635 2.251774,-5.125 5.03125,-5.125 z"
+       style="fill:url(#linearGradient2876);fill-opacity:1" />
+    <path
+       id="path1950"
+       d="m 91.228906,178.2871 0,11.90625 c 0,9.23076 -7.825895,17 -16.75,17 l -26.78125,0 c -7.335833,0 -13.406249,6.27848 -13.40625,13.625 l 0,25.53125 c 0,7.26634 6.318588,11.54032 13.40625,13.625 8.487331,2.49561 16.626237,2.94663 26.78125,0 6.750155,-1.95439 13.406253,-5.88761 13.40625,-13.625 l 0,-10.21875 -26.78125,0 0,-3.40625 26.78125,0 13.406254,0 c 7.79246,0 10.69625,-5.43541 13.40624,-13.59375 2.79933,-8.39888 2.68022,-16.47577 0,-27.25 -1.92578,-7.75744 -5.60387,-13.59375 -13.40624,-13.59375 l -10.062504,0 z m -15.0625,64.65625 c 2.779478,0 5.03125,2.27742 5.03125,5.09375 -2e-6,2.82635 -2.251775,5.125 -5.03125,5.125 -2.76955,0 -5.03125,-2.29865 -5.03125,-5.125 2e-6,-2.81633 2.261697,-5.09375 5.03125,-5.09375 z"
+       style="fill:url(#linearGradient2878);fill-opacity:1" />
+    <path
+       transform="matrix(0.73406,0,0,0.809524,16.24958,170.24223)"
+       d="m 110.46717,132.28575 c 0,4.75334 -21.914896,8.60668 -48.948287,8.60668 -27.033391,0 -48.948284,-3.85334 -48.948284,-8.60668 0,-4.75334 21.914893,-8.60668 48.948284,-8.60668 27.033391,0 48.948287,3.85334 48.948287,8.60668 z"
+       sodipodi:ry="8.6066771"
+       sodipodi:rx="48.948284"
+       sodipodi:cy="132.28575"
+       sodipodi:cx="61.518883"
+       id="path1894"
+       style="opacity:0.44382019;fill:url(#radialGradient2880);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="arc" />
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot2856"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Steve;font-style:italic;font-weight:normal;font-size:32px;-inkscape-font-specification:Steve Italic;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"><flowRegion
+       id="flowRegion2858"><rect
+         id="rect2860"
+         width="320.90833"
+         height="169.34999"
+         x="289.93771"
+         y="33.971321" /></flowRegion><flowPara
+       id="flowPara2862" /></flowRoot>  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="1"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2864"
+       style="font-size:50.3437767px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="matrix(0.90905652,0,0,1,137.85583,21.890553)"><flowRegion
+         id="flowRegion2866"><rect
+           id="rect2868"
+           width="348.5842"
+           height="216.13539"
+           x="274.12292"
+           y="32.653419"
+           style="font-size:50.3437767px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2927">1. Beautiful</flowPara><flowPara
+         id="flowPara2929">is better</flowPara><flowPara
+         id="flowPara2931">than ugly.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="2"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2912"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(58.080967,4.250847)"><flowRegion
+         id="flowRegion2914"><rect
+           id="rect2916"
+           width="244.15652"
+           height="162.14975"
+           x="364.371"
+           y="60.557358"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2920">2. Explicit is better than implicit.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="3 and 4"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2923"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(36.48012,-5.3405243)"><flowRegion
+         id="flowRegion2925"><rect
+           id="rect2927"
+           width="222.7229"
+           height="253.47557"
+           x="396.05542"
+           y="26.07724"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2980">3. Simple is better than complex.</flowPara><flowPara
+         id="flowPara2982"></flowPara><flowPara
+         id="flowPara2984">4. Complex is better than complicated.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="5"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2946"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(59.36887,12.795685)"><flowRegion
+         id="flowRegion2948"><rect
+           id="rect2950"
+           width="257.20306"
+           height="187.31091"
+           x="356.91583"
+           y="52.170303"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2954">5. Flat is better than nested.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="6"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2957"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(52.018467,30.48012)"><flowRegion
+         id="flowRegion2959"><rect
+           id="rect2961"
+           width="265.59012"
+           height="217.13156"
+           x="359.71152"
+           y="32.600506"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2965">6. Sparse is better than dense.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="7"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2968"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(52.028346,27.024959)"><flowRegion
+         id="flowRegion2970"><rect
+           id="rect2972"
+           width="262.79443"
+           height="217.13156"
+           x="358.77963"
+           y="40.055668"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2939">7. Readability counts.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="8 and 9"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2979"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(44.430202,-15.86379)"><flowRegion
+         id="flowRegion2981"><rect
+           id="rect2983"
+           width="261.86252"
+           height="256.27118"
+           x="362.5072"
+           y="35.396191"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2974">8. Special cases aren't special enough to break the rules.</flowPara><flowPara
+         id="flowPara2976"></flowPara><flowPara
+         id="flowPara2978">9. Although practicality beats purity.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="10 and 11"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2992"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(53.089678,-26.387056)"><flowRegion
+         id="flowRegion2994"><rect
+           id="rect2996"
+           width="257.20306"
+           height="283.29611"
+           x="361.57532"
+           y="33.532402"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2968">10. Errors should never pass silently.</flowPara><flowPara
+         id="flowPara2970"></flowPara><flowPara
+         id="flowPara2972">11. Unless explicitly silenced.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="12"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3005"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(58.021573,10.795685)"><flowRegion
+         id="flowRegion3007"><rect
+           id="rect3009"
+           width="246.95222"
+           height="252.54358"
+           x="356.91583"
+           y="35.396191"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara3013">12. In the face of ambiguity, refuse the temptation to guess.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="13 and 14"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3016"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(65.712034,-20.408629)"><flowRegion
+         id="flowRegion3018"><rect
+           id="rect3020"
+           width="237.6333"
+           height="281.43231"
+           x="353.18826"
+           y="27.009134"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2961">13. There should be one - and preferably only one - obvious way to do it.</flowPara><flowPara
+         id="flowPara2963"></flowPara><flowPara
+         id="flowPara2966">14. Although that way may not be obvious at first unless you're Dutch.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="15 and 16"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3029"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(70.817258,14.48012)"><flowRegion
+         id="flowRegion3031"><rect
+           id="rect3033"
+           width="243.22464"
+           height="223.65483"
+           x="344.80121"
+           y="19.553974"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2955">15. Now is better than never.</flowPara><flowPara
+         id="flowPara2957"></flowPara><flowPara
+         id="flowPara2959">16. Although never is often better than *right* now.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="17 and 18"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3042"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(86.908878,-14.043146)"><flowRegion
+         id="flowRegion3044"><rect
+           id="rect3046"
+           width="226.45053"
+           height="301.93402"
+           x="340.14172"
+           y="19.553974"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2948">17. If the implementation is hard to explain, it's a bad idea.</flowPara><flowPara
+         id="flowPara2950"></flowPara><flowPara
+         id="flowPara2952">18. If the implementation is easy to explain, it may be a good idea.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="19"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3055"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:One Constant;-inkscape-font-specification:One Constant"
+       transform="translate(76.631127,24.229274)"><flowRegion
+         id="flowRegion3057"><rect
+           id="rect3059"
+           width="241.36087"
+           height="273.04526"
+           x="344.80121"
+           y="21.417765"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:One Constant;-inkscape-font-specification:One Constant" /></flowRegion><flowPara
+         id="flowPara2946">19. Namespaces are one honking great idea - let's do more of those!</flowPara></flowRoot>  </g>
+</svg>

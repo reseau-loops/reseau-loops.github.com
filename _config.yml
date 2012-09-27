@@ -1,6 +1,6 @@
 permalink: /:year/:month/:day/:title
 paginate: 10
-exclude: ["Makefile", "LICENSE.txt", "less", "NOTES.txt", "inscriptions_2012_05_31.ods", "logo_twitter.png", "twitter-bird-new.svg"]
+exclude: ["Makefile", "LICENSE.txt", "less", "NOTES.txt", "inscriptions_2012_05_31.ods", "logo_twitter.png", "svg"]
 title: LoOPS
 url: http://reseau-loops.github.com
 markdown: rdiscount
