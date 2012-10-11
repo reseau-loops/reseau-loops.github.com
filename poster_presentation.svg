@@ -3149,7 +3149,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="2197.1682"
+     inkscape:cx="1467.8381"
      inkscape:cy="1329.3404"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -3302,13 +3302,13 @@
        xml:space="preserve"
        style="font-size:120px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
        x="147.62437"
-       y="-1767.9838"
+       y="-1773.134"
        id="text3981"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4667"
          x="147.62437"
-         y="-1767.9838">Réseau LoOPS</tspan></text>
+         y="-1773.134">Réseau LoOPS </tspan></text>
     <rect
        style="fill:#ffc40d;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4168"
@@ -3626,6 +3626,38 @@
          id="tspan4856"
          x="503.33026"
          y="688.21313">http://devlog.cnrs.fr/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="1280.8734"
+       y="127.25032"
+       id="text5237"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-1927.559)"><tspan
+         sodipodi:role="line"
+         id="tspan5239"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:120px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="895.12958"
+       y="-1736.5118"
+       id="text3981-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4667-9"
+         x="895.12958"
+         y="-1736.5118"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:120px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fffcfc;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="1172.8784"
+       y="-1784.9993"
+       id="text3981-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4667-8"
+         x="1172.8784"
+         y="-1784.9993">Développement logiciel dans l'ESR</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
