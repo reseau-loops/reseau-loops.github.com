@@ -3492,31 +3492,28 @@
            id="tspan4414"
            sodipodi:role="line"> &quot;hello world !&quot;</tspan></text>
     </g>
-    <g
-       id="g5241">
-      <text
-         sodipodi:linespacing="125%"
-         id="text4311-0"
-         y="-953.58429"
+    <text
+       xml:space="preserve"
+       style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="2679.7869"
+       y="-953.58429"
+       id="text4311-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4445"
          x="2679.7869"
-         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         xml:space="preserve"><tspan
-           y="-953.58429"
-           x="2679.7869"
-           id="tspan4445"
-           sodipodi:role="line">Décembre 2012</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4412-5"
-         y="-957.0296"
-         x="3300.1763"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-         xml:space="preserve"><tspan
-           y="-957.0296"
-           x="3300.1763"
-           id="tspan4443"
-           sodipodi:role="line">= new meeting();</tspan></text>
-    </g>
+         y="-953.58429">11 Décembre 2012</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="3404.1763"
+       y="-957.0296"
+       id="text4412-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4443"
+         x="3404.1763"
+         y="-957.0296">= new meeting();</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:55px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
