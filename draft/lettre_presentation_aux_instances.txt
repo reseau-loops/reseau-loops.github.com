@@ -3,17 +3,17 @@
 En mai dernier, le réseau LoOPS[1] a été créé. LoOPS est le réseau local
 impliquant potentiellement tous les personnels ayant une activité de
 développemennt logiciel dans les établissements d'enseignement supérieur
-et de recherche de la zone "Paris-Sud", qu'il s'agisse de personnels
+et de recherche de la zone "Paris Sud-Ouest", qu'il s'agisse de personnels
 techniques, d'enseignants ou de chercheurs.
 
-L'unique mission du réseau est de faciliter le partage de pratiques,
+La mission fondamentale du réseau est de faciliter le partage de pratiques,
 savoir-faire et connaissances entre développeurs dans le but de permettre à
 chacun de progresser dans son activité de développement logiciel.
 
 D'autres réseaux locaux similaires existent dans d'autres régions[2]
 et sont affiliés au réseau métier national des développeurs de logiciels
 Devlog[3] reconnu par la Mission Ressources et Compétences Techniques
-(MRCT)[4] du CNRS.
+(MRCT)[4] du CNRS, par l'INRIA et l'INRA.
 
 A l'heure actuelle, une première journée de rencontre a été organisée par
 LoOPS le 31 mai dernier[5] et a réuni une cinquantaine de développeurs de
@@ -24,7 +24,7 @@ formation pour les participants.
 
 D'autres événéments sont également organisés ponctuellement dans chaque
 établissement (séminaires, exposés, ateliers, ...). Ces actions participent
-de la formation des développeurs de l'ESR de la zone "Paris-SUD". LoOPS
+de la formation des développeurs de l'ESR de la zone "Paris Sud-Ouest". LoOPS
 a donc également vocation à favoriser la circulation d'information concernant
 ces actions.
 
@@ -46,7 +46,8 @@ Dans l'attente de votre réponse, veuillez agréer, Madame, Monsieur, nos plus
 sincères salutations.
 
 
-                                          Le comité de pilotage de LoOPS
+                                          Pour le comité de pilotage de LoOPS,
+                                          l'animateur du réseau Maxence Guesdon
 
 
 [1] Réseau LoOPS: http://reseau-loops.github.com/
