@@ -57,4 +57,15 @@ sincères salutations.
 [5] http://reseau-loops.github.com/journee_2012_05_31.html
 [6] http://reseau-loops.github.com/journee_2012_12.html
 
-
+Membres du comité de pilotage:
+- Christian Arnault (IN2P3),
+- Guy Barrand (IN2P3),
+- Olivier Brand-Foissac (Laboratoire de Physique Théorique d'Orsay, CNRS),
+- David Chamont (IN2P3),
+- Sylvain Faure (Laboratoire de Mathématiques d'Orsay),
+- Loïc Gouarin (Laboratoire de Mathématiques d'Orsay),
+- Maxence Guesdon (INRIA Saclay) [coordinateur],
+- Christian Helft (IN2P3),
+- Françoise Lefèbvre (IMNC),
+- Antoine Pérus (IN2P3),
+- Jean-Christophe Souplet (LRI) [coordinateur adjoint].
