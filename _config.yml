@@ -4,3 +4,6 @@ exclude: ["Makefile", "LICENSE.txt", "less", "NOTES.txt", "inscriptions_2012_05_
 title: LoOPS
 url: http://reseau-loops.github.com
 markdown: rdiscount
+name: Réseau LoOPS
+description: Réseau des développeurs de l'Enseignement Supérieur et la Recherche - Zone Paris-Sud
+url: http://reseau-loops.github.com/
