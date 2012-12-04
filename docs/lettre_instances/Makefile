@@ -1,7 +1,8 @@
 LETTRES= \
-	lettre_inria.pdf \
 	lettre_dr4.pdf \
 	lettre_dr5.pdf \
+	lettre_inria.pdf \
+	lettre_polytechnique.pdf \
 	lettre_psud.pdf
 
 all: $(LETTRES)
