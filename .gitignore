@@ -1,3 +1,7 @@
 .chamo*
 _site
+*.aux
+*.log
+*.tns
+*.out
 
