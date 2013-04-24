@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Nouveau document 1">
+   sodipodi:docname="logo_argos_loops.svg"
+   inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/logo_argos_loops.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="596.46737"
+     inkscape:cx="563.3213"
      inkscape:cy="171.42857"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -55,8 +58,8 @@
      id="layer1"
      transform="translate(0,-872.36221)">
     <image
-       y="874.36224"
-       x="1.4285648"
+       y="872.36224"
+       x="-0.57143521"
        id="image3055"
        xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
 HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
@@ -318,7 +321,10 @@ oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig
 AooooAKKKKACiiigAooooA//2Q==
 "
        height="180"
-       width="1200" />
+       width="1200"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/logo_argos_loops.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        transform="matrix(0.71740714,0,0,0.71740714,517.06527,262.37141)"
        id="layer1-6"
