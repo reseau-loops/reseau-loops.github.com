@@ -3586,3 +3586,20 @@ h1 {
 .rss {
   float: right ;
 }
+#devlog-news {
+  float: right ;
+  border-style: solid ;
+  border-color: #cdcdcd;
+  border-width: 1px ;
+}
+.rss-source {
+  font-color: #4d4d4d;
+  font-size: 90%;
+  margin-left: 0.3em;
+}
+.rss-date {
+  font-style: italic ;
+  font-color: #4d4d4d;
+  font-size: 90%;
+  margin-right: 0.5em;
+}
