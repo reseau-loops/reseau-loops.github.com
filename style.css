@@ -3587,10 +3587,17 @@ h1 {
   float: right ;
 }
 #devlog-news {
+  padding: 0.1em 0.2em 0.1em 0.2em;
   float: right ;
+  width: 40%;
   border-style: solid ;
   border-color: #cdcdcd;
   border-width: 1px ;
+}
+#devlog-news .box-title {
+  font-size: 120%;
+  font-weight: bold;
+  padding-bottom: 0.2em;
 }
 .rss-source {
   font-color: #4d4d4d;
@@ -3602,4 +3609,12 @@ h1 {
   font-color: #4d4d4d;
   font-size: 90%;
   margin-right: 0.5em;
+}
+.rss-item {
+  overflow: hidden ;
+  white-space: nowrap;
+}
+.rss-item:hover {
+  overflow: visible;
+  white-space: normal;
 }

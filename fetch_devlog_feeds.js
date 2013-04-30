@@ -1,7 +1,7 @@
 var myfun = function() {
  var url = 'http://erssical.saclay.inria.fr:9000/?query-url=http://reseau-loops.github.io/erssical_query.xml&rtype=xml';
  $.get(url, function (html) {
-   $("#devlog-news").html(html);
+   $("#devlog-feeds").html(html);
  }, 'html')
 }
 if(window.onload) {
