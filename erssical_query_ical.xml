@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <query language-dep="false" type="text/calendar">
   <sources>
-<!--    <source href="http://reseau-loops.github.io/feed.xml"/>-->
-    <source href="file:///home/guesdon/Sed/reseau-loops.github.com/_site/feed.xml"/>
+    <source href="http://reseau-loops.github.io/feed.xml"/>
   </sources>
   <target>
     <title>Calendrier des événements LoOPS</title>
