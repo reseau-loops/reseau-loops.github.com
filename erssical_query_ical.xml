@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<query language-dep="false" type="text/calendar">
+<query type="text/calendar">
   <sources>
     <source href="http://reseau-loops.github.io/feed.xml"/>
   </sources>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<query language-dep="false" type="application/rss+xml">
+<query type="application/rss+xml">
   <sources>
     <source href="http://developr6.dr6.cnrs.fr/feed.php"/>
     <source href="http://www.min2rien.fr/feed/"/>
