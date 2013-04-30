@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<query language-dep="false" type="text/calendar">
+  <sources>
+<!--    <source href="http://reseau-loops.github.io/feed.xml"/>-->
+    <source href="file:///home/guesdon/Sed/reseau-loops.github.com/_site/feed.xml"/>
+  </sources>
+  <target>
+    <title>Calendrier des événements LoOPS</title>
+    <link>http://reseau-loops.github.io</link>
+    <description>Calendrier des événements organisés dans le réseau LoOPS.</description>
+  </target>
+  <filter>
+    <keywords><item regexp="true">.*</item></keywords>
+  </filter>
+</query>

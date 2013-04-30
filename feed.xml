@@ -2,7 +2,10 @@
 layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:ev="http://zoggy.github.io/erssical/doc-event.html#"
+>
 	<channel>
 		<title>{{ site.name }}</title>
 		<description>{{ site.description }}</description>
@@ -15,6 +18,14 @@ layout: none
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				{% if post.ev_link %}<ev:link>{{ post.ev_link }}</ev:link>{% endif %}
+				{% if post.ev_keywords %}<ev:keywords>{% for kw in post.ev_keywords %}<item>{{ kw }}</item>{% endfor %}</ev:keywords>{% endif %}
+				{% if post.ev_location %}<ev:location>{{ post.ev_location }}</ev:location>{% endif %}
+				{% if post.ev_audience %}<ev:audience>{{ post.ev_audience }}</ev:audience>{% endif %}
+				{% if post.ev_endDate %}<ev:endDate>{{ post.ev_endDate }}</ev:endDate>{% endif %}
+				{% if post.ev_startDate %}<ev:startDate>{{ post.ev_startDate }}</ev:startDate>{% endif %}
+				{% if post.ev_organizers %}<ev:organizers>{% for p in post.ev_organizers %}<item>{{ p }}</item>{% endfor %}</ev:organizers>{% endif %}
+				{% if post.ev_speakers %}<ev:speakers>{% for p in post.ev_speakers %}<item>{{ p }}</item>{% endfor %}</ev:speakers>{% endif %}
 			</item>
 		{% endfor %}
 	</channel>
