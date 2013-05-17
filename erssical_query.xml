@@ -6,6 +6,7 @@
     <source href="http://www.compil.org/feed.php"/>
     <source href="http://reseau-loops.github.io/feed.xml"/>
     <source href="http://devlog.cnrs.fr/feed.php"/>
+    <source href="http://aramis.resinfo.org/wiki/feed.php"/>
   </sources>
   <target>
     <title>Actualités Devlog</title>
