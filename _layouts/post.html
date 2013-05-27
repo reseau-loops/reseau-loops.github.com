@@ -2,7 +2,6 @@
 layout: default
 navbar-blog: active
 ---
-{{ page.ev_link | replace: '!SITE_URL!', site.url }}
 <div class="post">
   <h4 class="large-bottom">
     Publié le {{ page.date | date: "%d-%m-%Y" }} {% if page.author %} par {{ page.author }} {% endif %}
