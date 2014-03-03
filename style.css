@@ -3611,6 +3611,9 @@ h1 {
   font-weight: bold;
   padding-bottom: 0.2em;
 }
+dt {
+  margin-top: 0.5em;
+}
 .rss-source {
   font-color: #4d4d4d;
   font-size: 90%;
