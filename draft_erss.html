@@ -1,0 +1,117 @@
+---
+layout: default
+no_sidebar: true
+title: Partage de calendriers entre réseaux
+---
+<p class="alert alert-warning">
+Ceci est un brouillon.
+</p>
+<h2>Calendriers d'événements</h2>
+<p>
+LoOPS, comme d'autres réseaux régionaux du même type, annonce
+régulièrement des événements: journées, formations, ... Ses
+membres peuvent également être intéressés à savoir ce qui est
+organisé dans d'autres réseaux.
+</p>
+<p>
+Pour cela, il faut actuellement aller voir les sites de chaque
+réseau, ou bien s'abonner à leurs fils RSS (ou à leur agrégation
+disponible sur la page d'accueil de LoOPS) et faire le tri entre
+les informations et les annonces d'événements. De plus, la date
+de l'annonce de l'événement n'est pas la date de l'événement,
+ce qui rend difficile d'avoir une vue globale du calendrier
+des événements dans tous les réseaux.
+</p>
+<p>
+Nous proposons donc une solution pour que chaque réseau diffuse
+les informations relatives aux événements locaux dans une forme
+permettant leur agrégation et des interrogations selon des critères.
+</p>
+<p>
+Plutôt que de demander à chaque réseau de remplir un formulaire
+ou un calendrier, l'approche consiste à enrichir les flux RSS
+de tags XML supplémentaires décrivant les événements annoncés.
+De cette façon, <strong>chaque réseau reste libre d'utiliser les outils
+et procédures qu'il souhaite pour publier ses informations</strong>,
+l'important étant de formatter d'une certaine façons celles
+relatives aux événéments.
+</p>
+<h2>Le format RSS</h2>
+<p>
+Pour rappel, le format <a href="https://fr.wikipedia.org/wiki/RSS">RSS</a>
+un format XML permettant de représenter des informations chronologiques
+concernant un site, typiquement les nouveaux billets d'un blog.
+Des outils appelés <em>agrégateurs</em> consultent la liste des <em>flux RSS</em>
+spécifiés par l'utilisateur pour offrir à ce dernier une liste des
+nouveaux billets, annonces, ..., des sites en question. Cela évite
+de devoir aller sur chaque site pour voir ce qu'il y a de nouveau.
+</p>
+<p>
+Le format RSS peut être étendu par des noeuds XML supplémentaires,
+afin d'ajouter des informations complémentaires à certains éléments
+(<em>items</em>) du flux.
+</p>
+<h2>Extension proposée</h2>
+<p>
+C'est cette possibilité qu'exploite le
+<a href="http://reseau-loops.github.io/feed.xml">flux RSS de LoOPS</a>, en
+ajoutant aux annonces d'événéments (journées, formations, ...)
+des noeuds décrivant le lieu, le sujet, les dates, ...
+</p>
+<p>
+Par exemple, le billet du 9 octobre 2013 annonçant la quatrième journée LoOPS
+du 19 décembre contient les noeuds XML supplémentaires suivants:
+</p>
+{% highlight xml %}
+<ev:link>http://reseau-loops.github.io/journee_2013_12.html</ev:link>
+<ev:keywords>
+  <item>veille</item>
+  <item>sourcesup</item>
+  <item>forge</item>
+  <item>intégration continue</item>
+  <item>dojo</item>
+  <item>workflow</item>
+  <item>gestion de version</item>
+</ev:keywords>
+<ev:endDate>Thu, 19 Dec 2013 17:15:00 +0200</ev:endDate>
+<ev:startDate>Thu, 19 Dec 2013 9:00:00 +0200</ev:startDate>
+<ev:speakers>
+  <item>Maxence Guesdon, INRIA Saclay</item>
+  <item>Cyril Dumont, LRI</item>
+  <item>Sébastien Médard, RENATER</item>
+  <item>Antoine Pérus, LAL</item>
+  <item>Pierre Chambart, OCamlpro</item>
+</ev:speakers>
+{% endhighlight %}
+<p>(Le namespace <code>ev</code> est défini dans l'en-tête du
+fichier RSS par
+<code>xmlns:ev="http://zoggy.github.io/erssical/doc-event.html#"</code>.)
+</p>
+<p>
+Ces noeuds supplémentaires sont ignorés par les agrégateurs RSS,
+mais ils peuvent sont utilisés par
+<a href="http://zoggy.github.io/erssical/">Erssical</a>, qui génère
+le calendrier LoOPS (bouton "ICAL" sur
+<a href="http://reseau-loops.github.io/events.html">cette page</a>)
+à partir de ces informations.
+</p>
+<p>On trouve une description de ces noeuds <code>&lt;ev:...&gt;</code>
+<a href="http://zoggy.github.io/erssical/doc-event.html">ici</a>.
+</p>
+
+<h2>Quoi faire ?</h2>
+<p>
+Si chaque réseau configure la génération de son flux RSS pour intégrer
+ces informations supplémentaires, nous aurons un moyen simple de les
+agréger pour, d'une part, constituer un calendrier national des événéments
+dans les réseaux et, d'autre part, la possiblité offerte à chacun
+d'effectuer des requêtes pour filtrer les éléments qui l'intéressent.
+Ces deux opérations peuvent être faites avec Erssical, ou avec n'importe
+quel outil ad-hoc, le format proposé étant relativement simple à lire
+et manipuler.
+</p>
+<p>
+Pour les réseaux utilisant Jekyll pour leur site web, la configuration
+des fils RSS pour intégrer ces informations supplémentaires est décrite
+<a href="http://zoggy.github.io/erssical/posts/2013-04-30-extend-rss-feeds-in-jekyll.html">ici</a>.
+</p>
