@@ -1,0 +1,197 @@
+---
+layout: default
+no_sidebar: true
+title: 12 juin 2014 - Journée LoOPS
+navbar-events: active
+---
+<p>
+La cinquième journée de rencontres et d'échanges organisée
+par le réseau LoOPS aura lieu le <strong>jeudi 12 juin 2014</strong>
+au  <a href="http://www.math.u-psud.fr/acces.php"> laboratoire de Mathématiques d'Orsay</a> (bâtiment 425).
+</p>
+<!--
+<p class="alert alert-warning">
+Le programme est en cours de finalisation.
+</p>
+-->
+<p>
+Cette journée est structurée, comme souvent pour les journées LoOPS,
+avec une matinée de présentations, accompagnées de leurs
+discussions, suivie d'un après-midi consacré à des ateliers.
+</p>
+<p>
+La thématique de cette journée porte sur des formats de données scientifiques et des outils graphiques en utilisant Python. De nombreux modules existent et nous ne pourrons bien évidemment pas tous les aborder. Nous avons donc fait une sélection de deux modules pour chaque. 
+</p>
+<p class="alert alert-info">
+N'hésitez pas à faire de la réclame pour LoOPS et cette cinquième journée, notamment grâce à <a href="poster_journee_2014_06.pdf">cette affiche</a>.
+</p>
+
+<h2>Inscriptions</h2>
+<p>
+L'inscription est <b>gratuite mais obligatoire</b> pour nous permettre
+de préparer au mieux cette journée. Merci de vous inscrire via
+<a href="https://indico.lal.in2p3.fr/confRegistrationFormDisplay.py/display?confId=2260">ce formulaire</a>.
+</p>
+
+<h2>Programme</h2>
+<div class="row prog-section">
+  <div class="span2">&nbsp;</div>
+  <div class="span10">
+    <div class="row">
+      <div class="span1 time">9h30</div>
+      <div class="span9">Accueil</div>
+    </div>
+  </div>
+</div>
+
+<div class="row prog-section">
+  <div class="span2">Exposés pléniers [petit amphi]</div>
+  <div class="span10">
+    <div class="row">
+      <div class="span1 time">10h00</div>
+      <div class="span9"><a href="#vtk">VTK</a>
+         (Sylvain Faure, LMO) 
+         <!--[<a href="http://www.oranadoz.net/slides/2013-12-19-sur-la-veille.html">Présentation</a>]-->
+      </div>
+    </div>
+    <div class="row">
+      <div class="span1 time">10h30</div>
+      <div class="span9"><a href="#hdf5">Gérer de larges volumes de données structurées en Python avec HDF5</a>
+         (Cyrille Rossant, University College London) 
+         <!--[<a href="http://www.oranadoz.net/slides/2013-12-19-sur-la-veille.html">Présentation</a>]-->
+      </div>
+    </div>
+    <div class="row">
+      <div class="span1 time">11h00</div>
+      <div class="span9"><i>Pause café</i></div>
+    </div>
+    <div class="row">
+      <div class="span1 time">11h30</div>
+      <div class="span9"><a href="#pySide">pySide</a>
+        (Marc Poinot, ONERA) <!--[<a href="presentations/2013-12-19-sebastien-medard-sourcesup.pdf">Présentation (pdf)</a>]-->
+      </div>
+    </div>
+    <div class="row">
+      <div class="span1 time">12h00</div>
+      <div class="span9"><a href="#workflow">OpenGL moderne: visualisation et calcul</a>
+         (Nicolas Rougier, INRIA)
+         <!--[<a href="https://users.lal.in2p3.fr/perus/Presentations/LoOPS/131219-LoOPS/">Présentation</a>]-->
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row prog-section">
+<div class="span2">&nbsp;</div>
+<div class="span1 time">12h30</div>
+<div class="span9"><i>Déjeuner</i></div>
+</div>
+
+<div class="row prog-section">
+  <div class="span2">Ateliers parallèles</div>
+  <div class="span10">
+    <div class="row">
+      <div class="span1 time">14h00</div>
+      <div class="span3 prog-parallel"><a href="atelier1">VTK/pySide</a></div>
+      <div class="span1 prog-vert-sep">&nbsp;</div>
+      <div class="span2 prog-parallel"><a href="#atelier2">hdf5/vispy</a></div>
+    </div>
+    <div class="row">
+      <div class="span1 time">&nbsp;</div>
+      <div class="span3 prog-parallel"> [salle 225 - 227]</div>
+      <div class="span1 prog-vert-sep">&nbsp;</div>
+      <div class="span2 prog-parallel"> [petit amphi]</div>
+    </div>
+  </div>
+</div>
+
+<div class="row ">
+  <div class="span2">&nbsp;</div>
+    <div class="row">
+      <div class="span1 time">17h00</div>
+      <div class="span9">Bilan Ateliers, propositions de thèmes pour les prochaines journées, ...</div>
+    </div>
+  <div class="span2">&nbsp;</div>
+    <div class="row">
+      <div class="span1 time">17h15</div>
+      <div class="span9">Fin de la journée</div>
+    </div>
+  </div>
+</div>
+
+<h3>Détails des exposés et ateliers</h3>
+<h4 id="vtk">VTK</h4>
+<p>
+Intervenant: Sylvain Faure (LMO).
+</p>
+<p>
+</p>
+
+<h4 id="hfd5">Gérer de larges volumes de données structurées en Python avec HDF5</h4>
+<p>
+Intervenant: Cyrille Rossant (University College London).
+</p>
+<p>
+HDF5 est un format de fichier ouvert permettant de stocker et
+d'organiser d'importants volumes de données (gigaoctets ou
+teraoctets). Il est utilisé par de nombreuses universités et instituts
+de recherche à travers le monde (NASA, NOAA, synchrotrons...). HDF5
+définit aussi une interface de programmation haute performance en C
+pour la lecture et l'écriture de données. Des wrappers existent dans
+de nombreux langages de plus haut niveau, notamment en Python. Dans
+cet exposé, nous présenterons les principales caractéristiques de
+HDF5, ainsi que les interfaces en Python avec PyTables et h5py.
+</p>
+
+<h4 id="pyside">pySide</h4>
+<p>
+Intervenant: Marc Poinot (ONERA).
+</p>
+<ul>
+<li> principes de base Qt </li>
+<li> association avec PySide et python </li>
+<li> quelques objects graphiques </li>
+<li> spécialisation de quelques classes </li>
+</ul>
+
+<h4 id="vispy">OpenGL moderne: visualisation et calcul</h4>
+<p>
+Intervenant: Nicolas Rougier (INRIA).
+</p>
+<p>
+OpenGL a subi une véritable révolution il y a une dizaine d'année lorsque le pipeline statique a été abandonné au profit du pipeline dynamique. Ce nouveau pipeline, allié à la puissance des cartes graphiques actuelles, offre désormais des possibilités presque illimitées au niveau de la visualisation scientifique, et ce, même sur une machine standard, voire un simple portable. Cependant, le prix à payer est assez cher puisque la programmation des cartes graphiques modernes n'est pas très intuitif. Au travers d'un exemple en python/PyOpenGL (animation d'un cube), nous verrons pourquoi il devient nécessaire d'utiliser des librairies adaptées à la visualisation comme par exemple la récente librairie vispy qui permet d'ores et déjà d'abstraire une bonne partie du travail fastidieux de mise en place des buffers et shaders, composants essentiels de l'OpenGL moderne. Nous verrons par ailleurs qu'avec cette même interface, il est possible de faire très simplement du calcul cellulaire avec le GPU (Graphical Processing Unit), type jeu de la vie ou bien système de réaction-diffusion.
+</p>
+
+<h4 id="atelier1">Atelier: VTK/pySide</h4>
+<p>
+Intervenants: Sylvain Faure (LMO) et Marc Poinot (ONERA).
+</p>
+<p>
+Nous construisons une interface graphique Qt simple avec une fenetre de visualisation VTK.
+L'outil Qt/designer est utilisé avec PySide, le cycle édition/production/test (designer/cython/python) est mis en oeuvre.
+Une bonne connaissance de Python est requise.
+</p>
+<p>
+TP:
+</p>
+<ul>
+<li> support de TP: visualisation d'une grille cartésienne 3D (représentation en numpy)</li>
+<li> mise en place de la prod designer/cython/python</li>
+<li> construction d'une petite interface avec designer, intégration avec PySide</li>
+<li> ajout d'une fenêtre VTK, interactions VTK/Qt</li>
+<li> aspects performance avec utilisation de Cython</li>
+</ul>
+<p>
+Prérequis:
+</p>
+<ul>
+<li> python 2.7, numpy, cython</li>
+<li> Qt (avec designer), PySide, VTK (avec binding python de VTK, mais pas pyVTK)</li>
+</ul>
+</p>
+
+<h4 id="atelier2">Atelier: hdf5/vispy</h4>
+<p>
+Intervenants: Nicolas Rougier (INRIA) et Cyrille Rossant (University College London).
+</p>
+<p>
+</p>
