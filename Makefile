@@ -10,3 +10,8 @@ pre1.0: style
 
 style:
 	lessc less/bootstrap.less > style.css
+
+.PHONY: tools
+
+tools:
+	cd tools && $(MAKE)
