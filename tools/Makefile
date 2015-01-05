@@ -2,4 +2,4 @@
 all: gen_interviews
 
 gen_interviews: gen_interviews.ml
-	ocamlopt -o $@ $<
+	ocamlopt -o $@ str.cmxa $<

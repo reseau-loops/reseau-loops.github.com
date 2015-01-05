@@ -31,10 +31,19 @@ let file_of_string ~file s =
   close_out oc
 (*/c==v=[File.file_of_string]=1.1====*)
 
+let re = Str.regexp "[^a-zA-Z#]#\\([^#\n\r\t .?!<>]+\\|\\({[^}]+}\\)\\)"
+let map_contents tags str =
+  let f s =
+    let tag = Str.matched_group 1 s in
+    tag
+  in
+  (tags, Str.global_substitute re f str)
+
 let handle_file outdir tags file =
+  prerr_endline (Printf.sprintf "handling file "^file);
   let contents = string_of_file file in
   let outfile = Filename.concat outdir (Filename.basename file) in
-  let (tags, contents) = tags, contents in
+  let (tags, contents) = map_contents tags contents in
   file_of_string ~file: outfile contents;
   tags
 
@@ -57,3 +66,5 @@ let main () =
   match List.rev !args with
     [] -> ()
   | files -> handle_files !outdir files
+
+let () = main ()
