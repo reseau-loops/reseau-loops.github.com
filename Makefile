@@ -15,3 +15,7 @@ style:
 
 tools:
 	cd tools && $(MAKE)
+
+interviews: tools
+	rm -fr tags/*
+	./tools/gen_interviews interviews/20*.md
