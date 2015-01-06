@@ -3645,6 +3645,11 @@ h3 {
   width: 80% ;
   margin-left: auto;
   margin-right: auto;
+  text-align: justify;
+}
+.tag-cloud span {
+  margin-left: 0.3em ;
+  margin-right: 0.2em;
 }
 .hll {
   background-color: #ffffcc;

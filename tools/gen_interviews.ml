@@ -72,7 +72,7 @@ let tag_link tag text =
   let link = Printf.sprintf "{{site.url}}/tags/%s.html" (percentize tag) in
   Printf.sprintf "[#%s](%s)" text link
 
-let re = Str.regexp "\\([^a-zA-Z#]\\)#\\(\\[\\([^]]+\\)\\]\\)?\\(\\([^{#\n\r\t .?!<>]+\\)\\|\\({\\([^}]+\\)}\\)\\)"
+let re = Str.regexp "\\([^a-zA-Z#]\\)#\\(\\[\\([^]]+\\)\\]\\)?\\(\\([^{#\n\r\t .,;?!<>/\"]+\\)\\|\\({\\([^}]+\\)}\\)\\)"
 let map_contents tags doc str =
   let tags = ref tags in
   let local_tags = ref [] in
@@ -170,7 +170,7 @@ let create_tag_cloud tags =
       Printf.bprintf b "<a href=\"%s\"><span style=\"color: %s; font-size: %.2f%%\">%s </span></a>"
         link
         (if !n then "red" else "orange")
-        (80. +. (float t.tag_count /. total) *. 100.) tag
+        (100. +. (float t.tag_count /. total) *. 1000.) tag
     )
     tags;
     Buffer.add_string b "</div>";
