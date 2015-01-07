@@ -159,10 +159,20 @@ title: Interviews avec le tag \"%s\"
 let create_tag_indexes tags = SMap.iter create_tag_index tags
 
 let create_tag_cloud tags =
-  let max_count = float (SMap.fold (fun _ t acc -> max acc t.tag_count) tags 1) in
+  let (total, max_count) =
+    (SMap.fold (fun _ t (acc_tot, acc_max) ->
+        (acc_tot + t.tag_count, max acc_max t.tag_count))
+     tags (0, 0))
+  in
+  let total = float total
+  and max_count = float max_count in
   let b = Buffer.create 256 in
   Buffer.add_string b "<div class=\"tag-cloud\">";
   let n = ref true in
+  let base =
+    let avg = total /. float (SMap.cardinal tags) in
+    100. -. ((avg /. max_count) *. 100.)
+  in
   SMap.iter
     (fun tag t ->
       let link = Printf.sprintf "{{site.url}}/tags/%s.html" (percentize tag) in
@@ -170,7 +180,7 @@ let create_tag_cloud tags =
       Printf.bprintf b "<a href=\"%s\"><span style=\"color: %s; font-size: %.2f%%\">%s </span></a>"
         link
         (if !n then "red" else "orange")
-        (80. +. (float t.tag_count /. max_count) *. 100.) tag
+        (base +. (float t.tag_count /. max_count) *. 100.) tag
     )
     tags;
     Buffer.add_string b "</div>";
