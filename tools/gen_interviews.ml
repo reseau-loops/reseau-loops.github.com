@@ -159,7 +159,7 @@ title: Interviews avec le tag \"%s\"
 let create_tag_indexes tags = SMap.iter create_tag_index tags
 
 let create_tag_cloud tags =
-  let total = float (SMap.fold (fun _ t acc -> acc + t.tag_count) tags 0) in
+  let max_count = float (SMap.fold (fun _ t acc -> max acc t.tag_count) tags 1) in
   let b = Buffer.create 256 in
   Buffer.add_string b "<div class=\"tag-cloud\">";
   let n = ref true in
@@ -170,7 +170,7 @@ let create_tag_cloud tags =
       Printf.bprintf b "<a href=\"%s\"><span style=\"color: %s; font-size: %.2f%%\">%s </span></a>"
         link
         (if !n then "red" else "orange")
-        (100. +. (float t.tag_count /. total) *. 1000.) tag
+        (80. +. (float t.tag_count /. max_count) *. 100.) tag
     )
     tags;
     Buffer.add_string b "</div>";
