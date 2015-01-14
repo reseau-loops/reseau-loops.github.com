@@ -8,5 +8,5 @@ navbar-blog: active
 C'est <a href="contribute.html">par là</a>.
 </div>
 <div class="rss"> <a href="feed.xml"><img src="{{site.url}}/rss.png" width="30" alt="RSS feed"/></a></div>
-{% assign posts = site.posts %}
+{% assign posts = site.posts | where: "layout", "post" %}
 {% include post-listing.html %}
