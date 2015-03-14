@@ -3636,6 +3636,29 @@ dt {
   overflow: visible;
   white-space: normal;
 }
+h3 {
+  line-height: 1em;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+.tag-cloud {
+  width: 80% ;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+.tag-cloud span {
+  margin-left: 0.3em ;
+  margin-right: 0.2em;
+}
+h2 {
+  font-size: 20px;
+  line-height: 36px;
+  margin-top: 0.6em;
+}
+h2 small {
+  font-size: 16px;
+}
 .hll {
   background-color: #ffffcc;
 }

@@ -1,0 +1,13 @@
+---
+layout: default
+no_sidebar: true
+navbar-blog: active
+title: Interviews avec le tag "programmation dirigée par les tests"
+---
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% if t == "programmation dirigée par les tests" %}
+    {% assign posts = site.tags.#[t] %}
+  {% endif %}
+{% endfor %}
+{% include post-listing.html %}

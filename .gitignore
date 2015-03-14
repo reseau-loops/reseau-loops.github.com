@@ -4,4 +4,6 @@ _site
 *.log
 *.tns
 *.out
-
+tools/*.cm*
+tools/*.o
+tools/gen_interviews
