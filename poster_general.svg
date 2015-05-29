@@ -3190,15 +3190,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
      inkscape:cx="1437.8372"
-     inkscape:cy="1329.3404"
+     inkscape:cy="1490.9648"
      inkscape:document-units="px"
-     inkscape:current-layer="g4645-0"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1914"
-     inkscape:window-height="1168"
+     inkscape:window-width="1600"
+     inkscape:window-height="879"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="21"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -3787,7 +3787,12 @@
          x="2694.1118"
          y="117.18217"
          style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         id="tspan8763">► Aggrégation fils RSS des autres réseaux</tspan></text>
+         id="tspan5573">► Interviews de développeurs</tspan><tspan
+         sodipodi:role="line"
+         x="2694.1118"
+         y="197.18217"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="tspan8763">► Agrégation des fils RSS des autres réseaux</tspan></text>
     <g
        id="g4645-0"
        transform="translate(-2626.071,-290.93524)"
