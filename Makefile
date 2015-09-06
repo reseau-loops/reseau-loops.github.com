@@ -10,3 +10,18 @@ pre1.0: style
 
 style:
 	lessc less/bootstrap.less > style.css
+
+.PHONY: tools
+
+tools:
+	cd tools && $(MAKE)
+
+interviews: tools
+	rm -fr tags/*
+	./tools/gen_interviews interviews/20*.md
+
+tmp: style
+	echo url: file:///tmp/loops > _config_local.yml
+	jekyll build --config _config.yml,_config_local.yml
+	rm -fr /tmp/loops
+	cp -fr _site /tmp/loops

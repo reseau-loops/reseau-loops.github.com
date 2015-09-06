@@ -43,7 +43,7 @@ C'est <a href="contribute.html">par là</a>.
 </span>
 </div>
 
-{% assign posts = site.posts %}
+{% assign posts = site.posts | where: "layout", "post"%}
 {% assign listing_limit = 5 %}
 {% include post-listing.html %}
 
