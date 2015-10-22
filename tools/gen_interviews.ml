@@ -1,6 +1,11 @@
 
-module SMap = Map.Make(String)
-module SSet = Set.Make(String)
+module S = struct
+    type t = string
+    let compare s1 s2 =
+      String.compare (String.lowercase s1) (String.lowercase s2)
+  end
+module SMap = Map.Make(S)
+module SSet = Set.Make(S)
 
 type tag = {
     tag_count : int ;
