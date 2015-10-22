@@ -1,0 +1,13 @@
+---
+layout: default
+no_sidebar: true
+navbar-blog: active
+title: Interviews avec le tag "administration système"
+---
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% if t == "administration système" %}
+    {% assign posts = site.tags.#[t] %}
+  {% endif %}
+{% endfor %}
+{% include post-listing.html %}

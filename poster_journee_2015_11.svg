@@ -12376,8 +12376,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="2912.1139"
-     inkscape:cy="1382.2499"
+     inkscape:cx="2010.8036"
+     inkscape:cy="2882.6305"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -12395,7 +12395,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -16317,7 +16317,10 @@
        x="246.4772"
        y="2293.0173"
        id="text7616"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-xdpi="61"
+       inkscape:export-ydpi="61"><tspan
          sodipodi:role="line"
          x="246.4772"
          y="2293.0173"
