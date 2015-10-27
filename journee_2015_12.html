@@ -1,0 +1,88 @@
+---
+layout: default
+no_sidebar: true
+title: 17 décembre 2015 - Journée LoOPS
+navbar-events: active
+---
+<p>
+La huitième journée de rencontres et d'échanges organisée
+par le réseau LoOPS aura lieu le <strong>jeudi 18 novembre 2015</strong> au
+<a href="http://proto204.co">Proto 204</a>. Elle aura pour thème:
+</p>
+<center>
+<p><strong> Docker et Unikernel sont dans un bâteau...</strong></p>
+</center>
+<!--<p>
+<i>
+Journée LoOPS réalisée en partenariat avec les services valorisation du CNRS, d'inria, de CentraleSupélec
+et d'UPSud ainsi qu'en lien avec le réseau national de développeurs <a href="http://devlog.cnrs.fr/">DevLOG</a>.
+</i>
+</p>-->
+<p>
+Bla bla intro
+</p>
+<p>
+</p>
+<h2>Programme</h2>
+<ul>
+<li><strong>09h30:</strong> Accueil et présentation de la journée</li>
+<li><strong>09h45:</strong> <a href="#docker">Introduction à Docker</a></li>
+<li><strong>10h45:</strong> Pause</li>
+<li><strong>11h00:</strong> <a href="#unikernel">Introduction à Unikernel</a></li>
+<li><strong>12h00:</strong> Repas</li>
+<li><strong>14h00:</strong> Ateliers en parallèle:
+  <ul>
+    <li><a href="#atelier-docker">Atelier Docker</a>,</li>
+    <li><a href="#atelier-unikernel">Atelier Unikernel</a></li>
+  </ul>
+</li>
+<li><strong>16h30:</strong>  Bilan de la journée - Sondage</li>
+</ul>
+
+<h2>Inscriptions</h2>
+<p>
+L'inscription est <b>gratuite mais obligatoire</b> pour nous permettre
+de préparer au mieux cette journée. Veillez également à obtenir un ordre de mission
+(éventuellement sans frais) auprès de votre unité ou de votre tutelle.
+</p>
+<p>
+Merci de vous inscrire via
+<a href="https://indico.lal.in2p3.fr/event/3007/registration/register#/register">ce formulaire</a>
+</p>
+
+<h2>Détail des interventions</h2>
+<h3><a name="docker"></a>Introduction à Docker (Sébastien Binet, ??)</h3>
+<p>
+...
+</p>
+<h3><a name="unikernel"></a>Introduction à Unikernel (Thomas Gazagnaire, Unikernel Systems)</h3>
+<p>
+Le déploiement d'applications modernes dans le "cloud" repose sur l'utilisation de couches d'abstractions
+de plus en plus complexes afin d'être compatible avec le plus grand nombre possible d'applications existantes:
+hardware, <a href="https://fr.wikipedia.org/wiki/Hyperviseur">hyperviseur</a> (Xen), système d'exploitation
+multi-utilisateurs, machine virtuelle, language runtime, paramètres de configuration, ... Chaque couche
+apportant ses propres abstractions, son propre cycle de mise à jour et de maintenance.
+
+Les unikernels proposent de revisiter cette approche en compilant directement le code de
+l'application, ses dépendances systèmes et sa configuration en une image unique, exécutée
+directement sur l'hyperviseur ou le hardware. Cet exposé aborde les concepts, avantages et
+inconvénients des unikernels et présente les différents projets existants et leur relations:
+en particulier <a href="https://mirage.io/">MirageOS</a> et <a href="http://rumpkernel.org/">Rump Kernels</a>.
+J'essaierai de vous convaincre que les unikernels représentent <a href="https://twitter.com/sjfloat/status/658588545662255104">le futur</a>
+des applications déployées dans le "cloud".
+</p>
+<h3><a name="atelier-docker"></a>Création et utilisation de conteneurs avec Docker (Sébastien Binet)</h3>
+<p>
+...
+</p>
+<h3><a name="atelier-unikernel"></a>Développement et compilation d'un routeur programmable pour exécution sur Xen</h3>
+<p>
+Le but de cet atelier est de vous présenter <a href="https://mirage.io/">MirageOS</a> et de vous montrer
+comment l'utiliser pour écrire du code du haut niveau en <a href="https://ocaml.org/">OCaml</a> qui peut être déployé sans système
+d'exploitation dans le "cloud" ou sur du material embarqué. Au cours de cet atelier, vous serez amené
+à écrire en OCaml une petite application réseau programmable.
+</p>
+<p>Les pré-requis sont: une machine Unix ou OSX avec OCaml et <a href="https://opam.ocaml.org/">opam</a>
+installés, une <a href="https://www.france-universite-numerique-mooc.fr/courses/parisdiderot/56002/session01/about">connaissance basique d'OCaml</a>
+et une familiarité avec des concepts réseaux et/ou systèmes.
+</p>
