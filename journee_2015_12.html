@@ -90,9 +90,34 @@ Au programme de l'atelier:
 <li>conteneurs utilisant la pile graphique.</li>
 </ul>
 <p>
-Les participants à l'atelier doivent venir avec leur ordinateur portable avec
-docker préalablement installé.
+Les participants à l'atelier doivent venir avec leur ordinateur portable sous
+Linux ou Darwin 64b
+(les utilisateurs de Windows sont invités à créer une machine virtuelle pour
+avoir un Linux) avec:
 </p>
+<ul>
+<li><a href="https://docs.docker.com/installation/">Docker</a>
+(le TP a été testé avec docker-1.8.3),</li>
+<li>le <a href="https://golang.org/doc/install">SDK de go-1.5.x</a> (aucune réelle
+connaissance du langage de programmation Go n'est nécessaire pour le
+TP, mais il faut bien un programme à "dockerizer" et manipuler).</li>
+</ul>
+<p>
+Pour s'assurer que tout fonctionne correctement avant d'arriver sur place:
+</p>
+<pre><code>## testing whether docker was correctly installed
+$ docker pull busybox
+[...]
+$ docker run busybox echo "Hello World"
+Hello World
+
+## testing whether go was correctly installed
+$ cat > hello.go
+package main
+func main() { println("hello go") }
+
+$ go run ./hello.go
+hello go</code></pre>
 <h3><a name="atelier-unikernel"></a>Développement et compilation d'un routeur programmable pour exécution sur Xen</h3>
 <p>
 Le but de cet atelier est de vous présenter <a href="https://mirage.io/">MirageOS</a> et de vous montrer
