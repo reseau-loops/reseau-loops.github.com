@@ -7,3 +7,5 @@ _site
 tools/*.cm*
 tools/*.o
 tools/gen_interviews
+_config_local.yml
+
