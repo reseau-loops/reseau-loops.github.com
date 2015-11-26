@@ -218,46 +218,46 @@ a:hover {
 }
 .row-fluid > [class*="span"] {
   float: left;
-  margin-left: 2.127659574%;
+  margin-left: 2.12765957%;
 }
 .row-fluid > [class*="span"]:first-child {
   margin-left: 0;
 }
 .row-fluid .span1 {
-  width: 6.382978723%;
+  width: 6.38297872%;
 }
 .row-fluid .span2 {
   width: 14.89361702%;
 }
 .row-fluid .span3 {
-  width: 23.404255317%;
+  width: 23.40425532%;
 }
 .row-fluid .span4 {
-  width: 31.914893614%;
+  width: 31.91489361%;
 }
 .row-fluid .span5 {
-  width: 40.425531911%;
+  width: 40.42553191%;
 }
 .row-fluid .span6 {
-  width: 48.93617020799999%;
+  width: 48.93617021%;
 }
 .row-fluid .span7 {
-  width: 57.446808505%;
+  width: 57.4468085%;
 }
 .row-fluid .span8 {
-  width: 65.95744680199999%;
+  width: 65.9574468%;
 }
 .row-fluid .span9 {
-  width: 74.468085099%;
+  width: 74.4680851%;
 }
 .row-fluid .span10 {
-  width: 82.97872339599999%;
+  width: 82.9787234%;
 }
 .row-fluid .span11 {
-  width: 91.489361693%;
+  width: 91.48936169%;
 }
 .row-fluid .span12 {
-  width: 99.99999998999999%;
+  width: 99.99999999%;
 }
 .container {
   width: 700px;
@@ -588,7 +588,6 @@ input[type="radio"] {
   margin: 3px 0;
   *margin-top: 0;
   /* IE7 */
-
   line-height: normal;
   border: 0;
   cursor: pointer;
@@ -614,10 +613,8 @@ select,
 input[type="file"] {
   height: 28px;
   /* In IE7, the height of the select element cannot be changed by height, only font-size */
-
   *margin-top: 4px;
   /* For IE7, add top margin to align select with labels */
-
   line-height: 28px;
 }
 select {
@@ -686,7 +683,6 @@ textarea:focus {
   outline: 0;
   outline: thin dotted \9;
   /* IE6-8 */
-
 }
 input[type="file"]:focus,
 input[type="checkbox"]:focus,
@@ -913,7 +909,6 @@ select:focus:required:invalid:focus {
   display: inline-block;
   *display: inline;
   /* IE7 inline-block hack */
-
   *zoom: 1;
   margin-bottom: 9px;
   vertical-align: middle;
@@ -982,7 +977,6 @@ select:focus:required:invalid:focus {
 .input-prepend .add-on {
   *margin-top: 1px;
   /* IE6-7 */
-
 }
 .input-append input,
 .input-append .uneditable-input {
@@ -2044,7 +2038,6 @@ input[type="submit"].btn.small {
   display: inline-block;
   *display: inline;
   /* IE7 inline-block hack */
-
   *zoom: 1;
 }
 .btn-group .btn {
@@ -2816,7 +2809,6 @@ input[type="submit"].btn.small {
   display: inline-block;
   *display: inline;
   /* IE7 inline-block hack */
-
   *zoom: 1;
   margin-left: 0;
   margin-bottom: 0;
@@ -2949,7 +2941,6 @@ input[type="submit"].btn.small {
   border: 1px solid rgba(0, 0, 0, 0.3);
   *border: 1px solid #999;
   /* IE6-7 */
-
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
@@ -3555,7 +3546,6 @@ div#disqus_thread {
 }
 div#page {
   /*   background-image: url('draft.svg') ;*/
-
   background-repeat: repeat-xy;
   background-position: top left ;
 }
@@ -3935,4 +3925,3 @@ h2 small {
   color: #0000DD;
   font-weight: bold;
 }
-/* Literal.Number.Integer.Long */
