@@ -12506,9 +12506,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
+     inkscape:zoom="0.12374369"
      inkscape:cx="902.62002"
-     inkscape:cy="1436.4772"
+     inkscape:cy="2891.3951"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -12526,7 +12526,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12543,13 +12543,13 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png" />
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png" />
     <path
        id="path38271"
        d="m 1096.9587,938.67417 103.093,20.76705 -20.7671,103.09298 -103.0929,-20.767 20.767,-103.09303 z"
        inkscape:connector-curvature="0"
        style="fill:none"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61.48"
        inkscape:export-ydpi="61.48" />
     <rect
@@ -12576,7 +12576,7 @@
        x="-0.076433457"
        y="213.07954"
        ry="0.27286881"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61" />
     <text
@@ -12586,7 +12586,7 @@
        y="631.62616"
        id="text4412-5-7-1"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61"><tspan
          sodipodi:role="line"
@@ -12601,7 +12601,7 @@
        y="508.38373"
        id="text4412-5-7-1-4"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61"><tspan
          sodipodi:role="line"
@@ -12621,7 +12621,7 @@
        y="1212.573"
        id="text4315-8-5-0"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/tmp/poster.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61.48"
        inkscape:export-ydpi="61.48"><tspan
          sodipodi:role="line"
@@ -12676,7 +12676,10 @@
        y="2189.7209"
        x="-169.4763"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
+       inkscape:export-xdpi="61"
+       inkscape:export-ydpi="61"><tspan
          style="font-size:144px;font-style:italic;font-weight:bold;-inkscape-font-specification:Sans Bold Italic"
          y="2189.7209"
          x="-169.4763"
@@ -12688,7 +12691,7 @@
            style="font-style:italic;font-weight:bold;fill:#84f038;fill-opacity:1;-inkscape-font-specification:Sans Bold Italic"> OS</tspan></tspan></text>
     <g
        id="g13307"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61">
       <rect
@@ -12716,7 +12719,7 @@
     <g
        id="g20013"
        transform="translate(-984.57138,151.71427)"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61">
       <rect
@@ -12745,7 +12748,7 @@
        style="display:inline"
        id="g11443-5-8"
        transform="translate(-235.71062,1031.027)"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61">
       <text
@@ -12778,7 +12781,7 @@
     <text
        inkscape:export-ydpi="61.48"
        inkscape:export-xdpi="61.48"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        sodipodi:linespacing="125%"
        id="text4315-8-5-0-4-9"
        y="2430.988"
@@ -12814,7 +12817,7 @@
        y="775.07562"
        id="text4412-5-7-1-0"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61"><tspan
          sodipodi:role="line"
@@ -12844,7 +12847,7 @@
        y="2365.7483"
        id="text7616"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61"><tspan
          sodipodi:role="line"
@@ -12854,7 +12857,10 @@
          id="tspan7633">Journée organisée en partenariat avec le réseau national de développeurs DevLOG.</tspan></text>
     <g
        id="g8640"
-       transform="matrix(1.5447578,0,0,1.5447578,1750.7213,958.78194)">
+       transform="matrix(1.5447578,0,0,1.5447578,1750.7213,958.78194)"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
+       inkscape:export-xdpi="61"
+       inkscape:export-ydpi="61">
       <rect
          id="rect8586"
          height="612"
@@ -13001,7 +13007,10 @@
     </g>
     <g
        id="g10734"
-       transform="matrix(0.7000153,0,0,0.7000153,2264.0718,488.1947)">
+       transform="matrix(0.7000153,0,0,0.7000153,2264.0718,488.1947)"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
+       inkscape:export-xdpi="61"
+       inkscape:export-ydpi="61">
       <rect
          id="rect9858"
          cy="0"
@@ -16042,7 +16051,10 @@
     </g>
     <g
        id="g11284"
-       transform="matrix(0.13165603,-0.02718082,0.02718082,0.13165603,2019.5449,1962.7322)">
+       transform="matrix(0.13165603,-0.02718082,0.02718082,0.13165603,2019.5449,1962.7322)"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
+       inkscape:export-xdpi="61"
+       inkscape:export-ydpi="61">
       <path
          style="fill:#e1e1e1;fill-opacity:1;stroke:#a2a2a2;stroke-width:115.99995422;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="path7533"
@@ -16057,7 +16069,10 @@
     <g
        transform="matrix(1.6373112,0.11643158,-0.11643158,1.6373112,1143.4672,1321.375)"
        id="layer1-64"
-       inkscape:label="Layer 1">
+       inkscape:label="Layer 1"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
+       inkscape:export-xdpi="61"
+       inkscape:export-ydpi="61">
       <g
          id="g33001">
         <path
@@ -16173,13 +16188,13 @@
        x="-6.7396339e-11"
        y="-3161.9944"
        ry="0.27286881"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61.48"
        inkscape:export-ydpi="61.48" />
     <g
        id="g10872"
        transform="translate(1427.4826,-3131.4729)"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61">
       <rect
@@ -16260,7 +16275,7 @@
        y="-3056.2737"
        id="text3981"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61.48"
        inkscape:export-ydpi="61.48"><tspan
          sodipodi:role="line"
@@ -16272,7 +16287,7 @@
        d="m 2394.5206,-3063.9335 c 0,0 16.0526,24.3223 48.7138,23.7659 21.0558,-0.6249 50.937,-9.937 58.9289,-40.6523 0,0 8.5823,1.4591 14.6624,-5.2119 -8.3044,1.1467 -13.8286,-1.4593 -13.8286,-1.4593 0,0 10.8755,-0.3129 13.2726,-6.7408 -6.4275,2.7799 -14.3846,0.4169 -14.3846,0.4169 0,0 -3.7528,-23.0016 -26.6158,-23.8355 0,0 12.2192,-2.4901 10.3081,-5.3045 -1.5285,-2.0501 -10.0296,1.7606 -10.0296,1.7606 0,0 4.7372,-2.0849 4.6329,-4.3085 -4.795,0.5556 -9.1961,4.0998 -9.1961,4.0998 0,0 1.343,-2.154 1.3661,-3.0574 -11.4194,6.347 -19.1793,29.9855 -19.1793,29.9855 0,0 -2.8956,-3.2083 -7.7136,-6.6829 -11.6282,-6.8562 -33.0779,-14.9637 -33.0779,-14.9637 0,0 -1.4362,8.8487 10.0066,15.3345 -4.6789,0.3707 -7.0417,0.9729 -7.0417,0.9729 0,0 0,9.4043 13.6434,12.4621 -6.3236,0.2314 -8.4084,3.3818 -8.4084,3.3818 0,0 3.5673,8.3854 14.7784,7.6906 -9.1266,4.7251 -3.1965,11.1647 4.2621,10.4697 -23.9977,21.4961 -45.0997,1.8765 -45.0997,1.8765 z"
        inkscape:connector-curvature="0"
        style="fill:#5dd7fc"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61.48"
        inkscape:export-ydpi="61.48" />
     <text
@@ -16282,7 +16297,7 @@
        y="-3067.4153"
        id="text4412-5-2-7"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61.48"
        inkscape:export-ydpi="61.48"><tspan
          sodipodi:role="line"
@@ -16297,7 +16312,7 @@
        x="-2.3437075e-10"
        y="-3003.667"
        ry="0.051541843"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61.48"
        inkscape:export-ydpi="61.48" />
     <text
@@ -16403,7 +16418,7 @@
        y="-1642.111"
        id="text4412-5-7"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61"><tspan
          sodipodi:role="line"
@@ -16506,7 +16521,7 @@
     <g
        id="g5573"
        transform="translate(-12.121831,-2129.4016)"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61">
       <rect
@@ -18927,7 +18942,7 @@
        transform="translate(2.0406102,4064.8539)"
        width="2995.9199"
        height="4212.9902"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61" />
     <text
@@ -18937,7 +18952,7 @@
        y="1017.8105"
        id="text4251"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61.48"
        inkscape:export-ydpi="61.48"><tspan
          sodipodi:role="line"
@@ -18975,7 +18990,7 @@
            sodipodi:cy="338.83038"
            sodipodi:rx="34.831955"
            sodipodi:ry="48.884331"
-           d="m 372.83644,338.83038 a 34.831955,48.884331 0 1 1 -69.66391,0 34.831955,48.884331 0 1 1 69.66391,0 z"
+           d="m 372.83644,338.83038 c 0,26.99807 -15.5948,48.88433 -34.83195,48.88433 -19.23716,0 -34.83196,-21.88626 -34.83196,-48.88433 0,-26.99807 15.5948,-48.88433 34.83196,-48.88433 19.23715,0 34.83195,21.88626 34.83195,48.88433 z"
            transform="matrix(1.4074205,0,0,1.3288674,-381.65831,161.56525)" />
         <path
            id="path6184"
@@ -19000,7 +19015,7 @@
            sodipodi:cy="341.96973"
            sodipodi:rx="33.7855"
            sodipodi:ry="27.805765"
-           d="m 450.27399,341.96973 a 33.7855,27.805765 0 1 1 -67.57099,0 33.7855,27.805765 0 1 1 67.57099,0 z"
+           d="m 450.27399,341.96973 c 0,15.3567 -15.12628,27.80576 -33.7855,27.80576 -18.65921,0 -33.78549,-12.44906 -33.78549,-27.80576 0,-15.3567 15.12628,-27.80577 33.78549,-27.80577 18.65922,0 33.7855,12.44907 33.7855,27.80577 z"
            transform="matrix(1.5077275,0,0,1.6143082,-431.41028,62.403971)" />
         <path
            style="fill:url(#linearGradient12842);fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -19088,7 +19103,7 @@
            sodipodi:cy="343.01617"
            sodipodi:rx="9.5675755"
            sodipodi:ry="17.191736"
-           d="m 373.43443,343.01617 a 9.5675755,17.191736 0 1 1 -19.13515,0 9.5675755,17.191736 0 1 1 19.13515,0 z"
+           d="m 373.43443,343.01617 c 0,9.49474 -4.28355,17.19174 -9.56758,17.19174 -5.28402,0 -9.56757,-7.697 -9.56757,-17.19174 0,-9.49473 4.28355,-17.19173 9.56757,-17.19173 5.28403,0 9.56758,7.697 9.56758,17.19173 z"
            transform="matrix(1.5181897,0,0,1.3495019,-423.05798,153.56492)" />
         <path
            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.26267231;stroke-opacity:1"
@@ -19106,7 +19121,7 @@
              sodipodi:cy="343.01617"
              sodipodi:rx="9.5675755"
              sodipodi:ry="17.191736"
-             d="m 373.43443,343.01617 a 9.5675755,17.191736 0 1 1 -19.13515,0 9.5675755,17.191736 0 1 1 19.13515,0 z"
+             d="m 373.43443,343.01617 c 0,9.49474 -4.28355,17.19174 -9.56758,17.19174 -5.28402,0 -9.56757,-7.697 -9.56757,-17.19174 0,-9.49473 4.28355,-17.19173 9.56757,-17.19173 5.28403,0 9.56758,7.697 9.56758,17.19173 z"
              transform="matrix(1.125,0,0,1,-46.679302,0)" />
           <path
              style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.93565798;stroke-opacity:1"
@@ -19127,11 +19142,11 @@
            sodipodi:cy="577.44623"
            sodipodi:rx="36.587002"
            sodipodi:ry="23.239302"
-           d="m 327.25702,577.44623 a 36.587002,23.239302 0 1 1 -73.17401,0 36.587002,23.239302 0 1 1 73.17401,0 z"
+           d="m 327.25702,577.44623 c 0,12.83471 -16.38056,23.2393 -36.58701,23.2393 -20.20644,0 -36.587,-10.40459 -36.587,-23.2393 0,-12.83471 16.38056,-23.2393 36.587,-23.2393 20.20645,0 36.58701,10.40459 36.58701,23.2393 z"
            transform="matrix(1.4710328,0,0,1.6030874,-396.77953,-0.18507935)" />
         <path
            transform="matrix(1.4710328,0,0,1.6030874,-158.37323,-0.18507935)"
-           d="m 327.25702,577.44623 a 36.587002,23.239302 0 1 1 -73.17401,0 36.587002,23.239302 0 1 1 73.17401,0 z"
+           d="m 327.25702,577.44623 c 0,12.83471 -16.38056,23.2393 -36.58701,23.2393 -20.20644,0 -36.587,-10.40459 -36.587,-23.2393 0,-12.83471 16.38056,-23.2393 36.587,-23.2393 20.20645,0 36.58701,10.40459 36.58701,23.2393 z"
            sodipodi:ry="23.239302"
            sodipodi:rx="36.587002"
            sodipodi:cy="577.44623"
@@ -21928,7 +21943,7 @@
              transform="matrix(2.39908,0,0,2.113261,325.0952,-172.6863)"
              sodipodi:end="6.4558823"
              sodipodi:start="5.4468442"
-             d="m -64.252869,254.3939 a 89.624252,89.624252 0 0 1 28.226439,81.91978 l -88.29108,-15.40102 z"
+             d="m -64.252869,254.3939 c 22.860294,20.64223 33.519259,51.57706 28.226439,81.91978 l -88.29108,-15.40102 z"
              sodipodi:ry="89.624252"
              sodipodi:rx="89.624252"
              sodipodi:cy="320.91266"
@@ -21940,7 +21955,7 @@
              transform="matrix(1.119845,0,0,1,138.6427,190.8129)"
              sodipodi:end="5.8076457"
              sodipodi:start="5.342344"
-             d="m 1.9194669,216.45639 a 165.20886,118.5353 0 0 1 49.5523161,41.5153 l -146.878247,54.26763 z"
+             d="m 1.9194669,216.45639 c 20.7994681,10.87982 37.7679851,25.09617 49.5523161,41.5153 l -146.878247,54.26763 z"
              sodipodi:ry="118.5353"
              sodipodi:rx="165.20886"
              sodipodi:cy="312.23932"
@@ -21956,7 +21971,7 @@
              transform="matrix(2.39908,0,0,2.113261,325.0952,-172.6863)"
              sodipodi:end="6.4558823"
              sodipodi:start="5.4468442"
-             d="m -64.252869,254.3939 a 89.624252,89.624252 0 0 1 28.226439,81.91978 l -88.29108,-15.40102 z"
+             d="m -64.252869,254.3939 c 22.860294,20.64223 33.519259,51.57706 28.226439,81.91978 l -88.29108,-15.40102 z"
              sodipodi:ry="89.624252"
              sodipodi:rx="89.624252"
              sodipodi:cy="320.91266"
@@ -21968,7 +21983,7 @@
              transform="matrix(1.119845,0,0,1,138.6427,190.8129)"
              sodipodi:end="5.8076457"
              sodipodi:start="5.342344"
-             d="m 1.9194669,216.45639 a 165.20886,118.5353 0 0 1 49.5523161,41.5153 l -146.878247,54.26763 z"
+             d="m 1.9194669,216.45639 c 20.7994681,10.87982 37.7679851,25.09617 49.5523161,41.5153 l -146.878247,54.26763 z"
              sodipodi:ry="118.5353"
              sodipodi:rx="165.20886"
              sodipodi:cy="312.23932"
@@ -21985,7 +22000,7 @@
            sodipodi:cy="466.64789"
            sodipodi:rx="219.84924"
            sodipodi:ry="262.32553"
-           d="m 561.11378,271.40195 a 219.84924,262.32553 0 1 1 -0.28435,-0.30392 L 414.28571,466.64789 z"
+           d="m 561.11378,271.40195 c 90.37108,96.75819 97.89414,262.61079 16.80324,370.44214 C 496.82611,749.67544 357.82871,758.65201 267.45763,661.89382 177.08655,565.13564 169.56349,399.28304 250.65439,291.45169 331.64575,183.75271 470.42879,174.64578 560.82943,271.09803 L 414.28571,466.64789 z"
            sodipodi:start="5.4437161"
            sodipodi:end="11.725165"
            transform="matrix(1.117664,0,0,1.5673736,-83.03204,-134.02418)" />
@@ -21997,7 +22012,7 @@
            sodipodi:cy="309.50504"
            sodipodi:rx="128.57143"
            sodipodi:ry="88.163719"
-           d="m 460.15316,243.88577 a 128.57143,88.163719 0 1 1 -8.81652,-4.95894"
+           d="m 460.15316,243.88577 c 52.85048,32.51899 57.25009,88.25959 9.82681,124.50011 -47.42329,36.24052 -128.71124,39.25741 -181.56172,6.73842 -52.85048,-32.51899 -57.25009,-88.25959 -9.82681,-124.50011 44.47483,-33.98733 119.43492,-39.06322 172.7452,-11.69736"
            sodipodi:start="5.4437161"
            sodipodi:end="11.638182"
            transform="matrix(1.393498,0,0,2.133333,-141.5662,-272.83678)"
@@ -22018,7 +22033,7 @@
              sodipodi:cy="255.21933"
              sodipodi:rx="80"
              sodipodi:ry="60"
-             d="m 170.5715,210.56201 a 80,60 0 1 1 -5.48584,-3.37482"
+             d="m 170.5715,210.56201 c 32.88474,22.13086 35.62228,60.06524 6.11446,84.7288 -29.50782,24.66356 -80.086993,26.71671 -112.971738,4.58584 -32.884745,-22.13086 -35.622282,-60.06524 -6.11446,-84.7288 27.67323,-23.13015 74.315068,-26.58455 107.485898,-7.96066"
              sodipodi:start="5.4437161"
              sodipodi:end="11.638182"
              sodipodi:open="true"
@@ -22031,7 +22046,7 @@
              sodipodi:cy="311.64789"
              sodipodi:rx="64.385155"
              sodipodi:ry="36.345383"
-             d="m 494.4287,284.59643 a 64.385155,36.345383 0 1 1 -4.41508,-2.04432"
+             d="m 494.4287,284.59643 c 26.46612,13.40591 28.66932,36.3849 4.921,51.32501 -23.74832,14.94011 -64.45516,16.18382 -90.92128,2.77791 -26.46612,-13.40592 -28.66933,-36.38491 -4.92101,-51.32502 22.27182,-14.01123 59.80984,-16.10376 86.50621,-4.82222"
              sodipodi:start="5.4437161"
              sodipodi:end="11.638182"
              sodipodi:open="true"
@@ -22048,7 +22063,7 @@
              sodipodi:cy="255.21933"
              sodipodi:rx="80"
              sodipodi:ry="60"
-             d="m 170.5715,210.56201 a 80,60 0 1 1 -5.48584,-3.37482"
+             d="m 170.5715,210.56201 c 32.88474,22.13086 35.62228,60.06524 6.11446,84.7288 -29.50782,24.66356 -80.086993,26.71671 -112.971738,4.58584 -32.884745,-22.13086 -35.622282,-60.06524 -6.11446,-84.7288 27.67323,-23.13015 74.315068,-26.58455 107.485898,-7.96066"
              sodipodi:start="5.4437161"
              sodipodi:end="11.638182"
              sodipodi:open="true"
@@ -22061,7 +22076,7 @@
              sodipodi:cy="311.64789"
              sodipodi:rx="64.385155"
              sodipodi:ry="36.345383"
-             d="m 494.4287,284.59643 a 64.385155,36.345383 0 1 1 -4.41508,-2.04432"
+             d="m 494.4287,284.59643 c 26.46612,13.40591 28.66932,36.3849 4.921,51.32501 -23.74832,14.94011 -64.45516,16.18382 -90.92128,2.77791 -26.46612,-13.40592 -28.66933,-36.38491 -4.92101,-51.32502 22.27182,-14.01123 59.80984,-16.10376 86.50621,-4.82222"
              sodipodi:start="5.4437161"
              sodipodi:end="11.638182"
              sodipodi:open="true"
@@ -22075,7 +22090,7 @@
            sodipodi:cy="436.55685"
            sodipodi:rx="31.802155"
            sodipodi:ry="31.802155"
-           d="m -189.81134,412.88687 a 31.802155,31.802155 0 1 1 -2.18076,-1.78878"
+           d="m -189.81134,412.88687 c 13.07258,11.73015 14.16082,31.83674 2.43067,44.90931 -11.73016,13.07257 -31.83674,14.16081 -44.90931,2.43066 -13.07257,-11.73015 -14.16082,-31.83674 -2.43066,-44.90931 11.00085,-12.25981 29.54224,-14.09077 42.72854,-4.21944"
            sodipodi:start="5.4437161"
            sodipodi:end="11.638182"
            sodipodi:open="true"
@@ -22088,7 +22103,7 @@
            sodipodi:cy="436.55685"
            sodipodi:rx="31.802155"
            sodipodi:ry="31.802155"
-           d="m -189.81134,412.88687 a 31.802155,31.802155 0 1 1 -2.18076,-1.78878"
+           d="m -189.81134,412.88687 c 13.07258,11.73015 14.16082,31.83674 2.43067,44.90931 -11.73016,13.07257 -31.83674,14.16081 -44.90931,2.43066 -13.07257,-11.73015 -14.16082,-31.83674 -2.43066,-44.90931 11.00085,-12.25981 29.54224,-14.09077 42.72854,-4.21944"
            sodipodi:start="5.4437161"
            sodipodi:end="11.638182"
            sodipodi:open="true"
@@ -22097,7 +22112,7 @@
            transform="matrix(1.409375,0,0,2.0935965,-182.9535,-333.10182)"
            sodipodi:end="5.4676134"
            sodipodi:start="3.9729139"
-           d="m 353.68981,404.90443 a 65.049858,78.059837 0 0 1 88.42567,0.8356 l -44.58856,56.83675 z"
+           d="m 353.68981,404.90443 c 25.12572,-27.50144 63.66399,-27.13726 88.42567,0.8356 l -44.58856,56.83675 z"
            sodipodi:ry="78.059837"
            sodipodi:rx="65.049858"
            sodipodi:cy="462.57678"
@@ -22110,7 +22125,7 @@
            sodipodi:open="true"
            sodipodi:end="10.237719"
            sodipodi:start="3.9729139"
-           d="m 114.64037,681.69541 a 138.77304,75.168724 0 1 1 -1.8686,0.9404"
+           d="m 114.64037,681.69541 c 56.625,-27.97665 144.39859,-25.79175 196.04781,4.88012 51.64921,30.67188 47.61554,78.2159 -9.00946,106.19256 -56.625,27.97665 -144.39859,25.79175 -196.04781,-4.88012 -50.979209,-30.27399 -47.803191,-77.08667 7.14086,-105.25216"
            sodipodi:ry="75.168724"
            sodipodi:rx="138.77304"
            sodipodi:cy="737.23175"
@@ -22123,7 +22138,7 @@
            sodipodi:open="true"
            sodipodi:end="10.237719"
            sodipodi:start="3.9729139"
-           d="m 114.64037,681.69541 a 138.77304,75.168724 0 1 1 -1.8686,0.9404"
+           d="m 114.64037,681.69541 c 56.625,-27.97665 144.39859,-25.79175 196.04781,4.88012 51.64921,30.67188 47.61554,78.2159 -9.00946,106.19256 -56.625,27.97665 -144.39859,25.79175 -196.04781,-4.88012 -50.979209,-30.27399 -47.803191,-77.08667 7.14086,-105.25216"
            sodipodi:ry="75.168724"
            sodipodi:rx="138.77304"
            sodipodi:cy="737.23175"
@@ -25801,7 +25816,7 @@
              transform="matrix(2.39908,0,0,2.113261,325.0952,-172.6863)"
              sodipodi:end="6.4558823"
              sodipodi:start="5.4468442"
-             d="m -64.252869,254.3939 a 89.624252,89.624252 0 0 1 28.226439,81.91978 l -88.29108,-15.40102 z"
+             d="m -64.252869,254.3939 c 22.860294,20.64223 33.519259,51.57706 28.226439,81.91978 l -88.29108,-15.40102 z"
              sodipodi:ry="89.624252"
              sodipodi:rx="89.624252"
              sodipodi:cy="320.91266"
@@ -25813,7 +25828,7 @@
              transform="matrix(1.119845,0,0,1,138.6427,190.8129)"
              sodipodi:end="5.8076457"
              sodipodi:start="5.342344"
-             d="m 1.9194669,216.45639 a 165.20886,118.5353 0 0 1 49.5523161,41.5153 l -146.878247,54.26763 z"
+             d="m 1.9194669,216.45639 c 20.7994681,10.87982 37.7679851,25.09617 49.5523161,41.5153 l -146.878247,54.26763 z"
              sodipodi:ry="118.5353"
              sodipodi:rx="165.20886"
              sodipodi:cy="312.23932"
@@ -25829,7 +25844,7 @@
              transform="matrix(2.39908,0,0,2.113261,325.0952,-172.6863)"
              sodipodi:end="6.4558823"
              sodipodi:start="5.4468442"
-             d="m -64.252869,254.3939 a 89.624252,89.624252 0 0 1 28.226439,81.91978 l -88.29108,-15.40102 z"
+             d="m -64.252869,254.3939 c 22.860294,20.64223 33.519259,51.57706 28.226439,81.91978 l -88.29108,-15.40102 z"
              sodipodi:ry="89.624252"
              sodipodi:rx="89.624252"
              sodipodi:cy="320.91266"
@@ -25841,7 +25856,7 @@
              transform="matrix(1.119845,0,0,1,138.6427,190.8129)"
              sodipodi:end="5.8076457"
              sodipodi:start="5.342344"
-             d="m 1.9194669,216.45639 a 165.20886,118.5353 0 0 1 49.5523161,41.5153 l -146.878247,54.26763 z"
+             d="m 1.9194669,216.45639 c 20.7994681,10.87982 37.7679851,25.09617 49.5523161,41.5153 l -146.878247,54.26763 z"
              sodipodi:ry="118.5353"
              sodipodi:rx="165.20886"
              sodipodi:cy="312.23932"
@@ -25858,7 +25873,7 @@
            sodipodi:cy="466.64789"
            sodipodi:rx="219.84924"
            sodipodi:ry="262.32553"
-           d="m 561.11378,271.40195 a 219.84924,262.32553 0 1 1 -0.28435,-0.30392 L 414.28571,466.64789 z"
+           d="m 561.11378,271.40195 c 90.37108,96.75819 97.89414,262.61079 16.80324,370.44214 C 496.82611,749.67544 357.82871,758.65201 267.45763,661.89382 177.08655,565.13564 169.56349,399.28304 250.65439,291.45169 331.64575,183.75271 470.42879,174.64578 560.82943,271.09803 L 414.28571,466.64789 z"
            sodipodi:start="5.4437161"
            sodipodi:end="11.725165"
            transform="matrix(1.117664,0,0,1.5898792,-83.03204,-139.34983)" />
@@ -25870,7 +25885,7 @@
            sodipodi:cy="309.50504"
            sodipodi:rx="128.57143"
            sodipodi:ry="88.163719"
-           d="m 460.15316,243.88577 a 128.57143,88.163719 0 1 1 -8.81652,-4.95894"
+           d="m 460.15316,243.88577 c 52.85048,32.51899 57.25009,88.25959 9.82681,124.50011 -47.42329,36.24052 -128.71124,39.25741 -181.56172,6.73842 -52.85048,-32.51899 -57.25009,-88.25959 -9.82681,-124.50011 44.47483,-33.98733 119.43492,-39.06322 172.7452,-11.69736"
            sodipodi:start="5.4437161"
            sodipodi:end="11.638182"
            transform="matrix(1.393498,0,0,2.1639651,-141.5662,-280.1556)"
@@ -25891,7 +25906,7 @@
              sodipodi:cy="255.21933"
              sodipodi:rx="80"
              sodipodi:ry="60"
-             d="m 170.5715,210.56201 a 80,60 0 1 1 -5.48584,-3.37482"
+             d="m 170.5715,210.56201 c 32.88474,22.13086 35.62228,60.06524 6.11446,84.7288 -29.50782,24.66356 -80.086993,26.71671 -112.971738,4.58584 -32.884745,-22.13086 -35.622282,-60.06524 -6.11446,-84.7288 27.67323,-23.13015 74.315068,-26.58455 107.485898,-7.96066"
              sodipodi:start="5.4437161"
              sodipodi:end="11.638182"
              sodipodi:open="true"
@@ -25904,7 +25919,7 @@
              sodipodi:cy="311.64789"
              sodipodi:rx="64.385155"
              sodipodi:ry="36.345383"
-             d="m 494.4287,284.59643 a 64.385155,36.345383 0 1 1 -4.41508,-2.04432"
+             d="m 494.4287,284.59643 c 26.46612,13.40591 28.66932,36.3849 4.921,51.32501 -23.74832,14.94011 -64.45516,16.18382 -90.92128,2.77791 -26.46612,-13.40592 -28.66933,-36.38491 -4.92101,-51.32502 22.27182,-14.01123 59.80984,-16.10376 86.50621,-4.82222"
              sodipodi:start="5.4437161"
              sodipodi:end="11.638182"
              sodipodi:open="true"
@@ -25921,7 +25936,7 @@
              sodipodi:cy="255.21933"
              sodipodi:rx="80"
              sodipodi:ry="60"
-             d="m 170.5715,210.56201 a 80,60 0 1 1 -5.48584,-3.37482"
+             d="m 170.5715,210.56201 c 32.88474,22.13086 35.62228,60.06524 6.11446,84.7288 -29.50782,24.66356 -80.086993,26.71671 -112.971738,4.58584 -32.884745,-22.13086 -35.622282,-60.06524 -6.11446,-84.7288 27.67323,-23.13015 74.315068,-26.58455 107.485898,-7.96066"
              sodipodi:start="5.4437161"
              sodipodi:end="11.638182"
              sodipodi:open="true"
@@ -25934,7 +25949,7 @@
              sodipodi:cy="311.64789"
              sodipodi:rx="64.385155"
              sodipodi:ry="36.345383"
-             d="m 494.4287,284.59643 a 64.385155,36.345383 0 1 1 -4.41508,-2.04432"
+             d="m 494.4287,284.59643 c 26.46612,13.40591 28.66932,36.3849 4.921,51.32501 -23.74832,14.94011 -64.45516,16.18382 -90.92128,2.77791 -26.46612,-13.40592 -28.66933,-36.38491 -4.92101,-51.32502 22.27182,-14.01123 59.80984,-16.10376 86.50621,-4.82222"
              sodipodi:start="5.4437161"
              sodipodi:end="11.638182"
              sodipodi:open="true"
@@ -25948,7 +25963,7 @@
            sodipodi:cy="436.55685"
            sodipodi:rx="31.802155"
            sodipodi:ry="31.802155"
-           d="m -189.81134,412.88687 a 31.802155,31.802155 0 1 1 -2.18076,-1.78878"
+           d="m -189.81134,412.88687 c 13.07258,11.73015 14.16082,31.83674 2.43067,44.90931 -11.73016,13.07257 -31.83674,14.16081 -44.90931,2.43066 -13.07257,-11.73015 -14.16082,-31.83674 -2.43066,-44.90931 11.00085,-12.25981 29.54224,-14.09077 42.72854,-4.21944"
            sodipodi:start="5.4437161"
            sodipodi:end="11.638182"
            sodipodi:open="true"
@@ -25961,7 +25976,7 @@
            sodipodi:cy="436.55685"
            sodipodi:rx="31.802155"
            sodipodi:ry="31.802155"
-           d="m -189.81134,412.88687 a 31.802155,31.802155 0 1 1 -2.18076,-1.78878"
+           d="m -189.81134,412.88687 c 13.07258,11.73015 14.16082,31.83674 2.43067,44.90931 -11.73016,13.07257 -31.83674,14.16081 -44.90931,2.43066 -13.07257,-11.73015 -14.16082,-31.83674 -2.43066,-44.90931 11.00085,-12.25981 29.54224,-14.09077 42.72854,-4.21944"
            sodipodi:start="5.4437161"
            sodipodi:end="11.638182"
            sodipodi:open="true"
@@ -25970,7 +25985,7 @@
            transform="matrix(1.409375,0,0,2.123658,-182.9535,-341.28597)"
            sodipodi:end="5.4676134"
            sodipodi:start="3.9729139"
-           d="m 353.68981,404.90443 a 65.049858,78.059837 0 0 1 88.42567,0.8356 l -44.58856,56.83675 z"
+           d="m 353.68981,404.90443 c 25.12572,-27.50144 63.66399,-27.13726 88.42567,0.8356 l -44.58856,56.83675 z"
            sodipodi:ry="78.059837"
            sodipodi:rx="65.049858"
            sodipodi:cy="462.57678"
@@ -25983,7 +25998,7 @@
            sodipodi:open="true"
            sodipodi:end="10.237719"
            sodipodi:start="3.9729139"
-           d="m 114.64037,681.69541 a 138.77304,75.168724 0 1 1 -1.8686,0.9404"
+           d="m 114.64037,681.69541 c 56.625,-27.97665 144.39859,-25.79175 196.04781,4.88012 51.64921,30.67188 47.61554,78.2159 -9.00946,106.19256 -56.625,27.97665 -144.39859,25.79175 -196.04781,-4.88012 -50.979209,-30.27399 -47.803191,-77.08667 7.14086,-105.25216"
            sodipodi:ry="75.168724"
            sodipodi:rx="138.77304"
            sodipodi:cy="737.23175"
@@ -25996,7 +26011,7 @@
            sodipodi:open="true"
            sodipodi:end="10.237719"
            sodipodi:start="3.9729139"
-           d="m 114.64037,681.69541 a 138.77304,75.168724 0 1 1 -1.8686,0.9404"
+           d="m 114.64037,681.69541 c 56.625,-27.97665 144.39859,-25.79175 196.04781,4.88012 51.64921,30.67188 47.61554,78.2159 -9.00946,106.19256 -56.625,27.97665 -144.39859,25.79175 -196.04781,-4.88012 -50.979209,-30.27399 -47.803191,-77.08667 7.14086,-105.25216"
            sodipodi:ry="75.168724"
            sodipodi:rx="138.77304"
            sodipodi:cy="737.23175"
@@ -27411,7 +27426,7 @@
            sodipodi:cy="338.83038"
            sodipodi:rx="34.831955"
            sodipodi:ry="48.884331"
-           d="m 372.83644,338.83038 a 34.831955,48.884331 0 1 1 -69.66391,0 34.831955,48.884331 0 1 1 69.66391,0 z"
+           d="m 372.83644,338.83038 c 0,26.99807 -15.5948,48.88433 -34.83195,48.88433 -19.23716,0 -34.83196,-21.88626 -34.83196,-48.88433 0,-26.99807 15.5948,-48.88433 34.83196,-48.88433 19.23715,0 34.83195,21.88626 34.83195,48.88433 z"
            transform="matrix(1.4504413,0,0,1.6642424,-255.88256,233.54538)" />
         <path
            id="path6184-8"
@@ -27436,7 +27451,7 @@
            sodipodi:cy="341.96973"
            sodipodi:rx="33.7855"
            sodipodi:ry="27.805765"
-           d="m 450.27399,341.96973 a 33.7855,27.805765 0 1 1 -67.57099,0 33.7855,27.805765 0 1 1 67.57099,0 z"
+           d="m 450.27399,341.96973 c 0,15.3567 -15.12628,27.80576 -33.7855,27.80576 -18.65921,0 -33.78549,-12.44906 -33.78549,-27.80576 0,-15.3567 15.12628,-27.80577 33.78549,-27.80577 18.65922,0 33.7855,12.44907 33.7855,27.80577 z"
            transform="matrix(1.5538143,0,0,2.0217219,-307.1553,109.3581)" />
         <path
            style="fill:url(#linearGradient18817);fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -27524,7 +27539,7 @@
            sodipodi:cy="343.01617"
            sodipodi:rx="9.5675755"
            sodipodi:ry="17.191736"
-           d="m 373.43443,343.01617 a 9.5675755,17.191736 0 1 1 -19.13515,0 9.5675755,17.191736 0 1 1 19.13515,0 z"
+           d="m 373.43443,343.01617 c 0,9.49474 -4.28355,17.19174 -9.56758,17.19174 -5.28402,0 -9.56757,-7.697 -9.56757,-17.19174 0,-9.49473 4.28355,-17.19173 9.56757,-17.19173 5.28403,0 9.56758,7.697 9.56758,17.19173 z"
            transform="matrix(1.5645963,0,0,1.6900847,-298.54769,223.52595)" />
         <path
            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.43448567;stroke-opacity:1"
@@ -27542,7 +27557,7 @@
              sodipodi:cy="343.01617"
              sodipodi:rx="9.5675755"
              sodipodi:ry="17.191736"
-             d="m 373.43443,343.01617 a 9.5675755,17.191736 0 1 1 -19.13515,0 9.5675755,17.191736 0 1 1 19.13515,0 z"
+             d="m 373.43443,343.01617 c 0,9.49474 -4.28355,17.19174 -9.56758,17.19174 -5.28402,0 -9.56757,-7.697 -9.56757,-17.19174 0,-9.49473 4.28355,-17.19173 9.56757,-17.19173 5.28403,0 9.56758,7.697 9.56758,17.19173 z"
              transform="matrix(1.125,0,0,1,-46.679302,0)" />
           <path
              style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.93565798;stroke-opacity:1"
@@ -27563,11 +27578,11 @@
            sodipodi:cy="577.44623"
            sodipodi:rx="36.587002"
            sodipodi:ry="23.239302"
-           d="m 327.25702,577.44623 a 36.587002,23.239302 0 1 1 -73.17401,0 36.587002,23.239302 0 1 1 73.17401,0 z"
+           d="m 327.25702,577.44623 c 0,12.83471 -16.38056,23.2393 -36.58701,23.2393 -20.20644,0 -36.587,-10.40459 -36.587,-23.2393 0,-12.83471 16.38056,-23.2393 36.587,-23.2393 20.20645,0 36.58701,10.40459 36.58701,23.2393 z"
            transform="matrix(1.515998,0,0,2.0076691,-271.466,30.973043)" />
         <path
            transform="matrix(1.515998,0,0,2.0076691,-25.772321,30.973043)"
-           d="m 327.25702,577.44623 a 36.587002,23.239302 0 1 1 -73.17401,0 36.587002,23.239302 0 1 1 73.17401,0 z"
+           d="m 327.25702,577.44623 c 0,12.83471 -16.38056,23.2393 -36.58701,23.2393 -20.20644,0 -36.587,-10.40459 -36.587,-23.2393 0,-12.83471 16.38056,-23.2393 36.587,-23.2393 20.20645,0 36.58701,10.40459 36.58701,23.2393 z"
            sodipodi:ry="23.239302"
            sodipodi:rx="36.587002"
            sodipodi:cy="577.44623"
@@ -28919,14 +28934,14 @@
            sodipodi:cy="577.44623"
            sodipodi:rx="36.587002"
            sodipodi:ry="23.239302"
-           d="m 327.25702,577.44623 a 36.587002,23.239302 0 1 1 -73.17401,0 36.587002,23.239302 0 1 1 73.17401,0 z"
+           d="m 327.25702,577.44623 c 0,12.83471 -16.38056,23.2393 -36.58701,23.2393 -20.20644,0 -36.587,-10.40459 -36.587,-23.2393 0,-12.83471 16.38056,-23.2393 36.587,-23.2393 20.20645,0 36.58701,10.40459 36.58701,23.2393 z"
            transform="matrix(1.9644963,0,0,2.140849,-389.14113,-337.56377)"
            inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
            inkscape:export-xdpi="40.759697"
            inkscape:export-ydpi="40.759697" />
         <path
            transform="matrix(1.9644963,0,0,2.140849,-70.760523,-337.56377)"
-           d="m 327.25702,577.44623 a 36.587002,23.239302 0 1 1 -73.17401,0 36.587002,23.239302 0 1 1 73.17401,0 z"
+           d="m 327.25702,577.44623 c 0,12.83471 -16.38056,23.2393 -36.58701,23.2393 -20.20644,0 -36.587,-10.40459 -36.587,-23.2393 0,-12.83471 16.38056,-23.2393 36.587,-23.2393 20.20645,0 36.58701,10.40459 36.58701,23.2393 z"
            sodipodi:ry="23.239302"
            sodipodi:rx="36.587002"
            sodipodi:cy="577.44623"
@@ -28973,7 +28988,7 @@
            inkscape:export-ydpi="40.759697" />
         <path
            transform="matrix(1.8127757,0,0,1.5589602,-303.14422,-42.869327)"
-           d="m 373.43443,343.01617 a 9.5675755,17.191736 0 1 1 -19.13515,0 9.5675755,17.191736 0 1 1 19.13515,0 z"
+           d="m 373.43443,343.01617 c 0,9.49474 -4.28355,17.19174 -9.56758,17.19174 -5.28402,0 -9.56757,-7.697 -9.56757,-17.19174 0,-9.49473 4.28355,-17.19173 9.56757,-17.19173 5.28403,0 9.56758,7.697 9.56758,17.19173 z"
            sodipodi:ry="17.191736"
            sodipodi:rx="9.5675755"
            sodipodi:cy="343.01617"
@@ -29016,7 +29031,7 @@
            sodipodi:cy="338.83038"
            sodipodi:rx="34.831955"
            sodipodi:ry="48.884331"
-           d="m 372.83644,338.83038 a 34.831955,48.884331 0 1 1 -69.66391,0 34.831955,48.884331 0 1 1 69.66391,0 z"
+           d="m 372.83644,338.83038 c 0,26.99807 -15.5948,48.88433 -34.83195,48.88433 -19.23716,0 -34.83196,-21.88626 -34.83196,-48.88433 0,-26.99807 15.5948,-48.88433 34.83196,-48.88433 19.23715,0 34.83195,21.88626 34.83195,48.88433 z"
            transform="matrix(1.9483627,0,0,1.8396176,-392.74699,-137.13468)"
            inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
            inkscape:export-xdpi="40.759697"
@@ -29029,7 +29044,7 @@
            sodipodi:cy="341.96973"
            sodipodi:rx="33.7855"
            sodipodi:ry="27.805765"
-           d="m 450.27399,341.96973 a 33.7855,27.805765 0 1 1 -67.57099,0 33.7855,27.805765 0 1 1 67.57099,0 z"
+           d="m 450.27399,341.96973 c 0,15.3567 -15.12628,27.80576 -33.7855,27.80576 -18.65921,0 -33.78549,-12.44906 -33.78549,-27.80576 0,-15.3567 15.12628,-27.80577 33.78549,-27.80577 18.65922,0 33.7855,12.44907 33.7855,27.80577 z"
            transform="matrix(2.0872227,0,0,2.2347676,-461.62108,-274.4086)"
            inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
            inkscape:export-xdpi="40.759697"
@@ -29042,14 +29057,14 @@
            sodipodi:cy="343.01617"
            sodipodi:rx="9.5675755"
            sodipodi:ry="17.191736"
-           d="m 373.43443,343.01617 a 9.5675755,17.191736 0 1 1 -19.13515,0 9.5675755,17.191736 0 1 1 19.13515,0 z"
+           d="m 373.43443,343.01617 c 0,9.49474 -4.28355,17.19174 -9.56758,17.19174 -5.28402,0 -9.56757,-7.697 -9.56757,-17.19174 0,-9.49473 4.28355,-17.19173 9.56757,-17.19173 5.28403,0 9.56758,7.697 9.56758,17.19173 z"
            transform="matrix(2.101706,0,0,1.8681831,-449.3443,-148.56707)"
            inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
            inkscape:export-xdpi="40.759697"
            inkscape:export-ydpi="40.759697" />
         <path
            transform="matrix(1.8791487,0,0,1.61604,-325.0548,-60.538613)"
-           d="m 373.43443,343.01617 a 9.5675755,17.191736 0 1 1 -19.13515,0 9.5675755,17.191736 0 1 1 19.13515,0 z"
+           d="m 373.43443,343.01617 c 0,9.49474 -4.28355,17.19174 -9.56758,17.19174 -5.28402,0 -9.56757,-7.697 -9.56757,-17.19174 0,-9.49473 4.28355,-17.19173 9.56757,-17.19173 5.28403,0 9.56758,7.697 9.56758,17.19173 z"
            sodipodi:ry="17.191736"
            sodipodi:rx="9.5675755"
            sodipodi:cy="343.01617"
@@ -29896,14 +29911,14 @@
            sodipodi:cy="755.2193"
            sodipodi:rx="65"
            sodipodi:ry="28.571428"
-           d="m -500,755.2193 a 65,28.571428 0 1 1 -130,0 65,28.571428 0 1 1 130,0 z"
+           d="m -500,755.2193 c 0,15.77956 -29.10149,28.57143 -65,28.57143 -35.89851,0 -65,-12.79187 -65,-28.57143 0,-15.77956 29.10149,-28.57143 65,-28.57143 35.89851,0 65,12.79187 65,28.57143 z"
            transform="translate(746.4931,142.13348)"
            inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
            inkscape:export-xdpi="40.759697"
            inkscape:export-ydpi="40.759697" />
         <path
            transform="translate(1059.3502,144.99062)"
-           d="m -500,755.2193 a 65,28.571428 0 1 1 -130,0 65,28.571428 0 1 1 130,0 z"
+           d="m -500,755.2193 c 0,15.77956 -29.10149,28.57143 -65,28.57143 -35.89851,0 -65,-12.79187 -65,-28.57143 0,-15.77956 29.10149,-28.57143 65,-28.57143 35.89851,0 65,12.79187 65,28.57143 z"
            sodipodi:ry="28.571428"
            sodipodi:rx="65"
            sodipodi:cy="755.2193"
@@ -30475,7 +30490,7 @@
                sodipodi:cy="587.66589"
                sodipodi:rx="7.8571429"
                sodipodi:ry="9.2857141"
-               d="m 312.74132,578.77213 a 7.8571429,9.2857141 0 1 1 -1.94788,1.05094 L 315,587.66589 z"
+               d="m 312.74132,578.77213 c 4.15622,-1.47424 8.53674,1.31253 9.78417,6.22442 1.24744,4.91189 -1.1106,10.08887 -5.26681,11.56311 -4.15622,1.47424 -8.53674,-1.31253 -9.78417,-6.22442 -1.01259,-3.98714 0.34387,-8.28346 3.31893,-10.51217 L 315,587.66589 z"
                transform="translate(-150.69428,342.69318)"
                sodipodi:start="4.4208067"
                sodipodi:end="10.430617" />
@@ -30545,7 +30560,7 @@
        inkscape:connector-curvature="0"
        transform="matrix(1.0754584,0,0,1.0754584,-163.28899,-3253.5435)"
        sodipodi:nodetypes="aaaaaaaaa"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61" />
     <path
@@ -30555,14 +30570,14 @@
        inkscape:connector-curvature="0"
        transform="matrix(0.73376175,0,0,0.73376175,736.76857,-2910.9257)"
        sodipodi:nodetypes="ssaccs"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61" />
     <g
        id="g3353"
        transform="matrix(0.4326402,0,0,0.4326402,2383.0994,-2430.8283)"
        style="stroke:#3d0f0f;stroke-width:4.00563812;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61">
       <path
@@ -31059,7 +31074,7 @@
        transform="matrix(0.11839678,0.05389005,-0.05389005,0.11839678,2064.0738,-1916.9304)"
        id="g13006-3"
        style="fill:#ffffff;fill-opacity:1"
-       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_11.png"
+       inkscape:export-filename="/home/guesdon/Sed/reseau-loops.github.com/poster_journee_2015_12.png"
        inkscape:export-xdpi="61"
        inkscape:export-ydpi="61">
       <g
@@ -31092,7 +31107,7 @@
              sodipodi:end="10.430617"
              sodipodi:start="4.4208067"
              transform="translate(-150.69428,342.69318)"
-             d="m 312.74132,578.77213 a 7.8571429,9.2857141 0 1 1 -1.94788,1.05094 L 315,587.66589 z"
+             d="m 312.74132,578.77213 c 4.15622,-1.47424 8.53674,1.31253 9.78417,6.22442 1.24744,4.91189 -1.1106,10.08887 -5.26681,11.56311 -4.15622,1.47424 -8.53674,-1.31253 -9.78417,-6.22442 -1.01259,-3.98714 0.34387,-8.28346 3.31893,-10.51217 L 315,587.66589 z"
              sodipodi:ry="9.2857141"
              sodipodi:rx="7.8571429"
              sodipodi:cy="587.66589"
