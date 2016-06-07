@@ -1,6 +1,6 @@
 permalink: /:year/:month/:day/:title
 paginate: 10
-exclude: ["Makefile", "LICENSE.txt", "less", "NOTES.txt", "inscriptions_2012_05_31.ods", "logo_twitter.png", "svg", "docs", "interviews", "_posts/2016-06-06-demi-journee-spark.html"]
+exclude: ["Makefile", "LICENSE.txt", "less", "NOTES.txt", "inscriptions_2012_05_31.ods", "logo_twitter.png", "svg", "docs", "interviews"]
 title: LoOPS
 url: http://reseau-loops.github.io
 encoding: utf-8
