@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.90889cm"
+   height="21.928667cm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tux_chercheur.svg"
+   inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/Tux_Spallanzani.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient23837">
+      <stop
+         id="stop23839"
+         offset="0"
+         style="stop-color:#ffba00;stop-opacity:1;" />
+      <stop
+         id="stop23841"
+         offset="1"
+         style="stop-color:#ffffba;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5197">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5199" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop5201" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       x="-0.075075254"
+       width="1.1501505"
+       y="-0.2717368"
+       height="1.5434736"
+       id="filter21885"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0915256"
+         id="feGaussianBlur21887" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient23837"
+       id="linearGradient5409"
+       gradientUnits="userSpaceOnUse"
+       x1="278.7821"
+       y1="598.48175"
+       x2="300.01877"
+       y2="538.17981" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient23837"
+       id="linearGradient5411"
+       gradientUnits="userSpaceOnUse"
+       x1="278.7821"
+       y1="598.48175"
+       x2="300.01877"
+       y2="538.17981" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5197"
+       id="linearGradient5638"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8021974,0,0,1.8021974,-340.10943,-132.23777)"
+       x1="267.00482"
+       y1="450.1579"
+       x2="299.18216"
+       y2="438.39368" />
+    <filter
+       inkscape:collect="always"
+       id="filter5764"
+       x="-0.23208791"
+       width="1.4641758"
+       y="-0.528"
+       height="2.056"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="12.571429"
+         id="feGaussianBlur5766" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5768"
+       x="-0.23208791"
+       width="1.4641758"
+       y="-0.528"
+       height="2.056"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="12.571429"
+         id="feGaussianBlur5770" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter6154"
+       x="-0.23165578"
+       width="1.4633116"
+       y="-0.14718086"
+       height="1.2943617"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.6284331"
+         id="feGaussianBlur6156" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter6381"
+       x="-0.13988806"
+       width="1.2797761"
+       y="-0.12495404"
+       height="1.2499081"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.0163794"
+         id="feGaussianBlur6383" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter6601"
+       x="-0.35181805"
+       width="1.7036361"
+       y="-0.063791215"
+       height="1.1275824"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.5961968"
+         id="feGaussianBlur6603" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter6972-7"
+       x="-0.10621236"
+       width="1.2124248"
+       y="-0.29365018"
+       height="1.5873003"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="12.938752"
+         id="feGaussianBlur6974-3" />
+    </filter>
+    <linearGradient
+       id="linearGradient5197-85">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5199-6" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop5201-1" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       x="-0.058825664"
+       width="1.1176513"
+       y="-0.10828153"
+       height="1.2165631"
+       id="filter19925-3"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.0337616"
+         id="feGaussianBlur19927-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4485"
+       x="-0.52757549"
+       width="2.055151"
+       y="-0.25962821"
+       height="1.5192564"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2935743"
+         id="feGaussianBlur4487" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter6552-6-2"
+       x="-0.27358419"
+       width="1.5471684"
+       y="-0.19543664"
+       height="1.3908733"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.5427489"
+         id="feGaussianBlur6554-5-2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5197-85"
+       id="linearGradient5709"
+       gradientUnits="userSpaceOnUse"
+       x1="353.82788"
+       y1="353.77969"
+       x2="370.98239"
+       y2="331.95367" />
+    <filter
+       inkscape:collect="always"
+       id="filter6076-2"
+       x="-0.26933366"
+       width="1.5386673"
+       y="-0.18029737"
+       height="1.3605947"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.2361752"
+         id="feGaussianBlur6078-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter6225"
+       x="-0.25520995"
+       width="1.5104198"
+       y="-0.02549311"
+       height="1.0509862"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.8416703"
+         id="feGaussianBlur6227" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter6294"
+       x="-0.19174767"
+       width="1.3834953"
+       y="-0.14948633"
+       height="1.2989727"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.0710994"
+         id="feGaussianBlur6296" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter6461"
+       x="-0.086073756"
+       width="1.1721475"
+       y="-0.4403452"
+       height="1.8806905"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.5918153"
+         id="feGaussianBlur6463" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter6474"
+       x="-0.093847796"
+       width="1.1876956"
+       y="-0.30927795"
+       height="1.6185559"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.1431265"
+         id="feGaussianBlur6476" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4655-9"
+       x="-0.083523966"
+       width="1.1670479"
+       y="-0.21303543"
+       height="1.4260709"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.3457537"
+         id="feGaussianBlur4657-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4522-7"
+       x="-0.4428235"
+       width="1.8856471"
+       y="-0.49621177"
+       height="1.9924237"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.56486897"
+         id="feGaussianBlur4524-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4522-4-4"
+       x="-0.4428235"
+       width="1.8856471"
+       y="-0.49621177"
+       height="1.9924237"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.56486897"
+         id="feGaussianBlur4524-8-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4155"
+       x="-0.15069246"
+       width="1.3013849"
+       y="-0.099694587"
+       height="1.1993892">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.9584385"
+         id="feGaussianBlur4157" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="574.00153"
+     inkscape:cy="376.58044"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="1985"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="cm" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-275.36239)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4524"
+       d="m 349.29492,288.63973 c -8.99474,-0.0356 -17.8986,0.32976 -26.67969,1.09375 -11.37069,0.40218 -22.99676,2.02265 -34.58007,5.29688 -47.06672,10.52943 -88.56729,34.35545 -117.79297,73.5625 -10.65358,11.82445 -17.93861,24.88595 -23.11133,38.71094 -2.06998,-0.5922 -7.39357,0.10497 -9.28516,0.95507 -2.78471,0.16183 -8.19548,6.7078 -8.13281,8.40625 -5.89656,1.17593 -5.40842,8.4744 -3.93555,13.4668 -0.346,0.59192 -0.55608,1.03968 -0.69922,1.41406 -5.62355,0.60969 -12.10595,-3.24097 -15.64062,2.76172 -5.03803,0.76797 -8.87333,12.52002 -2.32422,17.1875 6.17211,3.02274 9.06826,10.07031 7.04883,16.56446 -4.35568,8.4214 2.80485,12.63045 7.125,18.47461 2.02072,5.15633 6.29734,5.93484 10.88086,5.60546 -0.86954,8.60748 -1.8166,17.17314 -3.0625,25.61328 -7.2345,3.75 -13.29,10.7346 -17.35156,17.40626 -4.95706,9.18095 -9.89509,19.75226 -8.65625,30.35546 0.66235,1.93189 1.58876,3.64883 2.71484,5.16993 -4.7492,3.00383 -9.096102,6.70651 -13.136719,10.55664 -15.466213,11.64624 -27.16038,29.34374 -32.447265,48.41601 -0.02422,0.0214 -0.0679,0.0609 -0.0918,0.082 0.02086,0.006 0.04164,0.0119 0.0625,0.0176 -6.065704,21.98063 -3.613829,45.77669 11.433593,64.24805 6.193682,4.79955 12.002853,10.12631 17.669922,15.64648 -3.512683,0.56277 -8.833393,3.01107 -11.640625,6.8086 -1.98501,9.66832 -39.830939,33.77448 -20.011718,22.13867 -2.23503,1.99591 -4.66059,3.76103 -7,5.6289 -3.430836,2.99459 0.245826,1.40911 6.384765,-2.38281 l 0.646485,1.50391 c -5.049493,2.58594 -11.541713,5.64997 -3.992188,7.46484 16.258059,5.18919 28.12018,-5.84996 39.523438,-16.64453 -0.0456,5.84175 0.263586,11.59395 0.220703,14.69336 -3.470712,30.54455 -20.558496,65.478 0.441406,93.39844 13.036243,-0.31926 26.072553,0.25745 39.039063,1.56836 -3.65341,1.77934 -7.38301,3.89496 -10.3789,5.72656 -4.96445,0.15909 -28.474073,10.80518 -36.718757,16.98828 -6.248361,4.5957 -12.571968,10.09149 -18.136718,16.28906 l -0.544922,0.36914 -0.210938,0.47657 c -11.161863,12.72154 -19.015439,28.32455 -16.478516,45.24609 3.7362,26.64358 30.229642,36.08743 53.001961,41.26562 30.31812,-0.0205 60.61656,2.04602 90.9375,1.19922 24.76396,-1.9936 49.42059,-4.72015 74.375,-4.59375 18.64671,0.97352 37.77323,-13.11568 42.43359,-30.76367 7.18658,5.78644 22.89762,7.71812 32.04492,3.5293 1.07402,3.87762 2.56356,7.58126 4.46289,10.95117 20.12364,19.71845 50.27543,16.43862 76.17578,17.54102 33.18976,1.8537 66.17389,-2.15953 99.35743,-1.95313 17.95834,-2.82397 36.06599,-5.5981 54.23242,-7.63281 17.75535,-1.85191 37.82844,-12.44368 34.37304,-33.52149 0.44489,-25.92519 -18.79887,-45.05944 -37.82617,-59.76171 -10.49065,-6.6373 -24.82788,-15.56404 -38.30078,-16.60938 19.68274,-2.52616 38.72145,-8.50217 44.05664,-30.63086 5.17264,-29.54946 16.92813,-62.23434 4.31445,-91.27539 -0.0337,-0.82443 -0.0701,-1.65349 -0.10742,-2.50586 0.23202,-1.28719 0.45808,-2.57132 0.64063,-3.82617 8.54281,-7.75197 14.17613,-17.81246 13.88672,-30.38867 -12.85207,-40.95736 -19.04384,-84.25992 -38.32813,-123.00586 8.83288,-3.30762 4.22879,-40.8444 -13.93164,-46.5957 -6.99662,-5.30825 -14.05002,-6.64676 -20.79492,-5.33399 3.36005,-7.88941 5.26268,-17.47983 6.04883,-27.81836 2.80251,2.31512 5.64863,5.12972 9.09179,5.29688 3.51137,2.85249 13.71317,-3.48328 11.83985,-5.22266 2.82331,0.691 10.92735,-5.08089 11.62695,-10.10352 2.59454,-6.27505 0.19427,-14.17638 -6.19726,-16.97656 -7.50169,-5.17192 -0.92944,-12.72952 1.82617,-18.44922 4.69379,-9.332 -5.77501,-9.8364 -11.14063,-13.53711 -5.44908,-4.48811 -4.55196,-11.89827 -4.18945,-18.1289 -0.55326,-12.03511 -15.45431,-17.78173 -25.49414,-13.30274 -0.56928,0.72664 -2.04883,1.24739 -2.97852,1.97461 -32.25334,-57.81015 -93.70582,-102.03457 -159.64062,-109.99999 -2.321,-0.0609 -4.63723,-0.0963 -6.94727,-0.10547 z m 210.17383,278.49024 c -0.36041,0.1478 -0.70793,0.30139 -1.04102,0.46094 l 0,-0.17969 c 0.16261,-0.0752 0.32364,-0.15556 0.48633,-0.23047 0.19029,-0.002 0.37407,-0.0223 0.55469,-0.0508 z M 76.476562,742.09677 c -0.594618,0.57402 -1.159738,1.12928 -1.689453,1.66601 -0.67185,0.0578 -1.4124,0.10491 -2.197265,0.13477 1.116965,-0.48578 2.480431,-1.12876 3.886718,-1.80078 z m 492.572268,89.22656 c -0.96182,1.5873 -2.23406,2.95281 -3.78711,4.10156 l 3.78711,-4.10156 z M 341.88477,933.212 c 0.0916,0.60557 0.19313,1.20791 0.30468,1.80859 -3.61938,0.23691 -8.08402,0.4155 -12.63672,-0.0234 4.40315,-0.47536 8.6246,-1.10446 12.33204,-1.78516 z"
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <path
+       style="display:inline;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 173.05403,856.60705 c 0,0 -9.74362,-15.16248 -11.36756,-18.53193 -1.62392,-3.36944 -28.41885,-109.50682 -21.92312,-144.88595 6.49575,-35.37913 8.93166,-62.33466 14.61543,-69.91588 5.68377,-7.58126 38.16246,-49.69926 42.22231,-52.22634 4.05983,-2.52709 21.11114,-31.16734 31.66672,-31.16734 10.55557,0 86.06856,35.37913 95.81216,33.69442 9.74362,-1.68473 51.96593,-1.68473 55.2138,-4.21181 3.24786,-2.52708 15.42738,-12.6354 15.42738,-12.6354 l 11.36754,-6.73889 c 0,0 25.98297,-2.52708 30.85478,-2.52708 4.87181,0 35.72656,18.53193 43.84624,27.79789 8.11967,9.26597 59.27364,69.91591 58.46166,101.92559 -0.81197,32.00969 0,57.28049 -3.24787,66.54645 -3.24787,9.26597 -12.17952,42.11801 -14.61541,51.38398 -2.4359,9.26595 -7.30771,28.64024 -8.11969,36.22149 -0.81196,7.58125 -9.7436,15.16247 -12.99146,18.53193 -3.24789,3.36943 -45.47018,10.1083 -53.58987,13.47776 -8.11968,3.36943 -33.29066,21.90135 -40.59838,25.2708 -7.30771,3.36944 -23.54706,15.16248 -23.54706,15.16248 0,0 -22.73508,23.5861 -27.60688,26.11318 -4.87181,2.52707 -46.28215,10.95068 -60.89757,1.6847 -14.61541,-9.26595 -30.85476,-25.2708 -38.16247,-34.53675 -7.30771,-9.26598 -23.54706,-26.95554 -29.23083,-32.0097 -5.68377,-5.05417 -53.58985,-6.73887 -53.58985,-8.4236 z"
+       id="path17935"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6184"
+       d="m 176.66933,841.30554 c 0,0 -17.24265,-49.57265 -17.78149,-89.44628 -0.53884,-39.87366 -2.69416,-63.04348 4.84949,-93.21814 7.54366,-30.17464 7.54366,-33.94648 7.54366,-33.94648 l -38.79598,74.35897 c 0,0 -5.92715,32.86882 -6.46599,36.10182 -0.53884,3.23299 4.8495,62.50464 4.8495,62.50464 l 5.92715,20.47564 12.93201,20.47567 7.54366,7.00483 19.39799,-4.31067 z"
+       style="display:inline;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 495.08185,842.3832 c 0,0 17.24265,-49.57265 17.78149,-89.44628 0.53884,-39.87366 2.69416,-63.04348 -4.8495,-93.21814 -7.54365,-30.17464 -7.54365,-33.94648 -7.54365,-33.94648 l 38.79597,74.35897 c 0,0 5.92716,32.86882 6.466,36.10182 0.53884,3.23299 -4.8495,62.50464 -4.8495,62.50464 l -5.92716,20.47564 -12.932,20.47567 -7.54366,7.00483 -19.39799,-4.31067 z"
+       id="path4226"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;opacity:0.21568627;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter21885)"
+       d="m 257.93239,543.04869 c 0,0 15.01616,-5.00539 36.94453,2.62187 21.92837,7.62726 31.70079,15.25451 32.6542,15.73122 0.9534,0.4767 18.82979,10.96418 18.82979,10.96418 0,0 6.67385,3.57528 16.44627,0.23835 9.77243,-3.33692 28.12552,-15.73122 31.22409,-18.35309 3.09857,-2.62187 20.73661,-9.53407 24.07353,-10.01077 3.33693,-0.47671 10.01078,-1.90682 15.25452,-1.90682 5.24374,0 10.48748,0.23836 10.48748,0.23836 l 3.81363,-8.58067 1.66846,-10.01078 c 0,0 -7.62726,-5.95879 -27.88716,-2.86022 -20.25991,3.09858 -42.42662,12.63265 -56.96608,17.63804 -14.53946,5.00538 -9.05737,4.76703 -13.82441,5.48209 -4.76703,0.71505 -21.69001,-11.20254 -30.50903,-14.30111 -8.81902,-3.09857 -25.98035,-8.58066 -36.70618,-8.81902 -10.72583,-0.23835 -17.87638,-0.71505 -21.21331,0.95341 -3.33692,1.66846 -7.62726,5.00539 -7.62726,5.00539 l 3.33693,15.96957 z"
+       id="path20898"
+       transform="matrix(1.8021974,0,0,1.8021974,-296.35903,-117.30256)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:url(#linearGradient5638);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 99.11034,593.84309 c 0,0 -30.255652,28.20443 -38.973392,35.89653 79.057172,21.68952 168.465972,18.29837 -2.30764,22.30715 3.84607,-4.35887 31.28128,-32.0505 36.922162,-37.94777 5.64088,-5.8973 8.97413,-12.5638 8.97413,-12.5638 l 1.79483,-5.89728 0.2564,-1.79483 -6.66649,0 z"
+       id="path6164"
+       sodipodi:nodetypes="cccscccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="display:inline;fill:url(#linearGradient5409);fill-opacity:1;stroke:none"
+       id="path22858"
+       transform="matrix(1.9644963,0,0,2.140849,-389.14113,-337.56377)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       cx="290.67001"
+       cy="577.44623"
+       rx="36.587002"
+       ry="23.239302" />
+    <ellipse
+       transform="matrix(1.9644963,0,0,2.140849,-70.760523,-337.56377)"
+       id="path3201"
+       style="display:inline;fill:url(#linearGradient5411);fill-opacity:1;stroke:none"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       cx="290.67001"
+       cy="577.44623"
+       rx="36.587002"
+       ry="23.239302" />
+    <path
+       style="fill:#f57900;stroke:none"
+       d="m 253.00265,870.07087 c -11.11168,-3.03045 -30.30458,-9.09137 -35.35534,-11.11167 -5.05076,-2.02031 -23.23352,-8.08123 -28.28428,-9.09138 -5.05076,-1.01015 -28.28427,-5.05076 -28.28427,-5.05076 l -20.20304,1.01015 -20.20306,5.05076 -28.28427,15.15229 -25.253812,17.1726 -16.16244,36.36549 c 0,0 8.08122,13.13198 10.10152,19.1929 2.02031,6.06091 8.08122,15.15228 15.15229,18.18274 7.07107,3.03046 9.09138,6.06092 17.172602,7.07111 8.08122,1.0101 13.13198,1.0101 30.30457,1.0101 17.1726,0 43.43655,2.0203 59.59899,2.0203 16.16244,0 42.42642,-2.0203 55.5584,-2.0203 13.13199,0 46.46702,-4.0406 51.51778,-6.0609 5.05077,-2.02031 11.11168,-11.11168 13.13199,-16.16244 2.0203,-5.05077 -1.01016,-17.1726 -4.04061,-24.24366 -3.03046,-7.07107 -12.12184,-26.26397 -12.12184,-26.26397 l -10.10152,-13.13198 -24.24366,-9.09138 z"
+       id="path4012-5"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#2e3436;fill-opacity:1;stroke:none"
+       d="m 130.66583,536.89084 2.85714,-30 5,-42.14286 c 0,0 5.58902,-71.39764 45.71429,-108.57143 31.17789,-28.88455 12.5,-25 90,-56.42857 77.5,-31.42857 162.5,20.35714 162.5,20.35714 l 52.85714,46.78572 28.57143,45.35714 8.21429,31.07143 3.21428,28.57143 -3.21428,26.07143 -3.21429,11.78571 -39.42749,110.02164 c -24.62104,52.9995 -59.4229,-12.64428 -150.78757,32.35463 -96.59555,26.10873 -111.87172,-30.71487 -145.01381,-25.31329 -5.05076,-13.13198 -56.49675,-92.32999 -57.27113,-89.92012 z"
+       id="path4509"
+       sodipodi:nodetypes="cccssccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.7;fill:#babdb6;fill-opacity:1;stroke:none"
+       d="m 203.90868,403.70466 16.16244,-13.13198 11.61675,-7.07107 17.67767,-3.03045 24.24366,0 23.73859,5.55583 16.66752,8.5863 6.06091,10.10153 -5.05076,5.05076 -19.69798,-8.08122 -24.74873,-7.57615 -14.14214,0 -10.10152,1.51523 -10.60661,4.04061 -12.12183,6.06092 -7.57614,2.52538 -9.09137,0 -3.03046,-4.54569 z"
+       id="path5116"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;opacity:0.1372549;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter19925-3)"
+       d="m 318.08339,382.62994 4.95598,1.80217 8.33504,4.05489 5.63179,2.02744 6.08233,0 7.88451,0 37.62034,-3.1538 5.85706,-1.35163 6.53287,-3.37907 10.58777,-4.05489 5.18124,-0.90108 4.28016,0.45054 2.70326,-0.45054 2.02744,2.25271 2.92853,5.40652 3.60435,8.56032 c 0,0 -36.04345,50.91136 -53.16408,50.01027 -17.12064,-0.90108 -48.60125,-30.67006 -46.63121,-27.25785 1.97004,3.41221 -22.97769,-27.7084 -22.97769,-27.7084 l 8.56031,-6.3076 z"
+       id="path18906-4"
+       transform="matrix(1.8446437,0,0,1.8931255,-362.97258,-197.3659)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       transform="matrix(1.8127757,0,0,1.5589602,-303.14422,-42.869327)"
+       id="path10103-7"
+       style="fill:url(#linearGradient5709);fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       cx="363.86685"
+       cy="343.01617"
+       rx="9.5675755"
+       ry="17.191736" />
+    <path
+       id="path10105-5"
+       d="m 349.08934,469.29782 c -2.89145,4.45005 -4.73335,10.95038 -4.73335,18.17163 0,13.40685 6.30816,24.2613 14.04901,24.26131 7.74086,0 13.99865,-10.85444 13.99865,-24.26131 0,-2.42582 -0.17112,-4.80438 -0.5539,-7.01532 l -0.95674,0.48717 -12.48801,4.62816 c 0,0 -1.46846,-6.04226 -3.87733,-9.30504 -0.95653,-1.29559 -3.16702,-4.10287 -5.43833,-6.9666 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.48296332;stroke-opacity:1"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 267.78705,396.8152 11.77353,2.84188 11.16455,3.65385 4.05984,0.81196 -7.30771,-4.05982 -9.54062,-2.84189 -3.24786,-1.01496 -5.48079,0 -1.42094,0.60898 z"
+       id="path15006-9"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#cda809;fill-rule:evenodd;stroke:none"
+       d="m 381.76967,578.43809 12.43475,-15.29582 0.99036,0.33012 -13.6452,16.72638 0.22009,-1.76068 z"
+       id="path8112-6"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path6186-0-1"
+       transform="matrix(1.9483627,0,0,1.8396176,-392.74699,-137.13468)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       cx="338.00449"
+       cy="338.83038"
+       rx="34.831955"
+       ry="48.884331" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path10113-1-7"
+       transform="matrix(2.0872227,0,0,2.2347676,-461.62108,-274.4086)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       cx="416.48849"
+       cy="341.96973"
+       rx="33.7855"
+       ry="27.805765" />
+    <ellipse
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path8144-9-8"
+       transform="matrix(2.101706,0,0,1.8681831,-449.3443,-148.56707)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       cx="363.86685"
+       cy="343.01617"
+       rx="9.5675755"
+       ry="17.191736" />
+    <ellipse
+       transform="matrix(1.8791487,0,0,1.61604,-325.0548,-60.538613)"
+       id="path10103-6-4"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       cx="363.86685"
+       cy="343.01617"
+       rx="9.5675755"
+       ry="17.191736" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 329.42084,470.90789 c -3.43525,-26.21538 -16.04405,-50.18703 -39.98242,-63.62978 -16.86945,-9.73997 -36.18854,-9.21304 -52.38665,0.67521 -10.58015,6.38083 -18.88913,15.91948 -25.16838,26.13828 -12.49327,23.07906 -11.23879,50.81816 -5.05849,75.95116 3.34601,26.0142 17.92741,50.66758 43.63017,59.72091 17.28359,5.48442 36.34484,5.1746 49.98171,-7.58374 14.28684,-13.07984 24.55785,-30.32139 30.89425,-48.52864 4.01445,-12.29493 5.11851,-25.89001 1.05012,-38.32335 -0.90293,-7.15242 4.33119,-6.36206 4.86678,-0.0521 2.66281,8.98738 3.52726,18.64988 0.40387,27.59451 -6.90024,31.49603 -28.12069,61.56219 -59.1934,72.73818 -31.16977,8.89811 -65.47659,-13.66178 -73.27539,-44.35764 -6.69849,-23.17609 -12.99188,-48.38203 -5.27026,-72.12483 4.17937,-24.82721 20.62963,-47.68293 43.36476,-58.69114 20.17978,-8.74361 46.70472,-7.64917 62.49941,9.12209 14.45979,15.10446 26.47123,42.2806 28.29007,63.26678 -0.29757,2.42314 -2.97128,-3.60952 -4.64615,-1.91584 l 0,-2e-5 z"
+       id="path6820-8"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccc"
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 335.4229,482.65239 c 2.38005,-20.42188 16.67981,-38.6375 35.60924,-46.43287 19.46922,-11.10426 43.83585,-13.39305 64.79958,-5.20007 17.82995,5.1707 34.85856,17.93544 39.96757,36.46518 9.7106,25.22525 -1.58201,59.40736 -25.35498,72.98397 -13.27328,9.77212 -28.82293,10.44972 -44.81566,12.33255 -20.73242,0.65069 -43.57046,-5.96337 -56.23597,-23.4018 -5.3331,-6.72344 -6.44755,-14.67796 -10.27016,-22.19128 -3.31863,-8.31269 -5.32461,-22.3028 0.67095,-30.18621 2.65708,17.60935 5.31233,38.75023 16.11376,53.5008 17.63724,17.54498 43.2781,19.96966 67.03086,14.05698 12.40709,-2.82797 24.82297,-5.25093 33.65367,-14.98968 16.07129,-16.37498 22.98734,-40.76617 14.44795,-62.00245 -5.94125,-18.73042 -24.82702,-28.04331 -42.8967,-32.93141 -16.86742,-4.96363 -34.44229,-4.67623 -50.7471,2.44169 -10.71038,4.61713 -19.50942,9.80961 -26.4776,19.28305 -5.1493,8.77284 -8.08239,18.824 -15.49541,26.27155 z"
+       id="path6822-5"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.21000001;fill:#eeeeec;stroke:none;filter:url(#filter6972-7)"
+       d="m 173.47409,386.31464 c 24.88528,-29.76301 58.97481,-48.82125 96.53206,-56.90531 39.77056,-9.53398 80.7743,1.90176 118.90232,12.96634 37.63289,15.72406 66.12634,50.16375 76.93278,89.22277 -30.2254,-15.39673 -56.41009,-40.57589 -92.08869,-42.6836 -43.5445,-11.56266 -88.7974,-21.93529 -133.82115,-11.93263 -22.06414,1.12682 -44.52062,12.92885 -66.45732,9.33243 z"
+       id="path6917-8"
+       transform="matrix(1,0,0,0.87963937,14,19.685021)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 128.01091,524.70188 c 9.13101,-53.40569 3.35632,-112.96289 42.23094,-156.10999 42.74157,-57.33898 111.72861,-81.79665 186.00044,-79.84695 69.66324,8.41584 134.32992,57.30375 164.8338,119.93009 10.94984,31.06422 18.18,91.44573 -1.29158,116.17102 4.6815,-37.37792 7.02094,-90.45018 -11.29269,-125.33635 C 464.79279,326.42012 374.04978,275.03549 288.3585,299.38604 c -42.66337,9.76366 -74.01376,29.67685 -109.79612,66.30424 -33.26759,37.32281 -37.43072,88.52683 -40.64736,136.0093 -1.36104,8.26875 -4.00804,16.75562 -9.90411,23.0023 z"
+       id="path6978-9"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d3d7cf;stroke:none"
+       d="m 117.54064,476.94072 c 2.19817,1.99935 4.74627,3.73502 6.72185,5.90209 1.65705,3.42005 3.59505,8.75167 8.38308,7.01682 3.76965,-0.19149 7.6014,0.3743 11.3298,0.0352 2.97354,-0.78252 5.94707,-1.56503 8.9206,-2.34754 0.13973,3.15478 -0.29024,6.38264 0.23521,9.48793 0.93175,3.57171 1.8635,7.14342 2.79525,10.71513 3.36718,-1.85195 6.73435,-3.70389 10.10153,-5.55584 1.36828,-9.66107 2.66011,-19.33455 4.56729,-28.90817 0.92024,-5.42948 2.26619,-10.8067 2.34365,-16.33963 0.17092,-3.50799 0.56433,-7.04134 0.59826,-10.53372 -0.94177,-3.45486 -2.24546,-6.85661 -2.96352,-10.3443 0,-4.22203 0,-8.44405 0,-12.66608 -2.59569,-0.59735 -5.21021,-1.57811 -7.79426,-1.93852 -2.70242,0.93046 -5.37035,2.17765 -8.09371,2.91573 -2.46715,-0.12778 -8.03138,0.32231 -10.25325,-0.7089 -1.2531,-0.55435 4.07531,-11.46223 2.59984,-14.30848 -1.47547,-2.84625 -6.47183,0.85391 -7.66632,0.22121 -1.29837,-1.62296 -3.35435,3.82516 -4.65271,2.20221 -2.35702,1.34687 -3.19882,5.21912 -5.55584,6.56599 -0.16836,3.70389 -0.33672,7.40778 -0.50508,11.11167 -2.35702,1.68359 -4.71404,3.36718 -7.07106,5.05077 -3.51779,-0.81914 -7.40761,-3.50036 -10.36393,-0.77094 -1.8993,1.54185 -5.71771,4.08929 -4.68717,7.13887 0.13463,3.09647 0.26926,6.19295 0.40388,9.28943 3.26952,1.42871 7.01388,2.46877 9.48868,5.16051 -0.0625,3.18394 1.50213,6.48832 0.76718,9.58724 -0.89323,2.82859 -1.78647,5.65717 -2.67971,8.48576 1.01015,1.17851 2.02031,2.35702 3.03046,3.53553 l 0,3e-5 z"
+       id="path5786"
+       sodipodi:nodetypes="ccccccccccccccccsccccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#eeeeec;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4485)"
+       d="m 314.53036,475.63959 c 0.11539,-3.18229 -6.08313,-6.17856 -6.88873,-2.10012 -0.30655,3.51772 0.51834,7.17958 1.92671,10.40147 2.24392,2.86388 2.29244,8.32968 6.6219,8.8224 3.17719,-1.10918 1.16337,-5.59885 1.4799,-8.24085 0.43293,-3.38392 -2.76656,-6.26146 -1.87675,-9.38803"
+       id="path3576"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4489"
+       d="m 358.53036,477.63959 c 0.11539,-3.18229 -6.08313,-6.17856 -6.88873,-2.10012 -0.30655,3.51772 0.51834,7.17958 1.92671,10.40147 2.24392,2.86388 2.29244,8.32968 6.6219,8.8224 3.17719,-1.10918 1.16337,-5.59885 1.4799,-8.24085 0.43293,-3.38392 -2.76656,-6.26146 -1.87675,-9.38803"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4485)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.7;fill:#babdb6;fill-opacity:1;stroke:none"
+       d="m 358.64286,430.6479 13.21428,-1.78572 18.57143,-1.78571 13.57143,-2.85715 17.85714,0.35715 31.78572,2.5 6.78571,0 2.5,-3.92857 -13.21428,-7.14286 -25.35715,-7.85714 -20.71428,-2.14286 -22.85715,2.5 -15.35714,4.64286 -9.64286,8.21428 -3.21428,7.14286 1.42857,3.21428 4.64286,-1.07142 z"
+       id="path5714"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 349.36991,434.7689 c 12.95238,-12.73625 32.90114,-6.35188 48.83368,-11.63232 21.52527,-2.62598 43.19527,0.0961 64.5844,2.67011 -21.17468,-10.25306 -44.08528,-18.69749 -67.98521,-16.8982 -17.21786,0.33996 -34.13486,1.59534 -40.08904,19.99757 -12.97266,8.35614 -0.13042,-14.37498 8.08523,-14.30308 16.32132,-10.71834 35.60072,-10.50652 54.38517,-10.01672 16.02869,3.2584 35.60068,6.30766 47.89752,16.77204 -4.59746,18.03816 -33.32628,2.08005 -47.88842,4.73547 -20.58852,-0.59145 -40.65647,5.36965 -61.19059,5.33222 l -3.23328,1.83466 -3.39946,1.50825 0,0 z"
+       id="path4500"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#eeeeec;stroke:none"
+       d="m 274.95155,574.74798 -50.71428,73.57143 62.14285,30 84.28572,-3.57143 58.57143,-11.42857 25.71428,-10 -49.28571,-85.71428 -130.71429,7.14285 z"
+       id="path5061"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 517.66262,518.53779 -14.14214,18.18274 -11.11168,15.15229 -8.08122,7.07107 -27.27412,9.09137 -23.23351,12.12183 -37.37564,17.1726 -15.40483,8.08122 -1.76776,6.06091 5.05076,9.09137 9.09137,9.09138 3.03046,10.10152 -7.07107,11.11168 -9.09137,41.41626 -1.01015,65.65991 5.05076,39.39595 0,25.25381 -4.04061,27.27412 10.10152,17.1726 23.23351,1.01015 c 0,0 44.95179,-14.14214 50.00256,-16.16245 5.05076,-2.0203 58.08377,-6.06091 62.12438,-5.05076 4.04061,1.01016 37.37564,-9.09137 37.37564,-9.09137 l 12.12183,-13.13198 c 0,0 3.03046,-27.27412 4.04061,-33.33504 1.01015,-6.06091 4.04061,-42.4264 4.04061,-42.4264 0,0 1.01015,-9.09138 1.01015,-14.14214 0,-5.05076 -1.01015,-24.24366 -1.01015,-24.24366 0,0 7.07107,-18.18274 6.06092,-24.24366 -1.01016,-6.06092 -6.06092,-22.22336 -7.07107,-30.30458 -1.01015,-8.08122 -13.13199,-31.31473 -13.13199,-39.39595 0,-8.08122 -3.03045,-24.24366 -6.06091,-30.30457 -3.03046,-6.06092 -7.07107,-8.08122 -7.07107,-12.12183 0,-4.04061 2.02031,-24.24366 2.02031,-24.24366 0,0 -9.09138,-14.14214 -12.12183,-19.1929 -3.03046,-5.05076 -11.11168,-11.11168 -11.11168,-11.11168 l -17.17259,-1.01015 z"
+       id="path4008-6"
+       sodipodi:nodetypes="ccccccccccccccccccccssccscscssssscscc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccsscssccscsscc"
+       id="path3205-9-4"
+       d="m 274.53793,545.39396 c -7.07441,8.62868 -6.33165,12.00043 -6.33165,12.00043 0,0 -0.91434,3.20015 -0.45717,5.48599 0.45717,2.28584 0,4.34311 1.14293,6.17179 1.14292,1.82864 54.17435,60.57469 54.17435,60.57469 0,0 3.42878,5.486 9.60053,4.80025 6.17177,-0.68573 8.4253,-1.10527 10.05769,-2.5144 9.10876,-7.86302 44.16247,-47.06535 44.16247,-47.06535 l 18.01233,-18.99537 c 0,0 1.14291,-4.80027 0.68574,-9.14337 -0.45717,-4.34309 -7.54326,-11.42918 -7.54326,-11.42918 0,0 -6.85751,-4.57169 -8.68618,-5.25743 -1.82867,-0.68576 -29.03014,-12.34353 -46.40251,-12.8007 -17.37237,-0.45716 -52.64254,9.42896 -52.64254,9.42896 l -15.77273,8.74369 z"
+       style="display:inline;fill:#f57900;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 248.96204,584.1977 c -5.05076,-3.03045 -33.33504,-9.09137 -41.41626,-12.12183 -8.08123,-3.03046 -13.13199,-9.09137 -30.30458,-17.17259 -17.1726,-8.08122 -32.32487,-30.30458 -32.32487,-30.30458 l -10.69326,-4.44851 -10.45867,2.55076 -16.22372,21.09065 4.04061,18.18275 -1.01015,10.10152 -15.15229,7.07107 -20.203052,25.25381 -12.12183,45.45687 c 0,0 3.03046,18.18274 5.05076,23.23351 2.02031,5.05076 26.263972,33.33503 26.263972,33.33503 l 6.06091,9.09137 -2.0203,27.27412 -7.071072,64.64977 5.050762,21.2132 c 0,0 28.28427,11.11168 32.32489,11.11168 4.04061,0 38.38578,-1.01016 48.48731,5.05076 10.10152,6.06091 53.53809,13.13198 60.60916,16.16244 7.07107,3.03046 19.1929,11.11168 26.26397,10.10153 7.07106,-1.01016 18.18274,-8.08122 18.18274,-12.12183 0,-4.04062 -1.01015,-40.40611 -1.01015,-40.40611 0,0 -1.01015,-38.38579 0,-44.44671 1.01015,-6.06091 3.03046,-32.32488 3.03046,-40.4061 0,-8.08122 0,-28.28427 0,-32.32488 0,-4.04061 7.07106,-33.33504 6.06091,-40.4061 -1.01015,-7.07107 -1.01015,-20.20305 -4.04061,-31.31473 -3.03046,-11.11168 0,-15.15229 -11.11168,-24.24366 -11.11167,-9.09138 -25.25381,-22.22336 -26.26396,-21.21321 z"
+       id="path4006-9"
+       sodipodi:nodetypes="csscccccccccscccccssssscssssssc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#888a85;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.41121,668.36463 9.59645,-7.57615 10.10152,-5.55584 7.57615,9.09138 4.04061,4.04061 -12.62691,6.06091 -18.68782,-6.06091 z"
+       id="path7000"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.77999998;fill:#010100;fill-opacity:1;stroke:none;filter:url(#filter6381)"
+       d="m 166.4931,627.3528 -18.57143,10 c 0,0 -10,14.28571 -7.14286,20 2.85715,5.71428 0,4.28571 14.28572,12.85714 14.28571,8.57143 12.85714,17.14286 21.42857,21.42857 8.57143,4.28572 28.57143,72.14285 28.57143,72.14285 0,0 92.83175,-35.7336 21.42857,-60.71428 -38.34936,-13.41667 -44.28572,-31.42857 -44.28572,-31.42857 l -5.71428,-12.85714 -5.71429,-20 -4.28571,-11.42857 z"
+       id="path6158"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       sodipodi:nodetypes="ccssscscccc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.33000004;fill:#2e3436;stroke:none;filter:url(#filter6154)"
+       d="m 155.06365,600.00601 c -7.07107,9.09138 -23.23351,20.20305 -31.31473,28.28427 -8.08122,8.08122 -17.17259,8.08122 -13.13198,20.20306 4.04061,12.12183 -2.02031,8.08122 13.13198,22.22335 15.15229,14.14214 13.13199,17.17259 26.26397,26.26397 13.13198,9.09137 28.28427,11.11168 28.28427,11.11168 l -6.06092,-21.21321 -30.30457,-19.1929 c 0,0 -7.07107,-9.09137 -5.05076,-17.17259 2.0203,-8.08122 1.01015,-6.06091 10.10152,-12.12183 9.09137,-6.06092 17.17259,-13.13198 17.17259,-13.13198 l 3.03046,-16.16244 -12.12183,-9.09138 z"
+       id="path6080"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 180.31746,742.43752 c 0,0 16.16245,8.08122 20.20306,12.12183 4.04061,4.04061 5.05076,6.06092 12.12183,6.06092 7.07106,0 12.12183,0 18.18274,-4.04061 6.06092,-4.04061 11.11168,-13.13199 11.11168,-13.13199 l 2.02031,-16.16244 c 0,0 0,-8.08122 -7.07107,-10.10152 -7.07107,-2.02031 -18.18275,-5.05076 -18.18275,-5.05076 l -22.6628,-1.30602 -2.59101,-3.74475 -1.01015,16.16244 -3.03046,13.13199 -9.09138,6.06091 z"
+       id="path5772"
+       sodipodi:nodetypes="csssccscccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#f57900;stroke:none"
+       d="m 398.46461,869.06072 -17.17259,6.06092 -18.18274,15.15228 -11.11168,18.18275 c 0,0 -9.09138,16.16244 -4.04061,21.2132 5.05076,5.05077 12.12183,20.20305 12.12183,20.20305 0,0 16.16244,9.09138 21.2132,10.10153 5.05076,1.01015 47.47717,3.03046 47.47717,3.03046 l 52.52793,1.01019 c 0,0 55.55839,-3.0305 59.599,-4.04065 4.04061,-1.01015 42.42641,-7.07107 42.42641,-7.07107 l 18.18275,-9.09137 7.07106,-16.16244 c 0,0 -13.13198,-24.24366 -14.14213,-29.29443 -1.01015,-5.05076 -13.13198,-22.22335 -21.2132,-27.27411 -8.08123,-5.05077 -26.26397,-15.15229 -32.32489,-16.16245 -6.06091,-1.01015 -18.18274,-8.08122 -18.18274,-8.08122 l -37.37565,1.01016 c 0,0 -33.8401,9.09137 -37.88071,9.09137 -4.04061,0 -20.70813,6.56599 -20.70813,6.56599 l -20.20305,6.56599 -8.08123,-1.01015 z"
+       id="path4014-0"
+       sodipodi:nodetypes="ccccscsccscccsssccsccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#fce94f;stroke:none"
+       d="m 280.27677,606.42106 29.29442,20.20305 19.1929,13.13198 23.23351,-7.07107 24.24366,-14.14213 13.13198,1.01015 4.04061,19.1929 c 0,0 -5.05076,20.20305 -8.08122,26.26397 -3.03046,6.06091 -8.08122,53.53808 -8.08122,62.62945 0,9.09138 1.01015,50.50763 1.01015,50.50763 l -38.38579,-13.13198 -10.10153,-5.05076 -25.25381,15.15228 -23.23351,19.1929 3.03046,-49.49747 0,-43.43656 5.05076,-37.37565 0,-34.34518 -9.09137,-23.23351 z"
+       id="path4004-6"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 118.68973,564.93602 c -29.295292,21.0028 -49.326252,55.37381 -50.766582,91.63942 19.20472,36.31498 48.947962,67.25425 85.274292,86.64127 19.92205,27.56274 43.71408,-17.70567 34.00813,-37.43911 -7.07564,-23.80125 -59.93209,-20.85241 -45.69693,-53.11594 19.7735,10.58649 40.07885,26.41851 54.11363,44.65139 20.96941,29.83987 -14.99983,72.86201 -48.22125,61.35981 C 117.19337,743.84265 97.80537,714.28749 71.632568,694.0059 43.502607,659.47516 59.362478,606.32751 92.67591,581.2421 c 7.43339,-7.08295 15.89437,-13.68547 26.01382,-16.30608 z"
+       id="path2910-7"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 128.50246,646.71276 c 21.05961,-9.00629 38.40509,-26.5832 52.87814,-39.8897 5.85348,18.6706 -24.94927,29.6143 -39.80356,36.79186 -1.76041,0.69343 -23.06516,12.41164 -13.07458,3.09784 z"
+       id="path2912-7"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 147.0038,642.65636 c -6.0382,10.2331 -42.29769,34.78596 -21.21594,11.36757 5.97739,-5.49921 13.44917,-9.16044 21.21594,-11.36757 z"
+       id="path2914-6"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#888a85;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.446708,745.13622 c 0,0 8.08123,0 10.60661,0 2.52538,0 25.253812,-12.12183 25.253812,-12.12183 l 9.59645,-12.12183 c 0,0 -3.03046,-8.08122 -5.05076,-9.09137 -2.02031,-1.01016 -7.071072,-2.02031 -7.071072,-2.02031 l -12.62691,9.59645 -13.63706,15.65737 -8.58629,6.56599 1.51522,3.53553 z"
+       id="path6998"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 264.16245,585.04493 c 33.73795,21.10637 35.96571,66.13528 30.46303,101.56856 -10.48479,44.87805 1.37699,91.51294 -7.58467,136.42941 7.45703,26.63305 -5.6516,67.91022 -40.38819,50.71962 -23.66646,-12.69618 -49.48661,-18.71298 -75.58625,-24.05133 -25.36727,-5.18321 -51.27878,-8.08452 -77.19143,-7.44991 -20.999902,-27.92044 -3.913012,-62.85516 -0.4423,-93.39971 0.13614,-9.83949 -3.276642,-46.41462 12.38167,-27.71464 3.79005,32.20283 -10.78817,63.36299 -9.04695,95.35873 11.35353,28.10631 46.27501,16.27075 69.33525,20.2309 29.53575,5.93567 58.20747,15.61868 87.38139,23.08211 13.23656,5.23498 23.99864,14.08551 18.61528,-6.31996 -0.59621,-34.36195 10.61271,-68.15389 4.7354,-102.51837 -5.60545,-44.43178 19.14286,-91.53066 -3.08021,-133.84529 -2.92265,-11.32545 -33.61504,-23.93557 -9.59202,-32.09012 z"
+       id="path2920-5"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 400.94761,628.39053 c -18.98083,59.08625 -18.70566,122.81993 -7.66659,183.42218 -12.71261,21.67694 -6.06034,69.83179 28.21006,50.17681 39.8319,-15.4017 82.45842,-19.20721 124.64878,-22.15335 19.90723,0.67364 29.70051,-8.87784 23.00689,-27.83088 -0.74594,-30.52793 9.34385,-59.82867 12.74535,-89.91594 16.08905,30.15115 3.32289,64.74215 -2.12338,95.85475 -7.55685,31.34345 -42.60038,30.31546 -68.03635,32.91508 -37.01401,3.66744 -75.1272,6.72066 -109.09829,23.21828 -35.59187,5.86979 -26.47099,-41.15462 -23.79032,-62.38665 -3.28864,-49.12245 -14.03488,-100.07941 0.49449,-148.40933 4.39561,-13.08378 11.64423,-25.2809 21.60936,-34.89095 z"
+       id="path2922-1"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3080-0"
+       d="m 407.94059,669.15427 c -2.25316,2.67064 -4.61432,5.30477 -6.46796,8.27704 -0.75388,1.65748 -1.5067,2.9423 0.61664,3.63062 2.18401,0.51651 4.44371,0.51836 6.67537,0.53638 0.36308,-1.6e-4 0.72727,0.028 1.08923,-4.7e-4 0.74727,-0.0587 1.35653,-0.21841 2.04439,-0.51546 0.34244,-0.14789 1.3177,-0.69946 0.99348,-0.515 -7.36516,4.19026 -8.81037,5.40371 -5.92944,3.13122 1.61569,-1.48018 2.62219,-3.32749 3.21248,-5.41048 0.51465,-1.98257 0.13939,-3.80893 -0.99643,-5.47193 -0.59923,-1.12832 -1.60563,-1.84387 -2.53919,-2.66167 0,0 7.65292,-4.75961 7.65292,-4.75961 l 0,0 c 0.98757,0.86465 1.99564,1.69698 2.64732,2.8657 1.24649,1.85245 1.81951,3.91055 1.35188,6.14402 -0.5108,2.23395 -1.43043,4.20858 -2.99857,5.91392 -3.70833,3.50152 -8.58948,6.65949 -13.80938,6.5541 -2.31429,-0.0472 -4.67784,-0.0779 -6.89384,-0.824 -2.2707,-1.21368 -2.28919,-2.73776 -1.31345,-4.98224 1.74985,-3.05864 4.18827,-5.66871 6.38445,-8.4077 0,0 8.2801,-3.50444 8.2801,-3.50444 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3082-7"
+       d="m 404.92715,716.54091 c -2.02563,2.15536 -3.84861,4.49564 -5.43375,6.99155 -0.83035,1.43173 -2.0476,3.20534 -0.6572,4.63056 1.52225,0.86655 3.34926,0.8445 5.05334,0.89755 0.33562,0.004 0.67215,0.0377 1.00685,0.0126 0.71114,-0.0533 1.30721,-0.22107 1.95912,-0.50834 0.33677,-0.1484 1.2963,-0.69712 0.97721,-0.51378 -7.53004,4.32656 -8.73593,5.18813 -5.65838,3.09392 1.98585,-1.34193 3.27858,-3.12396 3.98238,-5.38702 0.35623,-1.57224 0.6612,-3.36669 -0.42414,-4.70762 0,0 7.75977,-4.61101 7.75977,-4.61101 l 0,0 c 1.18255,1.63128 1.19655,3.52325 0.78804,5.45143 -0.58967,2.41317 -1.70387,4.45634 -3.758,5.94966 -4.03552,3.11544 -8.65088,6.68631 -13.93821,6.47892 -1.9161,-0.10842 -3.92386,-0.21591 -5.47032,-1.48962 -1.54103,-1.86714 -1.03007,-3.71912 0.16623,-5.67839 1.58478,-2.53532 3.36749,-4.90991 5.33293,-7.16657 0,0 8.31413,-3.44383 8.31413,-3.44383 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 333.86297,756.77086 c 9.94804,3.77594 29.86633,20.09357 29.38241,23.80046 -11.22166,-2.89114 -50.36813,-12.94154 -31.79654,-26.80485 l 1.2187,-0.5231 1.19543,-0.51312 0,4.04061 z"
+       id="path2932-0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3084-1"
+       d="m 400.0161,773.20173 c -0.47445,0.20723 -0.95908,0.39255 -1.42334,0.62169 -0.51074,0.25207 -0.99715,0.55074 -1.49876,0.82051 -0.49762,0.26762 -1.98768,1.07499 -1.49885,0.79162 11.37425,-6.5934 6.73884,-4.25427 4.46438,-1.99463 -1.20025,1.51697 -1.78453,3.38179 -1.31408,5.27716 0.83143,1.5499 2.62787,1.65616 4.20127,1.80173 2.00442,0.11508 4.01375,0.0769 6.02033,0.0623 0.33912,-0.002 0.67955,0.0226 1.01736,-0.007 1.50385,-0.13299 3.74808,-1.49643 2.92595,-1.02994 -7.24047,4.10837 -8.76647,5.51972 -6.06096,3.17438 1.35436,-1.49223 1.58216,-3.43653 1.72892,-5.3614 -0.0249,-1.70114 -0.3896,-2.90392 -1.39952,-4.23597 -0.99361,-1.14608 -2.20834,-1.88065 -3.57007,-2.51579 -0.8446,-0.36151 -1.74402,-0.51602 -2.64202,-0.67187 0,0 7.38749,-5.14864 7.38749,-5.14864 l 0,0 c 0.94974,0.21224 1.89826,0.42874 2.77905,0.86065 1.45027,0.74197 2.76206,1.59215 3.80649,2.86782 1.08861,1.45461 1.59632,2.97573 1.68433,4.80961 -0.11101,2.06694 -0.28323,4.17224 -1.46345,5.94609 -3.1201,3.66423 -8.48363,6.58616 -13.47115,6.60687 -2.03042,0.011 -4.06758,0.0489 -6.09087,-0.15168 -1.95439,-0.28804 -3.82707,-0.78506 -4.76807,-2.70342 -0.6262,-2.12192 -0.22326,-4.22265 0.94583,-6.10185 3.81865,-4.65498 10.02926,-6.65607 15.32529,-9.26488 0,0 -7.08555,5.54692 -7.08555,5.54692 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.57999998;fill:#2e3436;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4155)"
+       d="m 425,641.6481 c 11.80549,-7.08473 24.46692,-22.89839 39.1684,-11.26353 15.57573,7.0185 17.38255,25.9795 10.97257,39.92972 -11.94298,18.15646 10.80657,25.05956 18.57818,37.55945 11.51271,16.58186 -5.41172,34.59944 -22.46904,35.8574 -16.70407,7.06719 -31.61959,-7.00751 -34.54585,-22.86519 -9.31783,-10.27671 -25.55589,-24.9991 -14.41656,-40.32825 3.58612,-13.03486 -9.61976,-27.68419 2.7123,-38.8896 z"
+       id="path3199"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4325"
+       transform="translate(-452.54834,-38.385797)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697">
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccsccsccscccccscccccscccccscccccccsccccc"
+         id="path3514-3"
+         d="m 848.01776,708.31824 0.35714,18.03571 11.78572,8.39286 6.78571,2.5 -6.42857,0.71429 -6.78572,3.57143 -1.07142,9.28571 -0.35715,7.14286 -6.07143,-1.78572 -5.35714,-0.71428 -3.57143,4.64286 -1.42857,4.28571 -0.35714,7.5 4.64286,6.07143 3.57142,6.07143 -3.21428,5 -4.28572,0.35714 -7.85714,1.78571 -12.5,-1.42857 -9.28571,-6.78571 -3.92857,-1.42857 -3.21429,-0.35715 -2.85714,6.07143 7.14285,5.71429 4.28572,1.07143 -7.14286,2.85714 -4.64286,3.21429 -0.35714,5 4.28572,4.64285 3.57142,1.42857 0,5.35715 7.14286,2.5 10,-3.57143 11.78572,-7.85714 5.71428,-3.92858 4.28572,2.85715 4.28571,-1.42857 5.71429,-3.21429 3.21428,-3.92857 3.57143,-1.78572 2.5,1.07143 -1.42857,4.64286 c 0,0 -3.21429,3.92857 -0.71429,6.42857 2.5,2.5 5.35715,6.07143 5.35715,6.07143 l 5,3.21429 2.85714,-2.14286 0.35714,-8.92857 0.71429,-5.35715 2.14285,-1.07142 5,5 6.42858,7.14285 5,-3.21428 0.71428,-7.14286 5,-2.14286 8.21429,-0.71428 8.21428,-6.42857 1.07143,5.35714 1.42857,3.21428 3.57143,1.42858 5,-5 4.64286,-2.14286 4.28571,2.14286 4.28572,3.92857 c 0,0 3.57143,3.57143 5,3.57143 1.42857,0 5,0 5,0 l 2.85714,-3.57143 c 0,0 -0.71429,-3.21429 0.71429,-3.21429 1.42857,0 4.64285,-2.14286 4.64285,-2.14286 l 2.5,-3.57142 c 0,0 -0.71428,-5.71429 -2.14285,-6.07143 -1.42858,-0.35715 -2.5,-2.14286 -2.5,-2.14286 l 1.42857,-3.57143 4.64285,0.71429 3.57143,-3.57143 -1.78571,-6.07143 c 0,0 -2.85714,-1.07143 -2.5,-2.5 0.35714,-1.42857 -0.71429,-4.28571 -0.71429,-4.28571 l -8.92857,0 -12.5,2.5 -3.92857,0 -2.5,-5 c 0,0 3.57143,-8.57143 3.21429,-10 -0.35715,-1.42858 -2.14286,-10.71429 -2.14286,-10.71429 l -2.14286,-2.5 -8.92857,-4.64286 -13.21429,-1.42857 2.5,-3.92857 c 0,0 6.07143,-10.35714 6.78572,-11.78571 0.71428,-1.42858 2.85714,-12.5 2.85714,-12.5 l 0.71429,-8.57143 -1.42857,-6.42857 -13.21429,-21.42858 -10,2.5 -3.21429,6.60714 -2.14285,1.25001 c 0,0 -7.14286,0.71428 -8.57143,0.35714 -1.42857,-0.35714 -10,0.35714 -10,0.35714 l -10.35714,1.78572 -10.71429,-1.07143 -3.57143,2.5 -0.35714,25.35714 z"
+         style="fill:#4e9a06;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         sodipodi:nodetypes="cccccc"
+         id="path3270-0"
+         d="m 890.41888,679.02086 c -5.66301,2.32713 -26.61345,5.97476 -27.95683,1.73349 6.64493,-4.0483 23.40645,-3.3929 29.60242,-2.69967 l -0.73268,0.64667 -0.91291,0.31951 0,0 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3272-9"
+         d="m 865.31467,689.67781 c -0.89923,-9.83689 -20.21134,-3.31863 -18.6284,-9.90297 6.4817,-7.08176 28.47914,3.07723 18.6284,9.90297 l 0,0 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         sodipodi:nodetypes="cccc"
+         id="path3274-2"
+         d="m 888.27755,684.84673 c 2.16458,-8.24819 8.20697,-18.24918 17.83153,-17.9211 9.16895,3.85566 -7.97095,3.93268 -8.70758,9.55678 -2.25445,3.96337 -4.81098,7.94352 -9.12395,8.36432 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         sodipodi:nodetypes="cccccccccccccccccccc"
+         id="path4288-5"
+         d="m 873.3749,744.74681 c -0.15271,4.28813 -2.01094,8.71971 -0.85144,12.91705 1.63545,5.27459 3.12132,10.59724 4.92872,15.81725 2.79639,2.68373 4.97367,6.21747 8.17716,8.35817 3.89138,1.44537 7.78275,2.89073 11.67413,4.3361 3.66735,-0.84298 7.61348,-0.88323 11.10568,-2.25031 3.20287,-1.98799 6.40574,-3.97598 9.60861,-5.96397 1.07143,-5.83333 2.14285,-11.66667 3.21428,-17.5 -1.519,-4.67954 -3.0592,-9.38197 -3.8323,-14.25433 -2.28016,-4.20465 -7.02824,-6.58349 -8.83304,-11.11039 1.76167,-3.48076 4.39284,-6.77564 6.35073,-10.27345 2.21107,-4.0457 5.27676,-7.78905 6.15902,-12.40634 0.52806,-1.96135 -0.71166,-15.28693 -0.1836,-17.24828 -13.65354,13.16823 -32.79732,24.72116 -42.06791,23.66999 -4.28399,0.29485 1.45442,-3.45832 -2.55713,-1.77074 -7.62892,2.22548 -7.48518,1.08945 -14.5508,4.72399 -4.18866,2.86394 -8.26313,-1.05224 -12.20832,2.12949 0.61077,3.02719 4.07313,5.22382 5.79553,7.9128 2.79585,2.90617 7.22425,3.46158 10.5455,5.70343 2.68605,2.21156 5.05072,4.77229 7.52518,7.20954 z"
+         style="fill:#8ae234;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         sodipodi:nodetypes="ccccc"
+         id="path3288-4"
+         d="m 849.99123,704.77096 c -3.0123,15.31298 -0.0326,23.10424 9.12631,28.6367 8.90677,7.45647 18.79537,4.7275 16.20268,11.7298 -9.75356,-4.46319 -17.7949,-9.49372 -25.88278,-15.09637 -5.50004,-7.00546 -7.33704,-19.21091 0.55379,-25.27013 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         sodipodi:nodetypes="ccccccc"
+         id="path3290-0"
+         d="m 898.99183,742.70387 c 5.35524,-5.49737 8.12097,-12.75597 13.1416,-17.5071 6.50466,-7.73522 11.25046,-15.97434 6.68747,-31.80671 3.21767,-10.53753 9.06591,9.34827 5.66691,13.94978 -3.04757,10.91719 -9.36899,21.06111 -17.50627,28.90511 -2.69821,1.01725 1.44909,1.64626 -3.16232,4.14813 -1.43929,0.93645 -2.98691,2.45047 -4.82739,2.31079 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path4303-5"
+         d="m 905.12656,674.27614 c -0.4209,3.53553 -0.84179,7.07107 -1.26269,10.6066 1.76777,2.10448 3.53553,4.20897 5.3033,6.31345 4.36741,2.01089 11.597,1.27614 12.59816,-4.36 1.57231,-4.90674 0.37957,-10.32782 -3.96196,-13.35771 -3.42466,-4.52393 -10.44872,-5.4522 -12.67681,0.79766 z"
+         style="fill:#fce94f;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         transform="matrix(1.1454943,0,0,1.023361,-24.274084,-224.92768)"
+         id="path4554-9"
+         d="m 810.39487,906.14263 c -11.19701,1.58504 -22.63402,2.7191 -33.24531,6.87818 -2.18446,1.13024 -4.09468,3.18675 -4.53872,5.66252 -0.35444,1.86328 1.71554,2.78417 3.26255,2.5962 3.65897,-0.0554 7.3128,-0.52359 10.83965,-1.52179 7.39107,-1.98807 14.44858,-5.32273 22.11859,-6.18281 1.73613,-0.10275 2.7802,-1.86623 2.28516,-3.47356 -0.20256,-1.32608 -0.6921,-2.60768 -0.72192,-3.95874 z"
+         style="fill:#4e9a06;stroke:none;filter:url(#filter4655-9)"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path4292-9"
+         d="m 852.59863,683.87259 c -3.94987,-1.1337 -9.48272,-0.7547 -11.19734,3.67055 -2.62241,3.54208 -2.55376,8.88842 -0.23479,12.59925 1.72703,3.77298 6.44207,6.88693 10.53425,4.84624 4.56447,-1.04047 4.42361,-5.78868 4.88171,-9.4659 1.12975,-4.49676 -2.00193,-8.00312 -3.98383,-11.65014 l 0,0 z"
+         style="fill:#fce94f;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3294-2"
+         d="m 853.40497,688.21799 c -4.18731,-9.98883 -14.01624,0.12765 -10.64994,7.44302 -0.62955,7.82672 13.01395,13.2206 11.32279,2.25459 -1.81361,-4.37036 1.52197,-15.8777 5.51702,-7.16811 2.40945,8.68855 -6.31922,20.90691 -15.78974,16.43457 -10.52513,-6.21964 -6.53999,-26.51475 6.56628,-26.09768 4.94824,-0.39594 8.43376,3.79381 3.03359,7.13361 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3296-2"
+         d="m 912.40739,668.21604 c -10.63967,4.09591 -7.9059,23.6537 4.08849,23.1323 10.53091,-6.52402 -3.75884,-19.47527 -6.62778,-21.29907 8.99731,-4.34624 17.90085,7.31637 14.54824,15.70804 -1.92074,9.47815 -15.58779,12.05342 -21.05392,4.37962 -5.08599,-6.90648 -2.17108,-17.85223 6.00737,-20.90125 l 1.48768,-0.60147 1.54992,-0.41817 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3298-4"
+         d="m 866.68668,741.66325 c -8.70381,-6.99389 -15.50187,6.67501 -12.48941,14.0976 2.00085,8.28168 16.50205,15.17215 9.77146,24.09917 -5.80756,-7.54482 -11.64099,-15.90225 -14.67174,-24.82599 -2.31649,-10.22468 8.4571,-22.26744 18.61434,-16.92276 1.07168,1.25348 -0.34435,2.73534 -1.22465,3.55198 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3300-7"
+         d="m 848.04616,759.48834 c -10.3056,-8.14651 -14.82568,13.19384 -5.59551,17.21337 6.9405,7.6165 0.23179,17.71553 -9.34326,15.16975 -10.27236,2.45233 -20.47557,-0.58172 -27.89471,-7.76457 -5.73994,-4.08854 -9.35578,1.59254 -4.09372,5.92612 2.74271,2.11014 16.0946,2.58582 7.80841,6.64711 -11.21798,3.5426 -20.66287,-16.60796 -6.35966,-17.27164 9.1949,0.49337 14.97576,11.02488 24.60774,9.73309 5.03767,2.12322 19.8073,-1.14395 10.71108,-7.43587 -6.42411,-7.90677 -7.62755,-24.24024 4.22543,-27.55044 3.06569,-0.72968 10.87741,1.29384 5.9342,5.33308 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3302-7"
+         d="m 815.23294,798.37042 c -5.83571,-2.91323 -23.99598,-0.5085 -15.86743,8.5013 9.92261,3.4308 20.06379,-8.0403 30.33199,-4.3352 -6.59786,4.1302 -15.19469,2.7157 -22.23862,6.0544 -7.90344,6.0655 -20.62231,-1.9431 -12.61777,-10.8525 5.25967,-3.75327 19.18941,-6.03816 21.39926,0.23 l -1.00743,0.402 0,0 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3304-5"
+         d="m 802.81048,809.67322 c 3.36971,3.1025 4.37756,10.6347 10.46882,6.9668 9.40341,0.2936 15.11518,-8.9555 23.36405,-11.4756 -6.03223,4.6909 -12.55641,9.6448 -19.73005,12.7495 -5.28628,7.3514 -23.05439,-1.9279 -14.40972,-9.1517 2.68355,-1.9643 2.07538,-0.3635 0.3069,0.911 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3306-4"
+         d="m 853.80119,789.01589 c -4.41574,-2.23409 -4.44085,-17.83685 0.69386,-9.12802 0.0797,9.041 -13.2077,3.66824 -6.80058,-3.44616 7.14848,-6.95436 14.32608,8.68091 7.13753,12.47869 l -1.03081,0.0955 0,0 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3308-8"
+         d="m 865.76079,780.18864 c 0.44083,10.95111 -13.13274,11.03424 -20.97695,11.64263 -9.9606,1.94344 -2.12,21.59805 4.82251,9.82595 3.51309,-5.51267 19.26364,-9.91076 12.84222,1.0653 -4.10276,7.9267 7.88357,11.1082 9.02607,14.3852 1.24114,-5.5716 -3.87878,-16.0364 2.96357,-20.0572 10.96764,-4.81373 7.26921,13.75 16.80487,12.4763 5.19935,-11.0368 -14.72745,-13.15295 -17.97048,-22.30109 -1.51707,-8.6778 -8.93886,-19.34029 -2.62041,-27.33974 5.57473,0.72409 2.17838,13.56593 5.15033,18.93959 1.40292,10.10663 11.3601,13.59314 18.33851,18.68184 8.78249,8.155 -4.52275,22.8997 -12.53755,13.0461 -2.92588,-1.9375 -6.48834,-12.2814 -5.78241,-10.477 4.78038,9.2924 -3.70794,24.4245 -14.20226,15.9702 -7.54637,-4.76 -2.85604,-18.2069 0.48335,-19.55924 -6.89004,0.56464 -8.88007,8.36254 -15.84085,10.57984 -12.35343,6.1717 -13.24464,-12.83713 -3.13546,-15.9111 6.2921,-6.42241 19.4354,0.5442 20.37347,-9.98342 l 1.06583,-0.63323 1.19564,-0.35093 0,0 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3310-1"
+         d="m 898.27741,798.18752 c 11.14811,2.2884 19.99895,-7.7294 23.96412,-17.00723 6.54047,-5.28486 0.97508,9.60591 -3.50584,9.65246 -6.16385,5.4808 -14.05282,12.96917 -22.95748,9.30917 0.3694,-1.08 1.59304,-1.508 2.4992,-1.9544 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3312-2"
+         d="m 906.12813,736.27759 c 5.38589,-8.10066 20.68059,-5.5743 21.18716,4.84462 0.44205,10.83077 3.55314,21.64415 4.08657,32.61315 1.11577,12.48722 16.07566,8.5492 24.53408,10.05144 11.36146,3.7181 2.34968,20.86982 -7.46187,14.70332 -7.417,-0.7037 -5.92883,-15.05823 1.16739,-7.0157 2.33557,3.63047 11.30558,6.8822 6.51688,-0.52109 -6.15075,-9.27883 -19.20808,-1.08886 -26.7373,-7.87473 -5.25548,-9.55589 -2.50935,-21.01377 -6.11506,-31.0437 1.09951,-8.22134 -0.41654,-20.97437 -12.01585,-17.35487 -1.79425,0.23263 -3.55707,0.75602 -5.162,1.59756 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3314-8"
+         d="m 952.97633,796.36471 c 4.6223,11.63061 -17.8932,15.18531 -18.43364,3.19391 -6.9381,-9.22318 -6.80058,9.3052 -15.35764,5.2375 -9.48645,-1.5826 -8.62357,-12.7241 -0.41959,-15.20915 1.86238,-2.10049 9.06286,-11.83133 8.90627,-6.93193 -4.69644,4.625 -17.90414,14.46938 -6.631,19.28608 3.18199,-8.51159 15.96158,-13.52761 20.11542,-2.8539 1.98745,3.9797 8.24567,9.5379 8.01274,1.509 0.74102,-1.7754 1.96763,-3.4856 3.80744,-4.23151 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3316-9"
+         d="m 928.20046,736.89203 c 12.19495,0.83249 9.4369,18.54411 6.6466,26.10838 -10.10413,3.85175 0.98552,-9.20746 -2.65708,-14.00639 0.15224,-4.10234 -5.12427,-9.06096 -3.98952,-12.10199 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3318-3"
+         d="m 933.30258,765.7661 c 9.97632,3.58893 22.19835,-6.04522 30.3879,-1.09619 2.9749,6.35235 -14.81836,10.18633 -4.59798,5.51212 0.80872,-9.23323 -11.32025,-2.08163 -16.04423,-1.06026 -2.68007,0.39163 -12.04968,2.23517 -9.74569,-3.35567 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3320-6"
+         d="m 957.89394,771.32407 c 10.5357,-8.71346 13.89124,15.02154 1.38056,12.25189 -4.27693,2.53399 -12.18279,-6.11768 -3.52615,-4.00668 9.73059,4.10548 11.10966,-11.3209 0.0504,-6.38095 0.2025,-0.98774 1.55264,-1.21286 2.09521,-1.86426 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3322-8"
+         d="m 964.43239,780.27573 c 9.49438,1.08111 -7.36352,14.30084 -2.11095,3.01898 -0.35729,-1.41866 0.24105,-3.4724 2.11095,-3.01898 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3324-0"
+         d="m 939.83188,784.1312 c -6.9399,1.12468 -9.58131,-11.56351 -0.65404,-6.19673 2.64353,0.99144 5.43352,5.90238 0.65404,6.19673 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path3326-2"
+         d="m 876.478,740.96231 c -5.56624,15.8337 0.42771,37.70136 17.70281,43.14417 9.71722,3.13232 22.36669,-1.31417 24.18328,-12.27524 2.85215,-8.96966 1.95151,-19.4364 -3.70786,-27.15056 -5.3543,0.53937 -9.40623,-12.60912 -1.75145,-6.55289 13.54765,9.92218 14.26253,33.05944 1.51148,43.83646 -13.26727,10.49009 -36.45194,4.34397 -40.60431,-12.7553 -2.69745,-8.55667 -6.31756,-22.19567 2.66605,-28.24664 z"
+         style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path4323-1"
+         d="m 846.23205,686.53253 c -0.20056,1.86841 -1.07839,3.61726 -1.05565,5.51804 -0.15641,1.54677 -0.19966,3.28745 0.8128,4.57687 1.12747,1.54328 0.90033,3.62883 1.8745,5.24753 0.30552,0.46656 0.42212,1.35147 0.87045,1.55097 0.005,-0.66947 0.0512,-1.32879 0.24596,-1.98003 0.39318,-1.79595 0.81448,-3.58702 1.32961,-5.35239 0.13693,-2.88031 0.0317,-5.96887 -1.53495,-8.49071 -0.42271,-0.67142 -1.00443,-1.47179 -1.88075,-1.48988 -0.27832,0.0111 -0.51699,0.19207 -0.66197,0.4196 z"
+         style="fill:#000000;fill-opacity:0.87058824;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path4331-0"
+         d="m 910.16062,674.56824 c -0.50047,2.7157 -0.32096,5.58648 -0.99495,8.2114 1.29696,1.82393 3.63091,2.71739 4.64558,4.87001 1.92056,3.08081 2.55721,-1.99481 2.45208,-3.48413 -0.0232,-2.793 0.49013,-6.16385 -2.4229,-7.76735 -1.08715,-0.44248 -2.47632,-3.38214 -3.67981,-1.82993 z"
+         style="fill:#0a1401;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path4340-5"
+         d="m 849.26776,686.35396 c -0.56206,0.0324 -1.10554,0.19332 -1.66231,0.26483 -0.13387,0.50454 -0.49537,0.99284 -0.34332,1.53669 0.12348,0.28018 0.48036,0.20372 0.72156,0.27027 0.32585,0.0172 0.54139,0.22834 0.68076,0.49581 0.27758,0.18865 0.66662,0.19945 0.9839,0.11052 0.3054,-0.0506 0.34523,-0.37236 0.50773,-0.57127 0.21538,-0.2874 0.12538,-0.68713 0.0106,-0.99981 -0.15402,-0.40259 -0.36861,-0.81904 -0.76964,-1.02258 -0.0432,-0.0279 -0.0865,-0.0557 -0.12927,-0.0845 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4522-7)"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         id="path4340-2-1"
+         d="m 913.17218,674.0951 c -0.56206,0.0324 -1.10554,0.19332 -1.66231,0.26483 -0.13387,0.50454 -0.49537,0.99284 -0.34332,1.53669 0.12348,0.28018 0.48036,0.20372 0.72156,0.27027 0.32585,0.0172 0.54139,0.22834 0.68076,0.49581 0.27758,0.18865 0.66662,0.19945 0.9839,0.11052 0.3054,-0.0506 0.34523,-0.37236 0.50773,-0.57127 0.21538,-0.2874 0.12538,-0.68713 0.0106,-0.99981 -0.15402,-0.40259 -0.36861,-0.81904 -0.76964,-1.02258 -0.0432,-0.0279 -0.0865,-0.0557 -0.12927,-0.0845 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4522-4-4)"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         sodipodi:nodetypes="ccccccccc"
+         id="path3390"
+         d="m 848.7047,719.88972 c 4.35519,4.47631 10.60957,0.61799 15.91574,0.10414 10.98251,-2.71337 14.28351,-14.22761 24.705,-18.30529 6.65112,-3.69717 22.93257,3.11779 27.45003,-3.86576 1.20305,-2.09162 5.64112,-5.33531 3.65029,-3.18713 1.79375,-0.13595 -5.78769,7.71104 -8.56729,8.93749 -5.45777,3.48469 -11.81177,8.39527 -17.92049,11.37016 -14.1464,5.7988 -27.57773,9.10202 -43.36137,8.77917 -1.9643,-0.0497 -5.82508,-2.8431 -1.87191,-3.83278 z"
+         style="fill:#000000;fill-opacity:0.87058824;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         sodipodi:nodetypes="ccccccccccccc"
+         id="path3392"
+         d="m 850.96785,721.80734 c 6.16174,0.48931 11.99683,-1.68183 18.04424,-0.32757 6.53231,1.09254 13.79742,5.39955 20.21423,2.61939 -4.33425,2.09072 3.40456,-1.82534 0.39471,-0.17531 4.02197,-2.33798 5.80207,-7.10971 8.97305,-10.39709 2.73154,-3.78218 9.1126,-9.76277 10.78257,-9.9682 2.57883,-0.79035 -1.91844,1.44098 0.87631,-0.0569 -2.95314,1.60732 -8.7315,9.38665 -11.95932,14.39001 -1.53974,3.10851 -7.384,6.08119 -7.3571,5.76745 -4.17315,3.23605 -12.44299,4.35346 -18.85186,2.28449 -7.06236,-1.09036 -14.14672,-2.54402 -21.33554,-2.36399 -2.18311,-0.11737 -1.27281,-1.33121 0.21871,-1.77225 l 0,-3e-5 z"
+         style="fill:#000000;fill-opacity:0.87058824;stroke:none"
+         inkscape:connector-curvature="0" />
+      <g
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="/home/mbarbieri/Dropbox/lug/grafica/logo/g4814-7.png"
+         transform="matrix(0.99522215,-0.0976364,0.0976364,0.99522215,-63.475968,87.402455)"
+         id="g4166">
+        <path
+           style="fill:#cc0000;stroke:none"
+           d="m 866.23931,723.14598 c 4.07597,4.36273 7.18476,9.49742 9.50426,14.96887 4.11457,7.74432 15.31184,8.86578 22.09613,4.06789 5.59807,-7.50571 4.97003,-17.29011 5.53841,-26.12894 -1.0433,-7.73051 -11.21329,-2.50199 -15.77651,-1.14882 -6.11505,2.16309 -12.89443,2.238 -18.57441,5.69468 -1.09456,0.70098 -2.6896,1.00998 -2.78788,2.54632 z"
+           id="path4659-4"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3384"
+           transform="translate(2.7216103,9.3042993)">
+          <path
+             sodipodi:nodetypes="ccccccccc"
+             id="path4668-1"
+             d="m 863.12646,712.17174 c 5.10824,3.29236 8.91939,11.08579 12.83058,15.46365 2.82592,4.92411 5.51575,7.43376 11.62942,5.91081 8.56367,-0.39831 10.70346,-6.352 11.32846,-13.40341 0.95325,-3.51203 -0.72759,-17.27928 1.64276,-17.68034 -0.36829,7.48927 1.0204,19.36112 -1.38493,26.61875 -3.38057,8.23847 -16.35048,11.84799 -22.60611,4.92298 -4.18834,-4.76952 -6.74036,-10.71408 -10.19898,-16.03876 -0.58801,-1.06616 -3.48153,-4.45061 -3.2412,-5.79368 z"
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path4670-0"
+             d="m 882.38677,709.36478 c 1.16626,3.40776 3.5221,6.45907 3.59671,10.1957 -0.0586,2.45336 0.78998,4.92145 0.47447,7.33068 -1.95289,0.82107 -1.07792,-3.22584 -1.44304,-4.5025 -0.25575,-2.66194 -0.57115,-5.36685 -1.72756,-7.82395 -0.26751,-1.66238 -3.00264,-3.58636 -1.25992,-5.11044 0.11978,-0.0298 0.23961,-0.0597 0.35934,-0.0895 z"
+             style="opacity:0.87000002;fill:#000000;fill-opacity:0.87058824;stroke:none"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 498.42857,639.29078 15,20 12.14286,15.35714 2.14285,6.42857 -4.64285,7.5 -13.92858,6.42858 -16.07142,13.21428 -6.78572,13.57143 -1.42857,18.57143 6.07143,24.64286 7.85714,2.85714 11.07143,-10.71429 11.07143,-8.92857 11.07143,-6.07143 20.35714,-6.42857 c 0,0 24.28571,-14.64286 25.71429,-15.71428 1.42857,-1.07143 11.78571,-12.14286 11.78571,-15 0,-2.85715 -2.5,-26.42858 -2.5,-31.07143 0,-4.64286 -8.21429,-36.07143 -8.21429,-36.07143 L 573.42857,611.79078 562,588.5765 l -3.57143,-14.28572 0,-11.07143 -16.78572,6.78572 -9.28571,6.78571 -17.5,10.35714 -18.21429,5 -2.85714,6.78572 -1.07143,21.42857 5.71429,18.92857 z"
+       id="path4851"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 560.13714,566.86219 c 19.31556,38.7663 25.5058,82.09974 38.3667,123.08524 0.72091,31.32644 -35.27218,47.08316 -61.58195,50.27502 -18.36746,8.65843 -30.75341,35.53948 -54.02473,30.53106 -23.79909,-16.18935 -4.99821,-52.50625 12.02067,-67.1989 13.16407,-11.86757 39.03312,-14.57506 17.11009,-31.11239 -14.56516,-18.01447 -31.98011,-40.16758 -26.28608,-64.80394 3.92035,-14.66689 16.09683,-13.04532 10.88615,1.77734 3.40952,28.51478 24.32057,50.32514 43.84478,69.57743 -18.68858,16.8726 -59.35542,21.45939 -51.44185,55.55452 2.16491,13.06591 -0.78588,45.68669 17.18611,23.39174 20.55946,-24.25843 62.03239,-18.4781 75.41883,-47.84368 10.3762,-31.21355 -13.48146,-58.60654 -17.89236,-88.45859 1.63032,-16.2688 -26.19758,-46.36849 -3.60636,-54.77485 z"
+       id="path2924-3"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 530.75722,675.18022 c 3.85434,-14.25541 40.07548,-22.555 13.24731,-6.57823 -4.319,2.38204 -8.76546,4.52302 -13.24731,6.57823 z"
+       id="path2926-2"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 547.87762,671.51538 c 21.35515,-4.66989 13.28895,10.18634 -2.70733,8.67 -12.74943,1.18642 -2.4113,-7.05509 2.70733,-8.67 z"
+       id="path2928-9"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 292.00648,788.09668 c -0.25964,-11.69497 43.3707,-35.27773 20.41656,-13.05703 -3.51512,5.33147 -40.24222,29.11939 -20.41656,13.05703 z"
+       id="path2930-2"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 295.02645,606.03281 c 16.84731,8.42737 38.51163,42.65405 53.27651,26.47927 6.02081,-6.85171 39.02933,-24.36132 18.03237,-5.16744 -18.35598,21.95331 -67.23293,21.60783 -73.24488,-10.55057 -0.13956,-4.04499 0.23786,-7.0946 1.936,-10.76126 z"
+       id="path2934-0"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 335.68162,641.12152 c 3.01698,40.57785 -6.04118,80.62052 -9.27288,120.88427 -20.75302,-32.02085 -4.38191,-70.58686 0.4832,-104.7326 0.7924,-6.18235 2.94412,-12.93617 8.78968,-16.15167 z"
+       id="path2936-8"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#babdb6;stroke:none"
+       d="m 199.363,679.47631 c 17.56475,4.74681 36.61943,11.693 54.43859,4.12912 10.34841,-3.26863 17.2236,-13.16516 24.02808,-20.89926 3.01114,-13.16914 3.55387,-27.81727 0.23822,-40.99461 -5.36905,-12.3375 -10.41664,-25.15037 -18.04377,-36.26468 -9.42796,-7.95074 -23.37054,-8.82662 -35.19947,-7.31259 -11.68539,4.20986 -26.34868,1.1079 -36.27254,8.96355 -6.54863,8.73079 -13.24667,18.06323 -13.70129,29.36984 -0.64846,7.66375 -3.66608,15.44933 -2.61651,23.02576 2.72601,17.01132 14.35595,29.54885 27.12869,39.98287 l 0,0 z"
+       id="path7002"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 167.53297,647.12186 c -6.31077,-26.80914 5.92975,-57.82422 33.00816,-67.4939 24.2941,-8.29899 55.65489,-10.83866 73.68226,11.31528 19.61388,20.65502 25.99514,58.67555 2.45895,79.05887 -17.51223,15.92142 -43.1256,30.58622 -66.7935,18.54647 -20.32492,-7.34413 -53.09912,-25.38428 -41.2057,-50.73036 19.81642,-10.48431 -6.47911,3.81593 27.66578,33.41609 15.72489,12.04153 51.81064,17.27621 61.17054,9.3232 -13.64374,6.96533 19.50799,-10.32963 15.82897,-19.73952 14.53426,-26.389 3.99879,-59.78438 -20.72673,-72.86731 -17.00716,-6.99057 -43.30531,-4.95622 -60.40616,-0.9343 20.56631,-13.03957 -12.66294,11.27071 -11.74253,26.43632 -10.4132,15.01834 4.81279,30.46839 -12.94004,33.66916 z"
+       id="path2984-7"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#729fcf;stroke:none"
+       d="m 242.94692,593.9451 -21.2132,-3.03046 -12.12183,5.05076 -17.17259,14.14214 c 0,0 -5.05077,20.20305 -4.04061,24.24366 1.01015,4.04061 11.11167,19.1929 11.11167,19.1929 l 20.20305,14.14213 c 0,0 12.12183,5.05077 17.1726,4.04061 5.05076,-1.01015 20.20305,-12.12183 20.20305,-12.12183 l 12.12183,-21.2132 -2.02031,-22.22336 -11.11167,-17.17259 -13.13199,-5.05076 z"
+       id="path6000"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 214.76228,597.07717 c -6.89208,1.83235 -27.57811,11.16201 -11.14335,2.74393 -21.84663,18.48005 -3.90755,56.32161 19.79059,64.15194 9.55351,8.43471 44.77776,-5.92171 23.16073,3.35336 20.74939,-12.39751 23.86906,-42.39284 7.46177,-59.68359 -12.18082,-22.45335 -43.25369,-3.2509 -39.7888,-15.31856 19.47193,-9.00556 42.15367,-3.77052 52.32173,16.52593 12.34867,23.08065 6.65371,50.99897 -17.63365,59.81819 12.70275,-8.32205 -19.11627,15.33203 -27.87092,6.79642 -28.54414,-4.26205 -49.12962,-38.60167 -36.55147,-65.00113 6.39426,-11.2238 39.02361,-22.27043 39.19184,-20.22129 -2.97947,2.27829 -5.95892,4.55661 -8.93847,6.8348 z"
+       id="path2986-5"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 57.651078,738.5992 c -19.819221,11.63581 18.02578,-12.47097 20.01079,-22.13929 6.18778,-8.37061 24.694462,-10.28446 8.76774,0.43682 -7.73405,13.2976 -44.478401,34.92363 -35.77949,27.33084 2.33941,-1.86787 4.76593,-3.63246 7.00096,-5.62837 z"
+       id="path2988-1"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 62.186298,740.3831 c 5.17281,8.11634 26.26386,-1.45107 9.45229,6.80647 7.41177,-9.10646 37.299342,-33.18648 37.525902,-26.47746 -10.63603,8.34824 -16.93995,8.69124 -1.57953,1.23841 -16.587962,10.93117 -30.832192,36.22462 -53.896102,28.86317 -10.835421,-2.60479 7.32058,-7.80839 8.49744,-10.43059 z"
+       id="path2990-4"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 164.97393,658.19136 c 12.91962,-7.83823 13.38783,2.26564 0.80407,4.94968 21.18083,-17.05313 -6.99409,6.44608 -9.55767,1.74383 2.91786,-2.23117 5.83573,-4.46234 8.7536,-6.69351 z"
+       id="path2992-5"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.56999966;fill:#020202;fill-opacity:1;stroke:none;filter:url(#filter6294)"
+       d="m 496.85292,659.77832 c 4.07632,6.86754 17.26505,20.90581 7.8893,27.01511 -5.63775,4.84897 -25.84209,20.42638 -24.2808,29.05795 -0.12778,12.67224 16.85436,-15.90045 28.82502,-21.52043 5.20964,-8.01669 17.1097,2.60647 15.91035,-10.44103 -5.11626,-9.29686 -12.5534,-18.32852 -21.79272,-24.0145 -1.75282,-0.93333 -5.65268,-3.33562 -6.55115,-0.0971 z"
+       id="path6229"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 141.97544,848.41311 c -8.84556,-0.26435 -25.69797,6.50095 -9.16224,-1.61289 -10.78564,9.30878 -36.072691,18.69497 -40.208753,20.54859 16.094333,-8.96311 -16.102229,10.09572 -17.372019,17.61795 -18.51278,19.11791 -29.979428,51.82096 10.68758,66.88274 19.859742,9.96254 41.710242,10.41417 63.407822,10.12789 30.83236,0.93532 61.89519,2.19041 92.36456,-3.03027 18.47791,-1.01614 37.62997,1.76247 55.43322,-4.61779 -7.48858,4.84743 -15.57742,9.54016 -5.07384,-0.0948 15.90154,-18.71371 3.43828,-40.00705 -4.92478,-57.049 -0.0772,-13.8608 -37.35075,-24.4399 -13.2015,-28.77713 22.81432,3.81105 22.95434,33.20671 36.33294,48.60068 9.52199,25.18854 -16.43215,51.09572 -41.49897,49.78702 -24.95441,-0.1264 -49.61074,2.6009 -74.3747,4.5945 -30.32094,0.8468 -60.61986,-1.2215 -90.93798,-1.201 -22.772312,-5.1782 -49.265202,-14.62086 -53.001402,-41.26444 -3.842211,-25.62794 16.14333,-48.23937 35.37028,-62.38088 8.853582,-6.63974 35.322842,-18.43311 37.512462,-16.85194 -21.00553,13.07521 12.84107,-10.94696 21.31443,-9.44019 13.00997,-2.9026 1.80378,5.57745 -2.66711,8.16096 z"
+       id="path3068-7"
+       sodipodi:nodetypes="cccccccccccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 390.52593,869.94631 c -4.32449,6.97218 -20.96719,18.39473 -22.29503,19.36232 -0.15275,-3.05735 -3.02127,6.29549 -13.12573,23.85523 -5.74997,26.93029 4.03695,46.34205 42.03597,44.55092 36.7513,2.4503 73.79775,2.93399 110.59568,-0.11912 28.1866,1.82276 52.95937,-6.41138 80.73306,-9.61454 18.7899,0.42158 9.7595,-36.01124 -8.00539,-57.91433 -16.68361,-19.22756 -40.04108,-30.3765 -64.89206,-34.86299 17.1908,-15.79175 42.34404,-0.20429 58.44084,9.97994 19.0273,14.70227 38.27094,33.83711 37.82605,59.7623 3.4554,21.07781 -16.61721,31.6705 -34.37256,33.52241 -18.16643,2.03471 -36.27391,4.80908 -54.23226,7.63305 -33.18353,-0.2064 -66.1677,3.806 -99.35746,1.9523 -25.90035,-1.1024 -56.05177,2.1781 -76.17541,-17.54035 -11.15453,-19.79101 -8.57591,-50.96026 13.60358,-62.70381 8.21373,-6.08925 7.28155,-11.50703 29.22072,-17.86333 z"
+       id="path3070-7"
+       sodipodi:nodetypes="cccccccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 126.82315,877.70753 c -19.79685,7.09874 15.58685,-12.11952 -2.29374,-0.75608 -20.72302,13.21759 -17.28382,45.05373 8.22593,48.46863 10.20255,1.05237 43.48014,3.85387 17.67303,11.99912 -18.13454,-0.82096 -43.22364,-1.47759 -51.61417,-20.82748 -8.101302,-22.51324 15.09133,-39.80887 33.67718,-46.46494 10.72711,-3.42076 -4.5181,6.44413 -5.66823,7.58075 z"
+       id="path3072-4"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 440.08066,880.10656 c -18.62057,9.33794 13.22372,-8.67243 -3.68365,1.13854 -23.2303,15.35987 -6.98222,47.38468 17.11715,49.11242 13.39827,8.15209 47.02384,0.30347 48.6151,5.29223 -23.05756,13.8781 -54.82824,8.1983 -77.23527,-4.8571 -28.13588,-12.65912 -8.77209,-45.18567 12.47552,-52.91389 10.11825,-5.75085 17.13745,-7.93134 5.42595,0.10252 -0.90493,0.70843 -1.80987,1.41685 -2.7148,2.12528 z"
+       id="path3074-3"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 193.67234,702.60144 c 10.04235,3.95725 35.86444,5.62383 45.83467,9.70648 5.88459,4.27206 8.0015,11.84475 10.1509,18.44905 2.96424,9.25435 -4.43741,17.55293 -11.5889,22.32639 -8.20621,5.25153 -16.60278,11.72248 -26.87876,11.39239 -6.03414,0.74809 -11.73578,-1.45591 -16.99593,-4.14673 -5.44277,-2.07873 -11.47433,-5.7833 -14.49319,-10.18617 2.4464,-2.76995 6.22289,-4.15884 9.24432,-6.3585 4.01809,-4.1397 7.11835,3.69634 10.95931,4.93244 5.62329,2.9475 11.5083,6.07209 17.86638,7.00523 6.10807,0.0968 12.46908,-0.36224 17.90231,-3.47675 -4.39772,2.43745 -8.78171,4.89958 -13.16576,7.3615 6.81786,-4.27239 15.16985,-10.69586 14.26481,-19.68442 -1.384,-6.5347 -3.58879,-13.74007 -8.55366,-18.40618 -7.59251,-4.21265 -16.56381,-4.99704 -24.64444,-8.04222 -5.17578,-1.09062 -15.80872,-1.68626 -9.40787,-4.47037 2.55331,-1.72679 -3.01071,-4.62098 -0.49419,-6.40214 z"
+       id="path3076-1"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 486.85714,760.6479 -10.35714,0.71428 -7.5,2.85715 -15.35714,1.78571 -15,-3.21429 -10.35715,-8.57142 0,-6.78572 7.14286,-5 13.57143,-3.57143 8.57143,-4.64286 12.85714,-4.28571 10.71429,-1.78571 1.07143,18.57142 4.64285,13.92858 z"
+       id="path6110"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 477.34608,731.23541 c -5.99091,0.61729 -11.81299,2.45903 -17.17081,5.15509 -3.59834,0.89674 -6.87581,2.88984 -10.55822,3.41212 -5.15429,0.48536 -10.25267,1.50292 -15.3217,2.53329 -2.94568,0.89923 -5.78466,2.13182 -8.52338,3.53866 4.77817,-2.57099 9.49214,-5.25911 14.21105,-7.93669 -4.12682,2.00984 -6.42825,7.38306 -4.51706,11.65978 1.00086,4.19084 5.36623,5.74269 8.70952,7.65003 3.40337,2.32177 6.98546,4.25145 10.91549,5.53056 3.03203,1.0813 6.40191,1.03776 9.27368,-0.48 3.56311,-1.71438 7.23424,-3.18814 11.09501,-4.09082 11.66173,-1.39242 9.95566,-2.62056 7.03523,6.38626 -5.0666,0.93766 -10.29138,0.51182 -15.30685,1.73041 -4.65296,1.20596 -9.22716,2.69077 -13.55593,4.79993 -3.91848,1.91689 -8.48166,1.22205 -12.32872,-0.49599 -4.8898,-1.55312 -8.75049,-5.08036 -13.38708,-7.1761 -3.80748,-1.9554 -6.00537,-5.99489 -6.51013,-10.1268 -0.23239,-3.51423 1.16099,-7.29568 3.90809,-9.54673 7.45252,-4.29254 14.64329,-9.76367 23.39198,-11.00578 4.51148,-0.90973 9.09367,-1.40126 13.61651,-2.20043 4.46521,-1.63439 8.97183,-3.17522 13.32433,-5.10382 4.38861,-1.74267 9.06685,-2.58475 13.72868,-3.20371 -4.0099,2.99025 -8.01979,5.98049 -12.02969,8.97074 z"
+       id="path3078-3"
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3086-7"
+       d="m 347.83185,659.94218 c 0.0155,1.78558 -0.75035,5.03768 1.18777,6.11138 2.8208,-2.50959 -0.36438,0.23111 -6.54047,3.37963 -0.25359,0.12928 0.36356,-0.43826 0.53611,-0.66464 0.20678,-0.2713 0.401,-0.55195 0.60151,-0.82792 0,0 8.25724,-3.57943 8.25724,-3.57943 l 0,0 c -2.34361,3.31327 -6.37321,7.86404 -10.49262,6.51505 -1.94532,-1.7849 -1.65794,-4.5149 -1.62215,-6.94653 0,0 8.07261,-3.98754 8.07261,-3.98754 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3088-8"
+       d="m 348.21189,686.01481 c 0.97477,2.38264 2.39702,4.67557 4.89088,5.61167 0.95885,0.10796 1.57915,-0.30161 2.31379,-0.84015 0,0 -7.0224,5.64606 -7.0224,5.64606 l 0,0 c -0.96602,0.35416 -1.78056,0.55818 -2.79341,0.17647 -2.54328,-1.30369 -4.12791,-3.6468 -5.2549,-6.22384 0,0 7.86604,-4.37021 7.86604,-4.37021 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3090-6"
+       d="m 345.71357,710.49907 c -0.54667,2.17984 -1.3261,4.85382 0.44878,6.64023 1.55379,0.85504 3.4505,0.95614 5.17248,0.6866 1.56775,-0.21013 3.07802,-0.58331 4.40474,-1.46215 0,0 -7.02173,5.65686 -7.02173,5.65686 l 0,0 c -1.47219,0.64617 -3.00733,1.03174 -4.61459,1.16415 -1.98235,0.0741 -4.03786,-0.0894 -5.64664,-1.37199 -1.84278,-2.15414 -1.5254,-4.81334 -0.86136,-7.42469 0,0 8.11832,-3.88901 8.11832,-3.88901 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3092-1"
+       d="m 313.77191,662.82543 c 0.7907,2.15342 1.16686,5.23022 3.54773,6.20421 0.21935,0.0101 0.43854,0.0358 0.65805,0.0303 0.82058,-0.0206 0.62085,-0.0268 1.34484,-0.35049 0.2228,-0.0996 0.88195,-0.41584 0.67053,-0.29393 -7.81896,4.50838 -9.26445,5.67487 -6.60421,3.60649 0,0 8.33065,-3.47457 8.33065,-3.47457 l 0,0 c -1.86568,2.56058 -7.90366,6.74503 -11.94949,5.41364 -2.36993,-1.55141 -3.02294,-4.31352 -3.91621,-6.85371 0,0 7.91811,-4.28195 7.91811,-4.28195 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3094-0"
+       d="m 312.37853,685.24526 c -0.47678,2.09795 -0.66777,4.38632 1.23965,5.75479 0.55749,0.22468 0.82489,0.42868 1.43875,0.32949 1.51825,-0.24532 14.57238,-8.02241 -4.9736,2.9847 0.77616,-0.71736 0.40472,-0.34897 1.11579,-1.10371 0,0 8.30104,-3.52868 8.30104,-3.52868 l 0,0 c -0.64616,0.87851 -0.28963,0.47172 -1.06775,1.22197 -0.70062,0.42928 -7.54191,6.05165 -10.76642,5.59965 -0.72211,-0.10123 -1.04798,-0.36327 -1.68111,-0.71324 -1.99712,-1.76083 -2.21253,-4.11756 -1.72466,-6.65596 0,0 8.11831,-3.88901 8.11831,-3.88901 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3096-8"
+       d="m 309.0539,714.57328 c -1.37238,2.03713 -3.03439,4.21113 -2.67069,6.78568 0.68788,1.72597 2.24856,1.21789 3.55691,0.55167 3.0502,-2.00421 1.22723,-0.77715 -5.77615,3.17748 0,0 8.35498,-3.2986 8.35498,-3.2986 l 0,0 c -8.97896,5.37098 -5.64559,3.68434 -9.66283,5.67757 -1.92649,0.53788 -3.63327,0.12185 -4.43611,-1.88002 -0.56635,-2.91492 0.83895,-5.04377 2.37893,-7.43363 0,0 8.25496,-3.58015 8.25496,-3.58015 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3098-3"
+       d="m 168.61864,676.01609 c 3.55487,-1.14147 14.71459,-7.66784 0.90723,0.21609 1.44691,-0.94784 2.8977,-1.88532 4.26661,-2.94325 0,0 8.3324,-3.35908 8.3324,-3.35908 l 0,0 c -1.31993,1.16252 -2.80674,2.05755 -4.23821,3.075 -5.35537,3.10459 -10.54289,6.38901 -16.35358,8.55816 0,0 7.08555,-5.54692 7.08555,-5.54692 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3100-0"
+       d="m 130.36211,744.83502 c -1.51403,2.83609 -3.02156,5.67101 -4.60296,8.47001 -0.86811,1.80781 -2.08447,3.87615 -1.64628,5.95197 0.41823,1.35222 1.78901,1.90378 2.81331,2.74512 1.33475,0.94495 3.01196,1.25239 4.57623,1.64202 2.07622,0.2644 4.04207,0.97695 6.08856,1.38272 1.87318,0.39644 3.80959,0.17022 5.676,0.54579 1.8132,0.37601 3.64472,0.82553 5.33108,1.60596 1.6507,0.7124 3.39365,1.13889 5.04655,1.85434 2.26235,0.74654 4.58628,1.29319 6.66268,2.49135 1.80596,1.13598 3.6486,2.20643 5.48712,3.28896 1.65482,0.90771 3.27568,1.86572 4.92911,2.77752 1.68529,0.61143 3.45383,1.0304 5.20636,1.44031 1.66727,0.71243 3.4077,1.22993 5.15248,1.71059 2.85216,1.10089 5.83759,1.7286 8.8028,2.42984 3.38073,0.96951 6.7176,2.08429 10.15475,2.84173 2.03032,0.0352 4.06715,1.65465 6.06492,1.05061 2.68745,-2.42434 -0.50138,0.5242 -6.64788,3.54492 -0.2445,0.12017 0.29983,-0.45706 0.41625,-0.70337 0.46525,-0.98437 0.72517,-2.06816 0.99381,-3.11664 0.4014,-2.03516 0.71125,-4.1335 0.54064,-6.20975 -0.15995,-1.57347 -0.95173,-2.7756 -2.18583,-3.71248 -1.58798,-1.21202 -3.52801,-1.80917 -5.32023,-2.64905 -1.93463,-0.87437 -4.01153,-1.40169 -5.94858,-2.25762 -1.4284,-0.84484 -2.98962,-1.42272 -4.46305,-2.17232 -1.56782,-0.62634 -2.9095,-1.6638 -4.43221,-2.37225 -1.39013,-0.71876 -2.5389,-1.75235 -3.75458,-2.71336 -1.51705,-1.17643 -3.15096,-2.2009 -4.75883,-3.25111 -1.44525,-1.05414 -2.8693,-2.12771 -4.35213,-3.12991 0,0 7.54099,-4.8222 7.54099,-4.8222 l 0,0 c 1.48293,1.00012 2.91221,2.06862 4.37665,3.09428 1.64275,1.05688 3.30012,2.10736 4.83891,3.31157 1.14764,0.94601 2.30054,1.87806 3.63817,2.55195 1.48353,0.77439 2.87477,1.72151 4.43109,2.35882 1.50454,0.67006 2.94469,1.42894 4.42413,2.1457 1.9755,0.78348 4.01608,1.40789 5.95494,2.28678 1.87268,0.83271 3.84695,1.52602 5.46149,2.82638 1.34797,1.14484 2.307,2.5358 2.53284,4.33271 0.26365,2.16017 -0.0676,4.35615 -0.42129,6.49113 -1.24425,5.52336 -2.37047,7.63345 -10.10011,9.55138 -2.1301,-0.0748 -4.08539,-1.06142 -6.19327,-1.33833 -3.41187,-0.82764 -6.74,-1.94799 -10.12957,-2.85996 -2.99737,-0.68359 -5.98209,-1.40064 -8.88595,-2.42548 -1.73258,-0.50684 -3.45394,-1.03622 -5.14158,-1.67797 -1.80464,-0.46129 -3.67623,-0.81322 -5.35364,-1.63776 -1.63554,-0.94099 -3.27419,-1.87255 -4.91549,-2.80194 -1.84222,-1.06236 -3.65194,-2.17482 -5.47313,-3.27149 -2.0947,-1.09129 -4.40711,-1.59108 -6.61534,-2.40074 -1.67832,-0.65145 -3.42646,-1.10533 -5.06461,-1.85819 -1.67984,-0.65592 -3.42243,-1.13954 -5.20424,-1.42416 -1.89606,-0.21794 -3.82673,-0.14858 -5.698,-0.5876 -2.03681,-0.46618 -4.03397,-1.088 -6.10145,-1.41972 -1.6804,-0.44822 -3.43168,-0.80714 -4.80943,-1.93966 -1.21818,-0.92994 -2.62698,-1.69712 -3.10786,-3.25798 -0.63534,-2.28974 0.40553,-4.54601 1.40531,-6.59121 1.56273,-2.79575 3.17627,-5.56219 4.55664,-8.45639 0,0 8.22371,-3.66582 8.22371,-3.66582 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3102-0"
+       d="m 462.98924,784.19094 c -0.15923,2.57998 -0.36525,5.22982 0.7907,7.60756 1.09148,1.4543 2.50047,2.50365 4.16462,3.20606 2.40273,0.67057 4.92371,0.67049 7.39916,0.7191 2.42159,-0.0714 4.87898,0.21072 7.27917,-0.1655 2.49714,-0.34007 4.91462,-0.84085 7.28021,-1.71894 1.22561,-0.40272 2.37831,-1.13984 3.62252,-1.4933 0.351,-0.23055 0.73786,0.0651 1.09168,-0.0203 0.63636,-0.15348 1.24236,-0.41303 1.86355,-0.61954 5.09743,-1.65594 10.36948,-2.64874 15.54276,-4.0173 4.10492,-1.08744 7.99834,-2.72972 11.75924,-4.67826 2.71244,-1.38394 9.33078,-4.99717 -2.90493,1.78424 -0.50057,0.27743 0.97278,-0.60352 1.45017,-0.91916 0.46046,-0.30444 0.90856,-0.62715 1.36284,-0.94073 0.50463,-0.33212 1.00927,-0.66423 1.51391,-0.99634 2.18392,-1.60604 4.73832,-3.02005 6.17527,-5.3933 0.83719,-1.7062 2.07194,-3.15869 3.17942,-4.68921 1.39381,-2.00762 3.28441,-3.58204 5.07103,-5.22336 1.67364,-1.45637 3.26526,-3.00134 3.36454,-5.32376 -0.0396,-1.64371 -1.2616,-2.26082 -2.56045,-2.95458 -1.59856,-0.66961 -3.35268,-0.71772 -5.0597,-0.78304 -2.28808,-0.11884 -4.53331,-0.0695 -6.78912,0.31354 -2.74248,0.58172 -5.26811,1.75311 -7.72338,3.07261 -2.53622,1.25738 -5.10176,2.46745 -7.7519,3.46829 -1.80087,0.69932 -0.89437,0.36741 -2.71946,0.99581 0,0 7.06655,-5.51138 7.06655,-5.51138 l 0,0 c 1.80673,-0.65886 0.90412,-0.31783 2.70768,-1.02352 2.60938,-1.05769 5.16832,-2.24191 7.67325,-3.52727 2.5298,-1.27052 5.12406,-2.40747 7.93964,-2.86898 2.29361,-0.31383 4.59737,-0.26162 6.90753,-0.17562 1.81809,0.11012 3.67021,0.2551 5.31239,1.11991 1.51578,0.90782 2.8816,1.84812 3.02226,3.77353 0.13952,2.56209 -1.15447,4.42106 -3.08491,6.02408 -1.75784,1.62506 -3.66255,3.1453 -5.12404,5.05073 -1.09132,1.50947 -2.31231,2.93952 -3.20042,4.5801 -0.21607,0.42464 -0.71784,1.45485 -0.99078,1.76934 -1.41356,1.62869 -3.44652,2.71477 -5.09502,4.06526 -1.4612,0.9225 -2.82642,2.00474 -4.31273,2.88394 -4.07291,2.40925 -8.13853,4.9218 -12.40101,7.00976 -3.79972,1.86855 -7.71539,3.45257 -11.83132,4.49289 -5.19315,1.31881 -10.46009,2.36359 -15.55308,4.05793 -2.26411,0.5742 -4.4602,1.17215 -6.58203,2.19548 -2.42484,0.79074 -4.90423,1.28521 -7.43673,1.58921 -2.43725,0.18311 -4.88722,0.0524 -7.3292,0.0479 -2.56776,-0.0738 -5.20208,-0.094 -7.64205,-0.99479 -1.79137,-0.88419 -3.33864,-2.07473 -4.47651,-3.74216 -1.23241,-2.54968 -1.12726,-5.27835 -1.04393,-8.05947 0,0 8.07261,-3.98754 8.07261,-3.98754 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 310.9238,922.20558 c 4.1846,21.45887 46.30097,8.80071 37.24265,13.67926 -9.89901,12.55184 -51.74972,3.78764 -38.0351,-13.22221 l 0.79245,-0.45705 z"
+       id="path3104-2"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 227.56127,584.1185 c -15.20413,5.38801 -29.09342,-5.71631 -42.35966,-11.54282 -13.22048,-7.5702 -24.61244,-17.97662 -35.59512,-28.39616 -6.97674,-8.06312 -10.77931,-22.31176 -24.12646,-20.66799 13.04677,-6.58191 -7.24592,12.95947 -6.78198,19.13676 -6.36352,11.56988 0.15791,27.67142 14.20133,28.30658 10.78079,0.89518 24.13388,-6.31843 32.8041,3.18804 2.90192,10.81936 11.56871,18.17735 18.74894,25.3016 -4.21315,10.26558 -21.1543,6.14433 -24.45731,-3.24395 -2.20723,-10.76675 -11.43691,-21.76143 -23.52055,-17.86811 -12.12797,3.8362 -28.82835,0.44908 -33.37686,-12.81753 -1.23884,-10.6032 3.69921,-21.1754 8.65627,-30.35635 6.89075,-11.31896 19.51467,-23.54629 33.91279,-19.33225 9.48954,5.16059 11.14061,18.07005 20.42533,24.12353 12.3638,10.31423 24.23738,21.5869 39.04923,28.34923 8.17789,4.0781 16.84618,7.31022 25.87861,8.84795 11.15374,-4.09957 -0.30289,5.56154 -3.45866,6.97147 z"
+       id="path3169-9"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:0.95;fill:#fce94f;fill-opacity:1;stroke:none;filter:url(#filter5764)"
+       id="path5664"
+       transform="translate(746.4931,142.13348)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       cx="-565"
+       cy="755.2193"
+       rx="65"
+       ry="28.571428" />
+    <ellipse
+       transform="translate(1059.3502,144.99062)"
+       id="path5666"
+       style="opacity:0.95;fill:#fce94f;fill-opacity:1;stroke:none;filter:url(#filter5768)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       cx="-565"
+       cy="755.2193"
+       rx="65"
+       ry="28.571428" />
+    <path
+       style="opacity:0.33000004;fill:#2e3436;stroke:none;filter:url(#filter6601)"
+       d="m 540.28948,580.98644 c 10.10152,56.56854 12.12183,49.49747 18.18274,63.63961 6.06092,14.14213 9.09138,14.14213 8.08122,28.28427 -1.01015,14.14213 3.03046,28.28427 4.04061,31.31473 1.01016,3.03045 9.09138,2.0203 4.04061,15.15228 -5.05076,13.13199 -8.08122,17.1726 -11.11168,29.29443 -3.03045,12.12183 -4.04061,15.15229 -8.08122,30.30457 -4.04061,15.15229 -4.04061,23.23351 -4.04061,29.29443 0,6.06091 11.11168,33.33503 13.13199,14.14213 2.0203,-19.19289 3.03046,-32.32488 7.07107,-42.4264 4.04061,-10.10153 7.07106,-22.22336 9.09137,-37.37565 2.0203,-15.15229 6.06091,-25.25381 4.04061,-37.37564 -2.02031,-12.12183 0,-15.15229 -4.04061,-27.27412 -4.04061,-12.12183 -1.01015,-14.14214 -9.09137,-35.35534 -8.08123,-21.2132 -20.20306,-55.55839 -20.20306,-55.55839 l -11.11167,-6.06091 z"
+       id="path6563"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 262.3258,568.79569 c -2.03077,-9.55643 3.02981,-19.44022 11.36595,-24.22045 12.41556,-7.58971 27.061,-9.94385 40.91073,-13.66032 24.81916,-4.91138 51.96916,-7.85328 75.62383,3.22543 6.89966,3.08129 13.84748,7.68188 16.23287,15.26746 3.26859,8.95903 2.54275,19.99172 -4.86597,28.02667 -7.44392,5.58505 -4.91266,5.64643 -12.74144,10.0037 -8.28975,8.20263 -16.81307,17.86804 -25.17091,25.94161 -7.62396,10.38037 -14.90884,19.18676 -27.94736,22.49846 -9.30961,2.39517 -20.61355,-4.00747 -27.16689,-9.93438 -15.90721,-13.96364 -26.48374,-32.66052 -40.67393,-48.17536 -4.96452,-4.28342 -2.42708,-13.99473 4.91454,-11.073 7.76185,2.41871 7.7392,11.8412 13.44643,16.61432 13.21275,17.43146 25.82408,37.48336 46.83562,46.27459 6.20615,1.03147 11.19257,-3.17942 15.59685,-7.05322 7.86909,-5.76369 10.28964,-12.26715 20.21086,-22.05534 8.39694,-11.42695 20.49063,-16.45378 27.81179,-26.73848 4.33761,-6.65821 0.75624,-14.78099 -1.68976,-21.4113 -6.7141,-13.11742 -22.45769,-17.30178 -36.02264,-18.63688 -13.73604,-1.18582 -27.61583,-0.51471 -41.28211,1.121 -13.53225,2.07243 -26.37353,7.30496 -39.92963,9.17754 -6.62541,6.59466 -4.4183,18.54704 -12.72474,23.79563 -0.85662,0.46664 -1.78347,0.79833 -2.73409,1.01232 z"
+       id="path3567"
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 383.19652,602.29777 c 33.83968,-14.46078 64.82208,-36.46333 101.39871,-43.8662 8.70619,-22.58144 35.57523,-57.86606 61.64836,-38.08471 18.97166,6.00822 23.15192,46.71092 12.67036,46.83352 -35.91055,16.53542 -69.71497,40.24736 -111.29634,37.38337 -11.51747,21.42825 -41.06099,34.49218 -64.27519,30.00947 -16.56354,-15.32928 -4.52304,-45.91438 12.34875,-13.45803 20.16413,21.78417 32.96036,-8.75803 49.04595,-16.85051 28.99624,-14.24533 65.51739,-9.39215 90.88734,-31.61725 10.57108,-9.48465 38.1892,-8.79383 18.44695,-7.39743 -2.63562,-19.70842 -17.89754,-37.78844 -33.06297,-46.90827 -9.05309,31.77123 -43.47516,45.69619 -71.56404,56.91074 -24.34227,8.13889 -46.00959,22.33275 -69.7135,31.74125 -7.97929,2.06627 2.39916,-3.43053 3.46562,-4.69595 z"
+       id="path2918-7"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="matrix(1.1087574,0,0,1.1087574,-424.9525,152.11819)"
+       id="path6462-8"
+       d="m 713.1677,350.81124 c -2.02031,0.50508 -7.57615,-5.05076 -9.59645,3.03046 -2.02031,8.08122 -7.57614,18.68782 -10.10153,22.22336 -2.52538,3.53553 -5.55584,0 -11.11167,13.13198 -5.55584,13.13198 -9.59645,23.73858 -5.55584,26.76904 4.04061,3.03046 13.63706,1.51523 18.68782,-4.54568 5.05076,-6.06092 8.08122,-12.12183 11.61675,-17.1726 3.53554,-5.05076 17.1726,-23.23351 16.66752,-25.75889 -0.50508,-2.52538 -9.59645,-17.17259 -10.6066,-17.67767 z"
+       style="fill:#fce94f;stroke:none;filter:url(#filter6552-6-2)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 200.68466,407.16652 c 8.42562,-14.67839 24.80298,-24.96385 41.23957,-28.21501 27.19047,-5.78159 57.97261,-2.74218 79.332,16.58969 12.11492,18.00281 -18.91425,21.34799 -26.3672,7.81604 -22.26572,-12.78169 -50.12444,-9.96332 -71.30327,4.36096 -7.59974,7.15801 -32.07223,-0.17263 -12.52038,-2.96854 18.75636,1.23779 19.62446,-16.39885 56.65322,-14.76858 17.3344,-3.07607 41.6747,17.95581 50.80611,15.23744 -17.07922,-22.95856 -49.63829,-28.14067 -76.22809,-22.76739 -19.68623,-0.2792 -27.85374,15.25845 -41.61196,24.71539 z"
+       id="path4491"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 162.63464,503.59084 c 2.03898,-6.04135 2.50528,-14.05341 3.84305,-20.24688 -0.56965,-8.16967 1.11965,-16.28626 1.92984,-24.27881 0.85631,-7.22256 6.23407,-13.6082 0.0433,-19.69615 -3.59335,-5.07726 3.93527,-13.58224 -5.90043,-14.3877 -6.1392,-1.26191 -13.79274,3.6722 -20.7296,0.007 4.52742,-5.93615 12.40127,0.008 18.25979,-2.33588 -2.67407,0.60598 7.77154,-3.68856 10.45113,0.17516 5.25637,5.20288 -1.40698,13.01408 5.24352,18.06959 2.61165,7.95804 -2.49917,16.23863 -2.30968,24.44087 -2.98551,9.11278 -1.12465,19.13369 -4.15281,28.25409 -0.0268,4.44234 -1.54964,9.41526 -6.67806,9.99858 l 0,1.3e-4 z"
+       id="path5809"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 144.31235,410.87388 c -3.56254,-1.26674 -13.25301,0.84283 -7.16881,-0.58517 -0.17284,5.23751 -9.46964,10.29184 -10.50162,9.39786 5.89144,-5.12214 3.10153,5.54932 3.79927,9.15729 -1.32749,6.39777 -16.02641,10.08948 -16.0992,4.69181 5.62059,-1.84272 -9.15885,6.24799 -5.0519,3.85587 2.01769,0.70506 -2.33203,10.31052 3.65556,12.41101 7.8462,3.09109 7.13416,12.62611 5.38673,19.3444 -2.36055,8.23361 6.83478,11.07361 10.00928,17.58259 6.17182,4.51993 13.63966,-1.9805 20.62911,-1.60993 9.4878,-3.50233 8.183,11.48392 8.97208,17.03228 -2.57577,6.08465 9.79403,2.65714 1.72893,5.46851 -1.83255,-3.43044 11.80717,-9.87598 4.83433,-2.86263 -3.61706,7.56702 -13.79753,5.13906 -11.91164,-3.53365 2.21319,-8.25216 -2.92848,-14.2486 -11.25683,-10.27306 -6.89741,0.57401 -16.65464,4.24746 -20.04999,-4.41654 -4.32015,-5.84416 -11.48219,-10.05339 -7.12651,-18.47479 2.01943,-6.49415 -0.8764,-13.54112 -7.04851,-16.56386 -6.78586,-4.83621 -2.42248,-17.28248 2.8753,-17.23061 -6.64125,3.5068 7.35451,-4.01748 -1.0039,0.89048 3.48172,-7.36056 10.51091,-2.77622 16.46381,-3.64201 4.41407,-1.11639 -3.05176,4.40133 0.32888,-1.38196 -1.61613,-5.47797 -2.05049,-13.73639 5.83913,-13.63162 -5.61167,3.18918 2.57517,-8.0289 6.22957,-8.24126 3.22189,-1.44795 16.48025,-2.48227 6.46693,2.61499 z"
+       id="path5811"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 115.81497,440.09571 c 0.26931,9.07066 13.66361,12.32986 17.52215,4.3133 1.39576,-4.02319 -4.79938,-5.76862 1.95029,-4.12485 3.81553,8.20708 -8.98163,13.02766 -14.94138,9.52259 -3.25299,-1.16009 -8.06224,-6.04668 -4.53106,-9.71104 z"
+       id="path5823"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 144.85736,444.86027 c 2.22344,11.87558 -8.41042,16.0326 -10.37836,16.41715 6.15213,-3.79605 8.48833,-10.39826 10.37836,-16.41715 z"
+       id="path5825"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 144.03584,465.84195 c 1.0283,6.83467 -10.05704,14.02216 -13.24074,8.3638 8.81077,1.73686 7.44323,-2.20665 13.24074,-8.3638 z"
+       id="path5827"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 154.77793,438.08072 c 4.60424,8.20871 9.42991,20.90245 4.01564,29.12112 -5.25552,0.99459 -7.04422,-7.29716 -2.10713,-1.35693 7.5099,-4.69228 0.11049,-15.66587 -2.2199,-22.71341 0.18573,-0.91367 -1.44865,-4.86701 0.31139,-5.05078 z"
+       id="path5829"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       id="path5831"
+       d="m 151.33465,476.53723 c 2.55844,-1.53484 1.13039,-0.68926 0.64944,-0.17202 -0.26811,0.28835 -0.26146,0.30931 -0.48166,0.64355 -0.39013,0.75184 -0.79164,1.51852 -0.94739,2.35807 0.002,0.0847 0.005,0.16933 0.007,0.254 0,0 -1.53748,0.79261 -1.53748,0.79261 l 0,0 c -0.006,-0.097 -0.0127,-0.19402 -0.019,-0.29103 0.14652,-0.86271 0.56284,-1.63948 0.93302,-2.42382 0.66533,-1.12403 1.5568,-1.6494 2.76192,-2.25384 0,0 -1.36576,1.09248 -1.36576,1.09248 z"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 159.77988,475.69184 c 2.12428,2.94585 1.42047,15.43477 -0.38651,5.98453 -0.66076,-1.9132 -1.29026,-4.36345 0.38651,-5.98453 z"
+       id="path5833"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d3d7cf;fill-opacity:1;stroke:none"
+       d="m 495.07143,516.00504 8.57143,-1.78572 2.5,-3.92857 1.07143,-9.28571 2.14285,-10.35714 3.21429,-3.57143 8.92857,-2.14286 7.85714,-1.78571 10,2.5 4.28572,4.28571 5.35714,-0.35714 2.14286,-2.85715 6.07143,-1.78571 3.57142,-8.92857 -1.07142,-8.92857 -8.21429,-7.5 1.78571,-7.5 2.5,-11.07143 -1.78571,-7.14286 -10,-4.28571 -2.85714,-8.57143 c 0,0 0.71428,-15 -1.07143,-15.71429 -1.78572,-0.71428 -8.21429,-6.42857 -8.21429,-6.42857 l -13.21428,-0.35714 -2.5,1.78571 6.78571,17.5 2.5,6.42857 -5.71428,1.42858 -3.92858,3.57142 -9.28571,1.78572 -10,1.42857 -3.21429,0 -3.21428,3.92857 3.21428,11.07143 3.57143,16.78571 -1.78571,13.21429 -4.64286,15 0,17.85714 1.07143,3.57143 3.57143,2.14286 z"
+       id="path5887"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 488.39842,517.69728 c -3.07492,-13.39613 -1.48241,-27.56011 3.83073,-40.16451 3.08333,-11.22065 2.06278,-23.8433 -4.49547,-33.66516 -3.06446,-7.78006 4.90271,-14.01194 12.00713,-14.47857 3.93899,-1.0705 15.15344,-1.5731 14.58792,-0.6286 0.26599,-3.14385 11.87993,-7.64127 5.54861,-1.21057 -7.71839,6.02579 -18.29573,6.75284 -27.72621,6.04248 4.25158,4.14967 3.48772,12.09945 7.13109,17.37826 3.04956,13.05438 0.11123,26.68972 -5.41665,38.65719 -2.71784,8.92803 5.53253,21.34385 -3.97716,27.67762 l -1.48999,0.39186 0,0 z"
+       id="path5869"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 518.86047,396.77099 c 10.03983,-4.47899 24.94237,1.26664 25.49563,13.30175 -0.36251,6.23063 -1.26059,13.64183 4.18849,18.12994 5.36562,3.70071 15.83494,4.20505 11.14115,13.53705 -2.75561,5.7197 -9.328,13.27763 -1.82632,18.44955 6.39154,2.80018 8.79123,10.70072 6.19669,16.97577 -0.75926,5.45097 -10.25599,11.80334 -12.23966,9.79689 4.03715,1.05789 -7.45615,8.59295 -11.22674,5.52987 -6.64212,-0.32245 -11.06225,-10.51968 -17.23409,-7.91294 -1.20221,4.2611 -12.09156,5.84754 -10.24472,3.06048 -5.02648,8.18003 1.37838,19.94332 -6.23956,26.85401 -2.67634,2.97 -14.76764,5.67343 -12.87086,0.0327 1.90518,-2.27039 15.32765,-2.81407 8.42657,0.1325 3.76908,-8.85914 -1.26607,-21.03377 7.29096,-27.78074 5.56842,-3.67973 11.59251,-0.74528 15.53114,-6.20274 6.05255,-1.90045 14.06413,-0.89327 16.95978,5.53043 1.14415,1.92308 10.86701,1.85655 4.21759,2.98052 1.13907,-3.30126 13.19167,-6.48741 7.23457,-3.44255 8.06241,-7.59027 3.25889,-22.15277 -6.63244,-25.55963 -0.68242,-8.29405 9.47604,-16.2855 4.25189,-24.11817 -6.26292,-2.05465 -14.45666,-3.76422 -13.68495,-12.58602 -0.43517,-6.9444 0.40334,-14.79779 -4.76632,-20.27383 -4.26474,-5.81468 -12.13811,-1.18819 -17.62004,-2.57742 -0.83621,-2.01505 2.69825,-2.64104 3.65124,-3.85745 z"
+       id="path5873"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 529.74336,430.30076 c 1.10612,8.95403 -9.06897,10.90817 -10.87934,18.14463 0.50797,3.13928 -0.82045,10.3282 -3.73355,4.10182 -0.68806,-9.8448 12.56851,-11.18176 13.33619,-20.92385 l 1.2767,-1.3226 z"
+       id="path5889"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 533.28266,461.03701 c -4.54388,7.69869 12.8904,18.86866 11.35548,5.73071 -2.55886,-3.04902 -2.55615,-5.15226 1.62246,-2.91278 4.03943,8.69441 -9.03939,15.39614 -13.56586,6.5353 -2.17107,-2.66438 -3.30517,-7.57141 0.58792,-9.35323 z"
+       id="path5891"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 511.25463,461.20096 c 6.94895,2.27352 3.6338,16.24486 -2.12656,11.34042 11.02118,0.14392 -1.5265,-7.49832 2.12656,-11.34042 z"
+       id="path5893"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 505.45765,481.37219 c -0.002,3.90906 -4.26592,15.0876 -3.43176,5.3379 0.33151,-2.13395 1.31744,-4.42809 3.43176,-5.3379 z"
+       id="path5895"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 525.24852,405.82073 c 2.69358,2.30002 7.26377,12.51145 2.14834,12.67946 2.77534,-4.46212 -6.09174,-8.61953 -2.14834,-12.67946 z"
+       id="path5897"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 502.38164,437.90367 c 4.57616,0.53194 5.54583,9.89792 0.4424,3.52124 -1.47819,-0.58716 -2.99966,-3.13182 -0.4424,-3.52124 z"
+       id="path5899"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#eeeeec;stroke:none;filter:url(#filter6076-2)"
+       d="m 200.88256,641.73518 c 0,0 -5.05076,13.13198 -2.0203,21.2132 3.03045,8.08122 5.05076,30.30458 21.2132,39.39595 16.16244,9.09137 20.20305,9.09137 20.20305,9.09137 0,0 8.08122,-20.20305 2.02031,-35.35534 -6.06092,-15.15229 -19.1929,-30.30457 -19.1929,-30.30457 l -22.22336,-4.04061 z"
+       id="path6002"
+       transform="matrix(0.04918869,0.61792415,-0.63409675,0.04793414,637.68657,447.62091)"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.70999995;fill:#010100;fill-opacity:1;stroke:none;filter:url(#filter6225)"
+       d="m 265,885.21933 c -4.11114,17.45642 5.76883,59.5314 16.93423,-0.22974 1.95325,-17.88849 1.60055,-35.43534 -0.0609,-53.26464 2.56527,-18.39442 2.71548,-36.5569 1.35813,-54.99097 -0.41478,-16.52743 1.4553,-32.76743 4.21959,-49.01213 -2.02018,-18.82638 2.41613,-37.51933 0.63071,-56.24255 -2.47516,-16.07053 -13.20984,-28.78986 -22.02349,-40.47248 -7.65643,2.09475 -2.34187,13.48631 -3.91542,19.88628 17.76542,24.64118 16.70948,56.24121 16.22529,85.16323 -2.60293,23.94434 -6.94819,48.06812 -3.73133,72.16779 -3.66771,23.28191 -5.81134,46.82803 -8.28175,70.25812 l -0.7877,3.34115 -0.56733,3.39594 0,0 -3e-5,0 z"
+       id="path6112"
+       transform="matrix(1.2325627,0,0,1,-53.919087,-36)"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.87000002;fill:#010100;fill-opacity:1;stroke:none;filter:url(#filter6474)"
+       d="m 143.8046,851.20224 c 16.65946,7.11383 35.64153,5.38152 52.36359,12.73059 17.57416,2.13152 33.5132,9.74285 50.44117,13.97583 6.81326,3.44511 34.01103,5.90125 18.72518,-5.70655 -15.8725,-10.10958 -35.90718,-9.50368 -52.48908,-18.15557 -17.59212,-4.1282 -35.15212,-8.55775 -52.94144,-11.42653 -5.38414,-5.75089 -32.98816,4.02428 -16.09942,8.58223 z"
+       id="path6407"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.87000002;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter6461)"
+       d="m 400.88842,871.40529 c 20.33091,-5.99785 40.45675,-12.94354 61.35062,-16.77034 17.39827,-4.8982 35.63247,-6.56653 53.65542,-5.54754 4.01657,-2.45052 10.96159,-2.09303 13.02784,2.7054 -0.2106,5.127 -6.98651,4.88891 -10.71082,6.08657 -24.75297,5.14208 -50.45336,1.43758 -75.12458,7.16476 -11.99867,6.30091 -25.87723,6.99615 -39.12668,7.58092 -1.16367,-0.14815 -2.10708,-0.56365 -3.0718,-1.21977 z"
+       id="path6409"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 385.69395,413.41826 c -0.002,3.90906 -4.26592,15.0876 -3.43176,5.3379 0.33151,-2.13395 1.31744,-4.42809 3.43176,-5.3379 z"
+       id="path5895-5"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#070707;fill-opacity:1;stroke:none"
+       d="m 400.56187,413.63793 c 4.92616,-5.40276 16.30443,3.35644 9.46735,6.59521 4.65631,-9.99029 -7.4639,-1.68677 -9.46735,-6.59521 z"
+       id="path5893-0"
+       inkscape:export-filename="D:\Amministrativi_personale\LUG\tux-scandiano.png"
+       inkscape:export-xdpi="40.759697"
+       inkscape:export-ydpi="40.759697"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
