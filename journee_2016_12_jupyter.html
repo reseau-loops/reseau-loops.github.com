@@ -8,7 +8,7 @@ navbar-events: active
 Le réseau LoOPS, DevLog et le projet <a href="http://opendreamkit.org/">OpenDreamKit</a> vous proposent une journée autour des outils disponibles dans l'environnement de <a href="http://jupyter.org/">Jupyter</a>. Les notebooks sont de plus en plus utilisés dans les communautés scientifiques du fait de leur simplicité d'utilisation et de leur interactivité. Ils permettent facilement d'avoir des supports de cours et de TPs attractifs pour les étudiants, d'échanger des idées entre collègues et d'initier une réflexion pour que les travaux de recherche soient reproductibles.
 </p>
 <p>
-Ce premier JupyterDay en France se tiendra à Orsay le 6 décembre 2016 à l'<a href="http://www.ias.u-psud.fr/">IAS</a> en salle 1-2-3. Nous aurons la chance d'accueillir quatre "core developers" autour des outils de Jupyter (<strong><a href="https://github.com/sylvaincorlay">S. Corlay</a>, <a href="https://github.com/afshin">A. Darian</a>, <a href="http://cmg.soton.ac.uk/people/tk2e15/"">T. Kluyver</a>, <a href="https://github.com/minrk">B. Ragan-Kelley</a></strong>) ainsi que <strong><a href="https://www.lri.fr/~pons/">Viviane Pons</a></strong> du LRI qui est très active autour des outils proposés par SageMathCloud.
+Ce premier JupyterDay en France se tiendra à Orsay le 6 décembre 2016 à l'<a href="http://www.ias.u-psud.fr/">IAS</a> en salle 1-2-3. Nous aurons la chance d'accueillir quatre "core developers" autour des outils de Jupyter (<strong><a href="https://github.com/sylvaincorlay">S. Corlay</a>, <a href="https://github.com/afshin">A. Darian</a>, <a href="https://github.com/vidartf">V. Fauske</a>, <a href="http://cmg.soton.ac.uk/people/tk2e15/"">T. Kluyver</a>, <a href="https://github.com/minrk">B. Ragan-Kelley</a></strong>) ainsi que <strong><a href="https://www.lri.fr/~pons/">Viviane Pons</a></strong> du LRI qui est très active autour des outils proposés par SageMathCloud.
 </p>
 <p>
 Nous aurons le matin des présentations d'outils faisant partie intégrante de Jupyter sur des développements récents. L'après midi sera consacré à des ateliers pour que les particpants puissent tester les outils et comprendre les bénéfices qu'apporte Jupyter dans la recherche et l'enseignement.
@@ -25,7 +25,7 @@ Les interventions seront pour la plupart en anglais. Afin de suivre pleinement l
 <li><strong>9h45-12h45</strong> Présentations<ul>
 <li><b>A. Darian et S. Corlay</b> : <i>JupyterLab and third-party extensions, featuring ipywidgets: the next generation of Jupyter notebooks</i>.</li>
 <li><b>B. Ragan-Kelley</b> : <i>JupyterHub: Deploying Jupyter Notebooks for students and researchers</i>.</li>
-<li><b>B. Ragan-Kelley</b> : <i>nbdime: diffing and merging notebooks</i>.</li>
+<li><b>V. Fauske</b> : <i>nbdime: diffing and merging notebooks</i>.</li>
 <li><b>V. Pons</b> : <i>the SageMathCloud platform</i>.</li>
 </ul></li>
 <li><strong>12h45-14h00</strong> Buffet</li>
@@ -51,7 +51,7 @@ Since the Jupyter notebook is a web-based environment, the notebook server can b
 </p>
 &nbsp;
 
-<li><strong>B. Ragan-Kelley</strong> : nbdime: diffing and merging notebooks.</li>
+<li><strong>V. Fauske</strong> : nbdime: diffing and merging notebooks.</li>
 &nbsp;
 <p>
 Jupyter notebooks are JSON documents containing a combination of code, prose, and output. These outputs may be rich media, such as HTML or images. The use of JSON and including output can present challenges when working with version control systems and code review. The JSON structure significantly impedes the readability of diffs, and simple line-based merge tools can produce invalid results. nbdime aims to provide diff and merge tools specifically for notebooks. For diffs, nbdime shows rendered diffs of notebooks, so that the content can be compared efficiently, rather than the raw JSON. Merges performed with nbdime will guarantee a valid notebook as a result, even in the event of conflicts. nbdime integrates with existing tools, such as git, so you shouldn't need to change how you work.
