@@ -1,0 +1,83 @@
+---
+layout: default
+no_sidebar: true
+title: 6 décembre 2016 - JupyterDay
+navbar-events: active
+---
+<p>
+Le réseau LoOPS, <a href="http://devlog.cnrs.fr/">DevLog</a> et le projet <a href="http://opendreamkit.org/">OpenDreamKit</a> vous proposent une journée autour des outils disponibles dans l'environnement de <a href="http://jupyter.org/">Jupyter</a>. Les notebooks sont de plus en plus utilisés dans les communautés scientifiques du fait de leur simplicité d'utilisation et de leur interactivité. Ils permettent facilement d'avoir des supports de cours et de TPs attractifs pour les étudiants, d'échanger des idées entre collègues et d'initier une réflexion pour que les travaux de recherche soient reproductibles.
+</p>
+<p>
+Ce premier JupyterDay en France se tiendra à Orsay le 6 décembre 2016 à l'<a href="http://www.ias.u-psud.fr/">IAS</a> en salle 1-2-3. Nous aurons la chance d'accueillir quatre "core developers" autour des outils de Jupyter (<strong><a href="https://github.com/sylvaincorlay">S. Corlay</a>, <a href="https://github.com/afshin">A. Darian</a>, <a href="https://github.com/vidartf">V. Fauske</a>, <a href="http://cmg.soton.ac.uk/people/tk2e15/"">T. Kluyver</a>, <a href="https://github.com/minrk">B. Ragan-Kelley</a></strong>) ainsi que <strong><a href="https://www.lri.fr/~pons/">Viviane Pons</a></strong> du LRI qui est très active autour des outils proposés par SageMathCloud.
+</p>
+<p>
+Nous aurons le matin des présentations d'outils faisant partie intégrante de Jupyter sur des développements récents. L'après midi sera consacré à des ateliers pour que les particpants puissent tester les outils et comprendre les bénéfices qu'apporte Jupyter dans la recherche et l'enseignement.
+</p>
+<p>
+Pour vous inscrire, merci de remplir le <a href="https://indico.lal.in2p3.fr/event/3319/registration/register#/register"> formulaire d'inscription</a>.
+</p>
+<p>
+Les interventions seront pour la plupart en anglais. Afin de suivre pleinement les ateliers, le matériel sera précisé ultérieurement.
+</p>
+<h2>Programme</h2>
+<ul>
+<li><strong>9h15-9h45</strong> Accueil</li>
+<li><strong>9h45-12h45</strong> Présentations<ul>
+<li><b>A. Darian et S. Corlay</b> : <i>JupyterLab and third-party extensions, featuring ipywidgets: the next generation of Jupyter notebooks</i>.</li>
+<li><b>B. Ragan-Kelley</b> : <i>JupyterHub: Deploying Jupyter Notebooks for students and researchers</i>.</li>
+<li><b>V. Fauske</b> : <i>nbdime: diffing and merging notebooks</i>.</li>
+<li><b>V. Pons</b> : <i>the SageMathCloud platform</i>.</li>
+</ul></li>
+<li><strong>12h45-14h00</strong> Buffet</li>
+<li><strong>14h00-14h30</strong> <b>T. Kluyver</b>: <i>Nbconvert: make things from notebooks</i>.</li>
+<li><strong>14h30-17h30</strong> Ateliers en parallèle.</li>
+</ul>
+
+<h2>Détail des interventions</h2>
+
+<ol>
+
+<li><strong>A. Darian et S. Corlay</strong> : JupyterLab and third-party extensions, featuring ipywidgets: the next generation of Jupyter notebooks.</li>
+&nbsp;
+<p>
+This talk will consist of an architectural overview and the current state of affairs of the new JupyterLab and ipywidgets. It will feature demos of the master branch of these projects, reflecting the latest developments
+</p>
+&nbsp;
+
+<li><strong>B. Ragan-Kelley</strong> : JupyterHub: Deploying Jupyter Notebooks for students and researchers.</li>
+&nbsp;
+<p>
+Since the Jupyter notebook is a web-based environment, the notebook server can be run remotely, not just on your local machine. JupyterHub is a multi-user server, aimed at helping research groups and instructors host notebook servers for their users or students. By default, JupyterHub uses the local system users and PAM authentication, but it can be customized to use any authentication system, including GitHub, CILogon, Shibboleth, and more. The way single-user servers are spawned can also be customized to use services such as Docker, Kubernetes, or HPC cluster queuing systems. The tutorial will cover a basic deployment of JupyterHub on a single machine, then extending it to use docker and GitHub authentication, as well as general best practices for JupyterHub deployment.
+</p>
+&nbsp;
+
+<li><strong>V. Fauske</strong> : nbdime: diffing and merging notebooks.</li>
+&nbsp;
+<p>
+Jupyter notebooks are JSON documents containing a combination of code, prose, and output. These outputs may be rich media, such as HTML or images. The use of JSON and including output can present challenges when working with version control systems and code review. The JSON structure significantly impedes the readability of diffs, and simple line-based merge tools can produce invalid results. nbdime aims to provide diff and merge tools specifically for notebooks. For diffs, nbdime shows rendered diffs of notebooks, so that the content can be compared efficiently, rather than the raw JSON. Merges performed with nbdime will guarantee a valid notebook as a result, even in the event of conflicts. nbdime integrates with existing tools, such as git, so you shouldn't need to change how you work.
+</p>
+&nbsp;
+
+<li><strong>V. Pons</strong> : the SageMathCloud platform.</li>
+&nbsp;
+<p>
+We will present the open-source interactive platform SageMathCloud and its many useful aspects for research collaboration and teaching:
+</p>
+<ul>
+<li>creation of a collaborative project;</li>
+<li>sharing files and worksheets;</li>
+<li>using Jupyter in SageMathCloud;</li>
+<li>multi-user real time editing;</li>
+<li>course management with Jupyter and SageMathCloud.</li>
+</ul>
+&nbsp;
+
+<li><strong>T. Kluyver</strong> : Nbconvert: make things from notebooks.</li>
+&nbsp;
+<p>
+Nbconvert is a set of tools to convert notebooks to other file types, such as HTML, Latex, or executable scripts. We'll cover how to use it at the command line and in the notebook interface, along with an overview of how it works. Nbconvert is also designed to be highly extensible, and we'll describe some of the things that can be done by building on nbconvert, such as extra converters, reports based on input, and cross-linking between converted notebooks.
+</p>
+
+</ol>
+
+
