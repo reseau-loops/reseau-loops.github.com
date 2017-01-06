@@ -5,7 +5,7 @@ navbar-blog: active
 <div class="post">
   <h4 class="post-info">
     Publié le {{ page.date | date: "%d-%m-%Y" }} {% if page.author %} par {{ page.author }} {% endif %}
-    {% if page.categories %} dans
+    {% if page.categories.size > 0 %} dans
       {% for c in page.categories %}
         <a href="/categories/{{ c | slugize }}">{{ c }}</a>{% if forloop.last == false %},{% endif %}
       {% endfor %}
@@ -16,7 +16,7 @@ navbar-blog: active
   <p>
     Vous trouverez ci-dessous, assortis d'un petit commentaire,
     quelques liens vers des articles ou ressources intéressantes pour les développeurs,
-    signalés par des membre de LoOPS. Pour contribuer, vous pouvez envoyer vos liens
+    signalés par des membres de LoOPS. Pour contribuer, vous pouvez envoyer vos liens
     et commentaires à <tt>maxence POINT guesdon AROBAS inria POINT fr</tt>.
   </p>
   {% endif %}
