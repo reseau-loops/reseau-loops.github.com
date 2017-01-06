@@ -3,12 +3,31 @@ layout: default
 navbar-blog: active
 ---
 <div class="post">
-  <h4 class="large-bottom">
-    Publié le {{ page.date | date: "%d-%m-%Y" }} {% if page.author %} par {{ page.author }} {% endif %}
-    {% if page.category %} in <a href="/categories/{{ page.category | slugize }}">{{ page.category }}</a> {% endif %}
+  <h4 class="post-info">
+    Publié le {{ page.date | date: "%d-%m-%Y" }} {% if page.author %} par {{ page.author }} {% endif %}
+    {% if page.categories %} dans
+      {% for c in page.categories %}
+        <a href="/categories/{{ c | slugize }}">{{ c }}</a>{% if forloop.last == false %},{% endif %}
+      {% endfor %}
+    {% endif %}
   </h4>
-
   <div class="content">
-    {{ content }}
+  {% if page.categories contains "veille" %}
+  <p>
+    Vous trouverez ci-dessous, assortis d'un petit commentaire,
+    quelques liens vers des articles ou ressources intéressantes pour les développeurs,
+    signalés par des membre de LoOPS. Pour contribuer, vous pouvez envoyer vos liens
+    et commentaires à <tt>maxence POINT guesdon AROBAS inria POINT fr</tt>.
+  </p>
+  {% endif %}
+  {{ content }}
   </div>
+  {% if page.categories contains "veille" %}
+  <dl>
+    {% for item in page.items %}
+    <dt><a href="{{ item.url }}">{{ item.titre }}</a> [{{ item.auteur }}]</dt>
+    <dd>«{{ item.comment }}»</dd>
+    {% endfor %}
+  </dl>
+  {% endif %}
 </div>

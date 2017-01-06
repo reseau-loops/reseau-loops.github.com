@@ -4,8 +4,12 @@ navbar-interview: active
 ---
 <div class="interview">
   <h4 class="large-bottom">
-    Publié le {{ page.date | date: "%d-%m-%Y" }} {% if page.author %} par {{ page.author }} {% endif %}
-    {% if page.category %} in <a href="/categories/{{ page.category | slugize }}">{{ page.category }}</a> {% endif %}
+    Publié le {{ page.date | date: "%d-%m-%Y" }} {% if page.author %} par {{ page.author }} {% endif %}
+    {% if page.categories %} dans
+      {% for c in page.categories %}
+        <a href="{% if c != 'interview' %}/categories{% endif %}/{{ c | slugize }}">{{ c }}</a>{% if forloop.last == false %},{% endif %}
+      {% endfor %}
+    {% endif %}
   </h4>
 
   <div class="content">

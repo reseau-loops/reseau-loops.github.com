@@ -1,8 +1,14 @@
 .PHONY: site
 
-site: style
+site: style catpages
 	echo url: file://`pwd`/_site > _config_local.yml
 	jekyll build --config _config.yml,_config_local.yml
+
+catpages:
+	for i in `grep -h -E "^categories" _posts/* | cut -d":" -f 2 | tr "," "\n" | tr "[" " " | tr "]" " " | sed "s/^ *//g" | sort -u` ; do \
+	  mkdir -p categories/$$i; \
+		/bin/echo -e "---\nlayout: categorypage\ntitle: $$i\ncategory: $$i\n---" > categories/$$i/index.html ; \
+	done
 
 # en utilisant jekyll < 1.0
 pre1.0: style

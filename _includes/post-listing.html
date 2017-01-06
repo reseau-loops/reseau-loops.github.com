@@ -3,9 +3,11 @@
   <h4 class="low-top">
     Publié le {{ post.date | date: "%d-%m-%Y" }}
     {% unless no_category %}
-      {% if post.category %}
-        in <a href="/categories/{{ post.category | slugize }}">{{ post.category }}</a>
-      {% endif %}
+    {% if post.categories %} dans
+      {% for c in post.categories %}
+        <a href="/categories/{{ c | slugize }}">{{ c }}</a>{% if forloop.last == false %},{% endif %}
+      {% endfor %}
+    {% endif %}
     {% endunless %}
   </h4>
   <p>{{ post.content  | split: '<!-- more -->' | first | strip_html | truncatewords: 75 }}</p>
