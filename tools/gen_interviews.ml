@@ -147,7 +147,7 @@ let create_tag_index tag t =
     "---
 layout: default
 no_sidebar: true
-navbar-blog: active
+navbar-interview: active
 title: Interviews avec le tag \"%s\"
 ---
 {%% for tag in site.tags %%}
