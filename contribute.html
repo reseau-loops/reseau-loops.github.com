@@ -36,10 +36,21 @@ sur le dépôt du site.</li>
 <p>
 Les billets du blog sont les fichiers du répertoire <code>_posts/</code>. Lorsqu'on
 ajoute une page pour une journée ou un autre événement, il faut également ajouter
-un billet pour l'annoncer. Le fichier du billet contient également des informations
-permettant de mettre à jour le calendrier au format ical disponible sur le site.
-Le plus simple est donc de copier le fichier d'un billet précédent dans un nouveau
-fichier, puis de modifier ce dernier avec les informations relatives à l'événement.
+un billet pour l'annoncer. Le fichier du billet commence par des champs spéciaux, qui
+permettent par exemple de mettre à jour le calendrier au format ical disponible sur
+le site. Voici un exemple d'entête de fichier :
+<blockquote>
+---
+layout: post
+title: JupyterDay
+ev_link: http://reseau-loops.github.io/journee_2016_12_jupyter.html
+ev_keywords:
+  - jupyter
+  - python
+ev_startDate: Tue, 6 December 2016 9:15:00 +0200
+ev_endDate: Tue, 6 December 2016 17:30:00 +0200
+---
+</blockquote>
 </p>
 
 <h3>Tester sur sa machine</h3>
