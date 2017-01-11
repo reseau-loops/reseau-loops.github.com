@@ -28,8 +28,8 @@ des démos improvisées, des revues de code, des présentations éclairs, ... to
     {% else %}
       {{ post.date | date: "%d-%m-%Y" }}
     {% endif %}: <a href="{{ post.url }}">
-    {% if page.ev_keywords.size > 0 %}
-      {% for c in page.ev_keywords %}
+    {% if post.ev_keywords %}
+      {% for c in post.ev_keywords %}
         {{ c }}{% if forloop.last == false %}, {% endif %}
       {% endfor %}
     {% else %}
@@ -37,11 +37,4 @@ des démos improvisées, des revues de code, des présentations éclairs, ... to
     {% endif %}</a>
   </li>
 {% endfor %}
-<li>3 janvier 2017 : <a href="2016/12/16/cafe-loops">Blockchain</a></li>
-<li>18 octobre 2016 : <a href="2016/10/18/cafe-loops">Intel Python et Veille</a></li>
-<li>4 octobre 2016 : <a href="2016/10/04/cafe-loops">Visualisation, à la Maison de la Simulation</a></li>
-<li>20 septembre 2016 : <a href="2016/09/20/cafe-loops">Thèmes improvisés</a></li>
-<li>6 septembre 2016 : <a href="2016/09/06/cafe-loops">Pythran</a></li>
-<li>21 juin 2016 : <a href="2016/06/21/cafe-loops">Thèmes improvisés</a></li>
-<li>7 juin 2016 : <a href="2016/05/04/cafes-loops">Lancement</a></li>
 </ul>
