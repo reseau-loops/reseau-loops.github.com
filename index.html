@@ -5,8 +5,11 @@ no_comments: true
 navbar-home: active
 title: Bienvenue sur le site de LoOPS
 ---
+
 <div class="row">
+
 <div class="span8">
+</br>
 <p>
 LoOPS est le réseau des développeurs de logiciels scientifiques
 dans les établissements de l'Enseignement Supérieur et de la Recherche
@@ -14,36 +17,43 @@ au sud-ouest de Paris. Les développeurs d'autres établissement peuvent bien s�
 nous rejoindre et participer. N'hésitez pas à lire la
 <a href="about.html">présentation du réseau</a>.
 </p>
-<p>
-
-</p>
 </div>
+
 <div class="span4">
 <img src="logo.svg" width="200"/>
 </div>
+
+</br>
+
 </div>
 
 <div id="devlog-news">
-<div class="box-title">Nouvelles des réseaux
+
+<div class="box-title">
+Nouvelles des réseaux
 <a href="http://erssical.good-eris.net/?query-url=http://reseau-loops.github.io/erssical_query.xml">
 <img width="20px" src="rss.png"/>
 </a>
 </div>
+
 <div id="devlog-feeds">
 <script src="{{ site.url }}/fetch_devlog_feeds.js" type="text/javascript"> </script>
 </div>
+
 </div>
 
 <div>
 <span class="alert alert-info">
 <a href="https://groupes.renater.fr/sympa/info/loops/">Abonnez-vous à la liste électronique</a>
 </div>
+
 <div>
 <span class="alert alert-info">
 <a href="contribute.html">Ajoutez une annonce ci-dessous</a>
 </div>
 
 <br/>
+
 {% assign posts = site.posts | where: "layout", "post"%}
 {% assign listing_limit = 5 %}
 {% include post-listing.html %}
