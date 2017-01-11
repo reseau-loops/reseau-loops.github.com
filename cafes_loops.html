@@ -21,6 +21,22 @@ des démos improvisées, des revues de code, des présentations éclairs, ... to
 
 <h2>Cafés passés</h2>
 <ul>
+{% for post in site.categories["cafés"] %}
+  <li>
+    {% if post.ev_startDate %}
+      {{ post.ev_startDate | date: "%d-%m-%Y" }}
+    {% else %}
+      {{ post.date | date: "%d-%m-%Y" }}
+    {% endif %}: <a href="{{ post.url }}">
+    {% if page.ev_keywords.size > 0 %}
+      {% for c in page.ev_keywords %}
+        {{ c }}{% if forloop.last == false %}, {% endif %}
+      {% endfor %}
+    {% else %}
+      {{ post.title }}
+    {% endif %}</a>
+  </li>
+{% endfor %}
 <li>3 janvier 2017 : <a href="2016/12/16/cafe-loops">Blockchain</a></li>
 <li>18 octobre 2016 : <a href="2016/10/18/cafe-loops">Intel Python et Veille</a>,</li>
 <li>4 octobre 2016 : <a href="2016/10/04/cafe-loops">Visualisation, à la Maison de la Simulation</a></li>
