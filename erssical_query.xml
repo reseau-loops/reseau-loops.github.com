@@ -2,7 +2,7 @@
 <query type="application/rss+xml">
   <sources>
     <source href="http://developr6.dr6.cnrs.fr/feed.php"/>
-    <source href="http://www.min2rien.fr/feed/"/>
+    <source href="https://www.min2rien.fr/feed/"/>
     <source href="http://www.compil.org/feed.php"/>
     <source href="http://reseau-loops.github.io/feed.xml"/>
     <source href="http://devlog.cnrs.fr/feed.php"/>
