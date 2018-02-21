@@ -1,5 +1,5 @@
 var myfun = function() {
- var url = 'http://erssical.good-eris.net/?query-url=http://reseau-loops.github.io/erssical_query.xml&rtype=xml';
+ var url = 'https://erssical.good-eris.net/?query-url=https://reseau-loops.github.io/erssical_query.xml&rtype=xml';
  $.get(url, function (html) {
    $("#devlog-feeds").html(html);
  }, 'html')
