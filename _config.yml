@@ -8,3 +8,4 @@ markdown: kramdown
 name: Réseau LoOPS
 description: Réseau des développeurs de l'Enseignement Supérieur et la Recherche - Zone Paris-Sud
 excerpt_separator: "<!--more-->"
+gems: [jekyll-paginate]
