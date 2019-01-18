@@ -10,8 +10,14 @@ RUN apt-get update \
 && apt-get install -y python-pygments \
 && apt-get install -y ruby-maruku \
 && apt-get install -y ruby-liquid \
+&& apt-get install -y zlib1g-dev \
+&& apt-get install -y node-less \
 && rm -rf /var/lib/apt/lists/*
 
-RUN gem install jekyll
+RUN gem install bundler
+COPY docker-gemfile Gemfile
+COPY docker-gemfile-lock Gemfile.lock
+RUN bundle install
+
 
 

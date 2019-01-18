@@ -1,9 +1,21 @@
 .PHONY: site
 SHELL=/bin/bash
 
-site: style catpages
+build: style catpages
 	echo url: file://`pwd`/_site > _config_local.yml
 	jekyll build --config _config.yml,_config_local.yml
+
+serve: style catpages
+	echo url: file://`pwd`/_site > _config_local.yml
+	jekyll serve --host 0.0.0.0 --config _config.yml,_config_local.yml
+
+bundle_build: style catpages
+	echo url: file://`pwd`/_site > _config_local.yml
+	bundle exec jekyll build --config _config.yml,_config_local.yml
+
+bundle_serve: style catpages
+	echo url: file://`pwd`/_site > _config_local.yml
+	bundle exec jekyll serve --host 0.0.0.0 --config _config.yml,_config_local.yml
 
 catpages:
 	./mk_cat_dirs.sh
