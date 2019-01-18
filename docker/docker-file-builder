@@ -1,0 +1,14 @@
+FROM jekyll/builder
+
+# installation of http://lesscss.org/
+RUN apk add --no-cache npm
+RUN npm install less -g
+
+# installation of jekyll for github
+RUN gem install bundler
+COPY docker-gemfile Gemfile
+COPY docker-gemfile-lock Gemfile.lock
+RUN bundle install
+
+
+
