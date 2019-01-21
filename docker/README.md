@@ -5,6 +5,7 @@
 1. Construire l'image Docker : `./build.sh`.
 1. Lancer la regénération des pages : `./run.sh`.
 
+
 # Problème non réglé : Liquid warnings
 
 Le fait de passer par bundle, ou bien la pile ruby plus récente correspondante,
@@ -17,6 +18,7 @@ génère les warnings suivants :
     Liquid Warning: Liquid syntax error (line 4): Unexpected character # in "{{site.tags.#[t] }}" in tags/réseaux métiers.html
     Liquid Warning: Liquid syntax error (line 4): Unexpected character # in "{{site.tags.#[t] }}" in tags/réseaux sociaux.html
     ...
+    
 
 # Commentaire : utilisation de bundle
 
