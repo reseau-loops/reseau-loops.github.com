@@ -1,36 +1,15 @@
 
-# Version zoggy
+# Generation locale et verification des pages via Docker
 
-Au plus près de la recette originale de construciton du site.
-Sauf qu'on y utilise tout de meme l'installation des packages
-Jekyll via Bindler. Se placer dans le répertoire /docker, puis :
+1. Se placer dans le répertoire `docker` : `cd docker`.
+1. Construire l'image Docker : `./build.sh`.
+1. Lancer la regénération des pages : `./run.sh`.
 
-1. ./docker-build-zoggy.sh
-2. ./docker-run-zoggy.
 
-FONCTIONNE... à part des insultes quand on met les pages
-à jour.
+# Problème non réglé : Liquid warnings
 
-# Version "builder"
-
-Variante basée sur l'image jekyll/builder.
-Se placer dans le répertoire /docker, puis :
-
-1. ./docker-build-builder.sh
-2. ./docker-run-builder.sh
-
-NE FONCTIONNE PAS ! Le site local généré ne semble pas trouvé
-son style, pour une raison mysterieuse, plus des warnings sur les
-pages de /tags.
-
-# A FAIRE
-
-Etudier et comprendre le fonctionnement de "bundler".
-Toujorus pas compris si il fallait faire ou pas les commandes Jekyll
-à travers `bundle exec`. Actuellement la version zoggy fonctionne
-très bien sans.
-
-Le fait de passer par bundle génère les warnings suivants :
+Le fait de passer par bundle, ou bien la pile ruby plus récente correspondante,
+génère les warnings suivants :
     ...
     Liquid Warning: Liquid syntax error (line 4): Unexpected character # in "{{site.tags.#[t] }}" in tags/recherche.html
     Liquid Warning: Liquid syntax error (line 4): Unexpected character # in "{{site.tags.#[t] }}" in tags/remaniement.html
@@ -39,4 +18,22 @@ Le fait de passer par bundle génère les warnings suivants :
     Liquid Warning: Liquid syntax error (line 4): Unexpected character # in "{{site.tags.#[t] }}" in tags/réseaux métiers.html
     Liquid Warning: Liquid syntax error (line 4): Unexpected character # in "{{site.tags.#[t] }}" in tags/réseaux sociaux.html
     ...
+    
+
+# Commentaire : utilisation de bundle
+
+A priori, les versions récentes de Jekyll recommande une
+installation à l'aide `bundle`, qui repose sur les fichiers
+`Gemfile` et `Gemfile.lock`. Et cela suppose l'exécution
+des commandes `jekyll ...` à l'aide `bundle exec ...`.
+
+
+# Commentaire : justement des locales
+
+Lorsqu'on édite une page, alors qu'un `jekyll serve ...` est
+en cours, la regénération automatique des pages génère des
+erreurs de type `invalid byte sequence in US-ASCII in ...`.
+
+Seul moyen trouvé d'y mettre un terme, redéfinir les locales
+à l'aide des instructions correspondantes du `Dockerfile`.
 

@@ -1,1 +1,0 @@
-docker build -f docker-file-builder . -t loops-builder

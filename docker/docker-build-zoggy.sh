@@ -1,1 +1,0 @@
-docker build -f docker-file-zoggy . -t loops-zoggy
