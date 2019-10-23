@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Café LoOPS du 5 novembre 2019 : Intégration Continue d'une Appli Web."
+categories: cafés
+ev_link: http://reseau-loops.github.io/cafes/
+ev_startDate: Tue, 5 November 2019 13:00:00 +0200
+ev_endDate: Tue, 5 November 2019 14:00:00 +0200
+ev_keywords: [Intégration Continue]
+---
+
+<p>
+Au programme du café de novembre, à la Maison de la Simulation, Martial Mancip nous
+fera une brève démonstration de son application  de visualisation tuilée TiledViz,
+sur le mur d'images de la Maison de la Simulation. Il nous montrera ensuite comment
+il a mis en place une chaîne d'intégration continue pour tester cette application,
+à l'aide de Selenium, Gitlab-CI et Docker-in-Docker.
+</p>
+
+<!-- more -->
+
+<p>
+TiledViz est un outil web dédié à la visualisation tuilée de données
+scientifiques distantes, grâce à un flux graphique VNC envoyé depuis des
+conteneurs qui s'exécutent directement sur les machines de calcul où sont 
+produites les données. Le but est d'analyser visuellement avec les outils
+graphiques des chercheurs, une centaine de résultats de simulations, sur un
+navigateur de bureau comme sur un mur d'images.
+
+<p>
+Selenium est un outil de tests web. Des extensions pour Firefox ou Chrome
+permettent d'enregistrer des séquences de test. On peut traduire ces tests
+enn s'appuyant sur l'API Python de Selenium, afin de les intégrer dans une
+chaine d'intégration continue telle que Gitlab-CI. Docker-in-Docker
+permet d'instancier les différents micro-services nécessaires, dont la
+base de données et le navigateur en mode sans affichage.
+</p>
+
+<p>
+Martial Mancip nous détaillera les réussites et les difficultés rencontrées
+pour la vérification des formulaires de TiledViz, ainsi que pour la
+visualisation tuilée.
+</p>
+
+<p>
+Cette rencontre se tiendra à la Maison de la Simulation.
+Merci de vouloir vous munir d'une carte d'identité pour les personnes extérieures au bâtiment.
+De 13h à 14h, comme d'habitude. 
+</p>
+
+<p>Liens<ul>
+  <li><a href="http://www.maisondelasimulation.fr/venir-chez-nous/">Venir à la Maison de la Simulation</a></li>
+  <li><i><a href="{{ site.url }}/cafes/">Page générale sur les cafés LoOPS</a></i></li>
+</ul></p> 
