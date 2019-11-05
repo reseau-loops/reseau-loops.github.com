@@ -50,12 +50,12 @@ sincères salutations.
                                           l'animateur du réseau Maxence Guesdon
 
 
-[1] Réseau LoOPS: http://reseau-loops.github.com/
+[1] Réseau LoOPS: https://reseau-loops.github.com/
 [2] Autres réseaux locaux similaires: http://devlog.cnrs.fr/region
 [3] Réseau métier Devlog: http://devlog.cnrs.fr
 [4] MRCT: http://www.mrct.cnrs.fr/
-[5] http://reseau-loops.github.com/journee_2012_05_31.html
-[6] http://reseau-loops.github.com/journee_2012_12.html
+[5] https://reseau-loops.github.com/journee_2012_05_31.html
+[6] https://reseau-loops.github.com/journee_2012_12.html
 
 Membres du comité de pilotage:
 - Christian Arnault (IN2P3),
