@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <query type="text/calendar">
   <sources>
-    <source href="http://reseau-loops.github.io/feed.xml"/>
+    <source href="https://reseau-loops.github.io/feed.xml"/>
   </sources>
   <target>
     <title>Calendrier des événements LoOPS</title>
-    <link>http://reseau-loops.github.io</link>
+    <link>https://reseau-loops.github.io</link>
     <description>Calendrier des événements organisés dans le réseau LoOPS.</description>
   </target>
   <filter>
