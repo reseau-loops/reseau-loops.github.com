@@ -1,4 +1,4 @@
-FROM ruby:2.3
+FROM ruby:2.4
 
 # locales nécessaire pour les majs automatiques
 # node-less nécessaire pour la generation de style
