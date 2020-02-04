@@ -1,1 +1,1 @@
-cd .. && docker run -it --rm -v${PWD}:/work -w /work -p 4000:4000 loops make bundle_serve
+cd .. && rm Gemfile.lock && docker run -it --rm -v${PWD}:/work -w /work -p 4000:4000 loops make bundle_serve
