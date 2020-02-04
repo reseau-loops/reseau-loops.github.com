@@ -1,4 +1,4 @@
-FROM ruby:2.4
+FROM ruby:2.5
 
 # locales nécessaire pour les majs automatiques
 # node-less nécessaire pour la generation de style
@@ -18,5 +18,5 @@ ENV LC_ALL=en_US.UTF-8
 # par bundler
 RUN gem install bundler
 COPY Gemfile .
-COPY Gemfile.lock .
+#COPY Gemfile.lock .
 RUN bundle install
