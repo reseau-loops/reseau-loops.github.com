@@ -1,2 +1,2 @@
 cp ../Gemfile .
-docker build -f Dockerfile . -t loops
+docker build --force-rm --no-cache -f Dockerfile . -t loops
