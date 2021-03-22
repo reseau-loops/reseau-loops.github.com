@@ -16,7 +16,7 @@
     <link>https://reseau-loops.github.io</link>
     <description>Actualités de Devlog et des réseaux locaux</description>
   </target>
-  <filter max="12"/>
+  <filter max="8"/>
   <template tag="div" class="rss-items">
     <div class="rss-item">
       <span class="rss-date"><item-pub-mday/>-<item-pub-month/>-<item-pub-year/></span
