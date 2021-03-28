@@ -5,17 +5,18 @@ title: Cafés LoOPS
 navbar-cafes: active
 ---
 <p>
-Coups de cœur ou dilemmes technologiques à partager, envie de rencontrer
-d'autres LoOPsiens et de découvrir ce qui se passe ailleurs ? Venez partager un
-moments convivial autour d'un café ou d'un thé.
+  Coups de cœur ou dilemmes technologiques à partager, envie de rencontrer
+  d'autres LoOPsiens et de découvrir ce qui se passe ailleurs ? Venez partager un
+  moments convivial autour d'un café ou d'un thé.
 </p>
 <p>
-Le format de ces cafés est volontairement laissé libre pour que chacun puisse s'approprier ce
-moment, le créer et le façonner. On pourra donc avoir par exemple : des discussions libres,
-des démos improvisées, des revues de code, des présentations éclairs, ... tout est bienvenu.
+  Le format de ces cafés est volontairement laissé libre pour que chacun puisse s'approprier ce
+  moment, le créer et le façonner. On pourra donc avoir par exemple : des discussions libres,
+  des démos improvisées, des revues de code, des présentations éclairs, ... tout est bienvenu.
 </p>
 
-<p><strong>Pour qui ?</strong> Toute personne intéressée par le développement logiciel en environnement scientifique.</p>
+<p><strong>Pour qui ?</strong> Toute personne intéressée par le développement logiciel en environnement scientifique.
+</p>
 <p><strong>Où ?</strong> Ca tourne. Souvent au LAL, à l'IAS, à l'INRIA, à l'X.</a></strong></p>
 <p><strong>Quand ?</strong> Le <strong>premier</strong> mardi de chaque mois, de <strong>13h à 14h</strong></p>
 
@@ -23,24 +24,26 @@ des démos improvisées, des revues de code, des présentations éclairs, ... to
 <dl>
   <dt>6 avril 2021, à distance.</dt>
   <dd><a href="/2021/03/22/cafe-loops">Les microservices derrière Regards</a>.</dd>
+  <dt>4 mai 2021, à distance.</dt>
+  <dd><a href="/2021/03/28/cafe-loops">Les widgets interactifs dans Jupyter</a>.</dd>
 </dl>
 
 <h2>Tous les cafés</h2>
 <ul>
-{% for post in site.categories["cafés"] %}
+  {% for post in site.categories["cafés"] %}
   <li>
     {% if post.ev_startDate %}
-      {{ post.ev_startDate | date: "%d-%m-%Y" }}
+    {{ post.ev_startDate | date: "%d-%m-%Y" }}
     {% else %}
-      {{ post.date | date: "%d-%m-%Y" }}
+    {{ post.date | date: "%d-%m-%Y" }}
     {% endif %}: <a href="{{ post.url }}">
-    {% if post.ev_keywords %}
+      {% if post.ev_keywords %}
       {% for c in post.ev_keywords %}
-        {{ c }}{% if forloop.last == false %}, {% endif %}
+      {{ c }}{% if forloop.last == false %}, {% endif %}
       {% endfor %}
-    {% else %}
+      {% else %}
       {{ post.title }}
-    {% endif %}</a>
+      {% endif %}</a>
   </li>
-{% endfor %}
+  {% endfor %}
 </ul>
