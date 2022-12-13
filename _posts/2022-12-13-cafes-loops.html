@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Café LoOPS du 7 novembre 2022 : Coarray fortran 2018 et 202X"
+categories: cafés
+ev_link: https://reseau-loops.github.io/cafes/
+ev_startDate: Tue, 7 November 2022 13:00:00 +0200
+ev_endDate: Tue, 7 November 14:00:00 +0200
+ev_keywords: [Fortran, Numérique]
+---
+
+<p>
+    <a href="https://www.cyu.fr/baptiste-mary">Baptiste Mary</a>, Ingénieur au centre
+    de calcul de l'Université de Cergy-Paris nous présentera les Coarray fortran 2018 et 202X.
+</p>
+
+<p>
+    Les coarray sont une extension du langage Fortran introduite par la norme 2008
+    permettant de paralléliser nativement, sans l'emploi (explicite) de bibliothèques
+    tierces comme MPI.
+
+    Le modèle utilisé est semblable à celui de MPI : une copie du code est exécutée
+    parallélement sur différentes instances, appelées images. Il est ensuite possible
+    de transmettre des données d'une image à l'autre si la donnée est déclarée avec
+    l'attribut dédié : <i>codimension</i>. N'importe quel type possédant l'attribut <i>codimension</i>
+    devient un coarray (pour collective array), c'est à dire un tableau dont chaque
+    cellule est attribué à une image, et accessible aux autres images.
+
+    La norme 2018 enrichit les possibilités avec de nouvelles fonctions intrinsèques
+    implémentant les communications collectives classiques (<i>broadcast</i> et <i>reduce</i>),  
+    des fonctions atomiques (garanties exécutées une image à la fois) ainsi que la
+    gestion de sous groupes d'exécutions, appelées teams (équivalent des communicateurs
+    MPI). Des ajouts mineurs de la prochaines norme 202X promettent de combler les
+    quelques lacunes restantes du modèle parallèle fournit par le fortran moderne.
+</p>
+
+<p>
+    La présentation aura lieu dans la salle la salle bleue du bat 200 de
+    <a href="https://www.ijclab.in2p3.fr/ijclab/informations-pratiques/">l'IJCLab</a>.
+</p>
+
+<p>
+    Liens:
+    
+    <ul>
+        <li><a href="https://www.ijclab.in2p3.fr/ijclab/informations-pratiques/">Laboratoire Irène Joliot-Curie</a></li>
+        <li><a href="https://bbb.inria.fr/rou-yjh-0as-3fw">Visio</a></li>
+    </ul>
+    
+</p>
