@@ -16,7 +16,7 @@ ENV LC_ALL=en_US.UTF-8
 
 # l'installation de Jekyll passe maintenant
 # par bundler
-RUN gem install bundler
+RUN gem install bundler -v 2.3.26
 COPY Gemfile .
 #COPY Gemfile.lock .
 RUN bundle install
