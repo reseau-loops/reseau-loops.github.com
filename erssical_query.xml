@@ -1,15 +1,17 @@
 <?xml version="1.0"?>
 <query type="application/rss+xml">
   <sources>
-    <source href="http://developr6.dr6.cnrs.fr/feed.php"/>
-    <source href="https://www.min2rien.fr/feed/"/>
-    <source href="http://www.compil.org/feed.php"/>
+<!--<source href="https://www.min2rien.fr/feed/"/>-->
+    <source href="https://www.compil.org/feed.php"/>
     <source href="https://reseau-loops.github.io/feed.xml"/>
-    <source href="http://devlog.cnrs.fr/feed.php"/>
-    <source href="http://cepage.aquitaine.cnrs.fr/feed.php?mode=list&amp;type=rss&amp;linkto=page&amp;ns=actualites"/>
+<!--<source href="http://devlog.cnrs.fr/feed.php"/>-->
+    <source href="https://cepage.aquitaine.cnrs.fr/category/actualites/feed/"/>
     <source href="https://listes.services.cnrs.fr/wws/rss/latest_arc/normandev?count=5"/>
-    <!--<source href="http://aramis.resinfo.org/wiki/feed.php"/>-->
-    <source href="http://www.devatlr.univ-montp2.fr/spip.php?page=backend"/>
+    <source href="https://xstra.unistra.fr/feed.php"/>
+    <source href="https://cargo.resinfo.org/spip.php?page=backend"/>
+<!--<source href="http://aramis.resinfo.org/wiki/feed.php"/>-->
+    <source href="https://code-azur.cnrs.fr/feed/"/>
+<!--<source href="https://www.devatlr.univ-montp2.fr/spip.php?page=backend"/>-->
   </sources>
   <target>
     <title>Actualités Devlog</title>
