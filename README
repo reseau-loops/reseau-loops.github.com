@@ -1,0 +1,23 @@
+# Dépendances
+
+Les dépendances sont :
+- [jekyll](https://github.com/jekyll/jekyll)
+- [node-less](https://lesscss.org/)
+- [bundle](https://bundler.io/)
+
+## Sur Debian
+
+D'abord installer les dépendances via apt :
+
+    apt install jekyll node-less bundle
+
+Ensuite, après avoir cloné, dans le dossier du projet :
+
+    bundle install
+
+
+(Si vous utiliez `bundle config set --local`, ne les mettez pas dans le dossier du clone, les exemples de jekyll seraient trouvés et géèreraient des erreurs.)
+
+Finalement pour créer le site via le Makefile :
+
+    bundle exec make
