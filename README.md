@@ -1,0 +1,64 @@
+---
+layout: default
+no_sidebar: true
+no_comments: true
+navbar-home: active
+title: Bienvenue sur le site de LoOPS
+---
+
+Nouveau site depuis l'automne 2026 : https://reseau-loops.codeberg.page/reseau-loops-website/
+
+<div class="row">
+
+<div class="span8">
+<p>
+LoOPS est le réseau des développeurs de logiciels scientifiques
+dans les établissements d'Enseignement Supérieur et de Recherche
+au sud-ouest de Paris. Les développeurs d'autres établissement peuvent bien sûr
+nous rejoindre et participer. N'hésitez pas à lire la
+<a href="about.html">présentation du réseau</a>.
+</p>
+</div>
+
+<div class="span4">
+<img src="logo.svg" width="140"/>
+</div>
+
+</div>
+
+<p></p>
+
+<div id="devlog-news">
+
+<div class="box-title">
+Nouvelles des réseaux
+<a href="https://erssical.good-eris.net/?query-url=https://reseau-loops.github.io/erssical_query.xml">
+&nbsp;<img width="20px" src="rss.png"/>
+</a>
+</div>
+
+<div id="devlog-feeds">
+<script src="{{ site.url }}/fetch_devlog_feeds.js" type="text/javascript"> </script>
+</div>
+
+</div>
+
+<div><span class="alert alert-info">
+  <a href="https://www.canal-u.tv/producteurs/loops/">Visionnez nos dernières vidéos</a>
+</div>
+  
+<div><br/><br/><span class="alert alert-info">
+  <a href="https://groupes.renater.fr/sympa/info/loops/">Abonnez-vous à la liste électronique</a>
+  &nbsp;<i class="icon-envelope"></i>
+</div>
+    
+<div><br/><br/><span class="alert alert-info">
+  <a href="contribute.html">Ajoutez une annonce ci-dessous</a>
+</div>
+
+<br/>
+
+{% assign posts = site.posts | where: "layout", "post"%}
+{% assign listing_limit = 5 %}
+{% include post-listing.html %}
+
